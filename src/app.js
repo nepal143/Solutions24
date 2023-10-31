@@ -35,6 +35,8 @@ const Codered = require("./models/codered");
 const ProjectJupitor = require("./models/projectJupitor");
 const Flash500 = require("./models/flash500");
 const Imaginate = require("./models/imaginate");
+const Arcade = require("./models/arcade")
+const ClashRoyal = require("./models/clashroyals")
 
 // Coding events  
 app.use(express.json()); 
@@ -179,6 +181,71 @@ app.post('/imaginate', async (req, res) => {
       res.status(500).send('Error: Registration failed');
   }  
 });
+
+
+
+
+// Get method to render the registration form
+app.get('/arcade', (req, res) => {
+  res.render('arcade'); // Render the HTML form
+});
+
+// Post method to handle form submission
+app.post('/arcade', async (req, res) => {
+  const registrationData = req.body;
+  const newRegistration = new Arcade(registrationData);
+
+  // Validate the data
+  const validationError = newRegistration.validateSync();
+
+  if (validationError) {
+      // Validation failed, render the form again with error messages
+      return res.render('arcade', { error: validationError.errors, formData: registrationData });
+  }
+
+  try {
+      await newRegistration.save();
+      res.send('Registration successful');
+  } catch (err) {
+      console.error(err);
+      res.status(500).send('Error: Registration failed');
+  }
+});
+
+
+
+//  Gaming Events 
+
+
+
+
+// Get method to render the registration form
+app.get('/clashroyals', (req, res) => {
+  res.render('clashroyals'); // Render the HTML form
+});
+
+// Post method to handle form submission
+app.post('/clashroyals', async (req, res) => {
+  const registrationData = req.body;
+  const newRegistration = new ClashRoyal(registrationData);
+
+  // Validate the data
+  const validationError = newRegistration.validateSync(); 
+
+  if (validationError) {
+      // Validation failed, render the form again with error messages
+      return res.render('clashroyals', { error: validationError.errors, formData: registrationData });
+  }
+
+  try {
+      await newRegistration.save();
+      res.send('Registration successful');
+  } catch (err) {
+      console.error(err);
+      res.status(500).send('Error: Registration failed');
+  }
+});
+
 
 
  
