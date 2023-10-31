@@ -35,8 +35,15 @@ const Codered = require("./models/codered");
 const ProjectJupitor = require("./models/projectJupitor");
 const Flash500 = require("./models/flash500");
 const Imaginate = require("./models/imaginate");
-const Arcade = require("./models/arcade")
-const ClashRoyal = require("./models/clashroyals")
+const Arcade = require("./models/arcade");
+const ClashRoyal = require("./models/clashroyals");
+const BGMI = require("./models/bgmi");
+const PlacementApti = require("./models/placementApti")
+const TechStorm = require("./models/techstorm")
+const IdeaPresentation = require("./models/ideaPresentation");
+const Photography = require("./models/photography");
+const MovieMaking = require("./models/movieMaking");
+const SchoolModelMaking = require("./models/schoolModelMaking")
 
 // Coding events  
 app.use(express.json()); 
@@ -248,7 +255,217 @@ app.post('/clashroyals', async (req, res) => {
 
 
 
- 
+// Get method to render the registration form
+app.get('/bgmi', (req, res) => {
+  res.render('bgmi'); // Render the HTML form
+});
+
+// Post method to handle form submission
+app.post('/bgmi', async (req, res) => {
+  const registrationData = req.body;
+  const newRegistration = new BGMI(registrationData);
+
+  // Validate the data
+  const validationError = newRegistration.validateSync();
+
+  if (validationError) {
+      // Validation failed, render the form again with error messages
+      return res.render('bgmi', { error: validationError.errors, formData: registrationData });
+  }
+
+  try {
+      await newRegistration.save();
+      res.send('Registration successful');
+  } catch (err) {
+      console.error(err);
+      res.status(500).send('Error: Registration failed');
+  }
+});
+
+// Get method to render the registration form
+app.get('/placement-apti', (req, res) => {
+  res.render('placementApti'); // Render the HTML form
+});
+
+// Post method to handle form submission
+app.post('/placement-apti', async (req, res) => {
+  const registrationData = req.body;
+  const newRegistration = new PlacementApti(registrationData);
+
+  // Validate the data 
+  const validationError = newRegistration.validateSync();
+
+  if (validationError) {
+      // Validation failed, render the form again with error messages
+      return res.render('placementApti', { error: validationError.errors, formData: registrationData });
+  }
+
+  try {
+      await newRegistration.save();
+      res.send('Registration successful');
+  } catch (err) {
+      console.error(err);
+      res.status(500).send('Error: Registration failed');
+  }
+});
+
+
+
+// Get method to render the registration form
+app.get('/tech-storm', (req, res) => {
+  res.render('techstorm'); // Render the HTML form
+});
+
+// Post method to handle form submission
+app.post('/tech-storm', async (req, res) => {
+  const registrationData = req.body;
+  const newRegistration = new TechStorm(registrationData);
+
+  // Validate the data
+  const validationError = newRegistration.validateSync();
+
+  if (validationError) {
+      // Validation failed, render the form again with error messages
+      return res.render('techstorm', { error: validationError.errors, formData: registrationData });
+  }
+
+  try {
+      await newRegistration.save();
+      res.send('Registration successful');
+  } catch (err) {
+      console.error(err);
+      res.status(500).send('Error: Registration failed');
+  }
+});
+
+
+
+
+
+
+// Get method to render the registration form
+app.get('/idea-presentation', (req, res) => {
+  res.render('ideapresentation'); // Render the HTML form
+});
+
+// Post method to handle form submission
+app.post('/idea-presentation', async (req, res) => {
+  const registrationData = req.body;
+  const newRegistration = new IdeaPresentation(registrationData);
+
+  // Validate the data
+  const validationError = newRegistration.validateSync();
+
+  if (validationError) {
+      // Validation failed, render the form again with error messages
+      return res.render('ideapresentation', { error: validationError.errors, formData: registrationData });
+  }
+
+  try {
+      await newRegistration.save();
+      res.send('Registration successful');
+  } catch (err) {
+      console.error(err);
+      res.status(500).send('Error: Registration failed');
+  }
+});
+
+
+
+
+// Get method to render the registration form
+app.get('/photography', (req, res) => {
+  res.render('photography'); // Render the HTML form
+});
+
+// Post method to handle form submission
+app.post('/photography', async (req, res) => {
+  const registrationData = req.body;
+  const newRegistration = new Photography(registrationData);
+
+  // Validate the data
+  const validationError = newRegistration.validateSync();
+
+  if (validationError) {
+      // Validation failed, render the form again with error messages
+      return res.render('photography', { error: validationError.errors, formData: registrationData });
+  }
+
+  try {
+      await newRegistration.save();
+      res.send('Registration successful');
+  } catch (err) {
+      console.error(err);
+      res.status(500).send('Error: Registration failed');
+  }
+});
+
+
+
+
+
+// Get method to render the registration form
+app.get('/movie-making', (req, res) => {
+  res.render('moviemaking'); // Render the HTML form
+});
+
+// Post method to handle form submission
+app.post('/movie-making', async (req, res) => {
+  const registrationData = req.body;
+  const newRegistration = new MovieMaking(registrationData);
+
+  // Validate the data
+  const validationError = newRegistration.validateSync();
+
+  if (validationError) {
+      // Validation failed, render the form again with error messages
+      return res.render('moviemaking', { error: validationError.errors, formData: registrationData });
+  }
+
+  try {
+      await newRegistration.save();
+      res.send('Registration successful');
+  } catch (err) {
+      console.error(err);
+      res.status(500).send('Error: Registration failed');
+  }
+});
+
+
+
+
+// Get method to render the registration form
+app.get('/school-model-making', (req, res) => {
+  res.render('schoolmodelmaking'); // Render the HTML form
+});
+
+// Post method to handle form submission
+app.post('/school-model-making', async (req, res) => {
+  const registrationData = req.body;
+  const newRegistration = new SchoolModelMaking(registrationData);
+
+  // Validate the data
+  const validationError = newRegistration.validateSync();
+
+  if (validationError) {
+      // Validation failed, render the form again with error messages
+      return res.render('schoolmodelmaking', { error: validationError.errors, formData: registrationData });
+  }
+
+  try {
+      await newRegistration.save();
+      res.send('Registration successful');
+  } catch (err) {
+      console.error(err);
+      res.status(500).send('Error: Registration failed');
+  }
+});
+
+
+
+
+
+
 
 app.listen(port, () => {
     console.log(`The server is running on port ${port}`);
