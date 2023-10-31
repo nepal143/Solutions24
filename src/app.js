@@ -15,35 +15,50 @@ app.use(express.static(path.join(__dirname, "/../public")));
 // db connection 
 
 const { MongoClient, ServerApiVersion } = require('mongodb');
+
 const uri = "mongodb+srv://nepalsss008:fOFqQmSY4kXrwBDC@cluster0.ifwhhah.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp";
 
-// Create a MongoClient with a MongoClientOptions object to set the Stable API version
-const client = new MongoClient(uri, {
-  serverApi: {
-    version: ServerApiVersion.v1,
-    strict: true,
-    deprecationErrors: true,
-  }
-}); 
-
-async function run() {
-  try {
-    // Connect the client to the server	(optional starting in v4.7)
-    await client.connect();
-    // Send a ping to confirm a successful connection
-    await client.db("admin").command({ ping: 1 });
-    console.log("Pinged your deployment. You successfully connected to MongoDB!");
-  } finally {
-    // Ensures that the client will close when you finish/error
-    await client.close();
-  }
+async function connection(){
+  await mongoose.connect(uri);
+  console.log("connected sucessfully ") ;
 }
-run().catch(console.dir);
+
+try{
+  connection() ;
+} catch (error) { 
+  console.log(error)
+}
+
+const shecode = require("./models/shecode")
+app.use(express.json()); 
+app.use(express.urlencoded({ extended: true })); 
 
 
 app.get("/", (req, res) => {
     res.render("index.hbs");
 });
+
+app.get("/shecode" ,(req,res) =>{
+  res.render("shecode");
+}) 
+app.post('/shecode', async (req, res) => {
+  const registrationData = req.body;
+  console.log(req.body);
+  try {
+    const { name } = req.body;
+    const user = await shecode.create(registrationData);
+    console.log(name)
+    console.log("passed");
+    res.json({ status: "ok" });
+  } catch (err) {
+    console.error(err);
+    res.status(500).send('Error: Registration failed');
+  }
+});
+
+
+
+ 
 
 app.listen(port, () => {
     console.log(`The server is running on port ${port}`);
