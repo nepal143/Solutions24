@@ -78,7 +78,7 @@ body {
 /* .nav_btn_img_middle {
   transform: scale(1.2);
 } */
-.solution-name{
+.solution-name {
   margin: auto 3vw;
 }
 .solutions-logo {
@@ -86,7 +86,7 @@ body {
   margin-left: 2vw;
   height: 2.5vw;
 }
-.event-team{
+.event-team {
   height: 2.4vw;
 }
 
@@ -229,8 +229,7 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
 }
-.hero-left-lines{
-
+.hero-left-lines {
 }
 @media (max-width: 700px) {
   .hero_zigzag::before {
@@ -507,10 +506,10 @@ body {
 }
 
 .footer a {
-  color: #66d6b4;
+  color:#5CA7CC ;
   font-size: 1.8rem;
   font-weight: 400;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .follow-us-on-items {
@@ -532,7 +531,7 @@ body {
   /* top: 1vw; */
   content: "";
   height: 1500px;
-  width : 1500px;
+  width: 1500px;
   /* background-image: url(images/spiral.svg); */
   background-size: cover;
   background-repeat: no-repeat;
