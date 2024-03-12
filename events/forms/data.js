@@ -2,7 +2,7 @@ export var google_form_links = [
   // coding category id=0
   [
     [
-      '<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVWS_qnOM2WWU-n76Fa2-dS-2zm3YVAmSgQjYdud_FEezcwQ/viewform?embedded=true" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
+      '<iframe src="https://forms.gle/9gMrNNkkgFtRHFnVA" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
     [
       '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSf9YQ9vHaGCKWdI43oiAXewIivOEKEO9dLhE9SXZjoGi-Nj2Q/viewform?embedded=true" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
