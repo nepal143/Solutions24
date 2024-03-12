@@ -5,8 +5,8 @@ const events = [
     {
       id: 0,
       title: "SHORTEST CODE",
-      date: "22 APRIL 2023",
-      time: "1:30PM to 3:30PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -22,8 +22,8 @@ const events = [
     {
       id: 1,
       title: "SHE CODE",
-      date: "21 APRIL 2023",
-      time: "6:30PM to 8:00PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -39,8 +39,8 @@ const events = [
     {
       id: 2,
       title: "ByPass CTF",
-      date: "22 APRIL 2023",
-      time: "Begins-9:00AM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 30000/-",
       firstposition: "INR 15000/-",
       secondposition: "INR 10000/-",
@@ -55,8 +55,8 @@ const events = [
     // {
     //   id: 2,
     //   title: "CODE RED",
-    //   date: "21 APRIL 2023",
-    //   time: "21 APRIL 2023",
+    // date: "Revealed Soon",
+    // time: "Revealed Soon",
     //   prizeWorth: "INR XXXX/-",
     //   firstposition: "INR XXXX",
     //   secondposition: "INR XXXX",
@@ -76,8 +76,8 @@ const events = [
     {
       id: 0,
       title: "MAZE RUNNER",
-      date: "21 APRIL 2023",
-      time: "Begins-9:00AM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
@@ -93,8 +93,8 @@ const events = [
     {
       id: 1,
       title: "ROBO-CLENCH",
-      date: "21 APRIL 2023",
-      time: "Begins-2:00PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -110,8 +110,8 @@ const events = [
     {
       id: 2,
       title: "ROBO SOCCER",
-      date: "22 APRIL 2023",
-      time: "Begins-9:00AM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -127,8 +127,8 @@ const events = [
     {
       id: 3,
       title: "RUSTY WHEELS",
-      date: "23 APRIL 2023",
-      time: "Begins-9:00AM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 50000/-",
       firstposition: "INR 30000/-",
       secondposition: "INR 20000/-",
@@ -144,8 +144,8 @@ const events = [
     {
       id: 4,
       title: "DRONE DRAG",
-      date: "22 APRIL 2023",
-      time: "Begins-2:00PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -165,8 +165,8 @@ const events = [
     {
       id: 0,
       title: "PLACEMENT APTI",
-      date: "21 APRIL 2023",
-      time: "4:30PM to 5:00PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -182,8 +182,8 @@ const events = [
     {
       id: 1,
       title: "TECH STORM",
-      date: "21 APRIL 2023",
-      time: "3:30PM to 4:00PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -199,8 +199,8 @@ const events = [
     {
       id: 2,
       title: "IDEA PRESENTATION",
-      date: "21 APRIL 2023",
-      time: "Deadline-11:50PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
@@ -216,8 +216,8 @@ const events = [
     {
       id: 3,
       title: "PHOTOGRAPHY",
-      date: "22 APRIL 2023",
-      time: "Deadline-11:50PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
@@ -233,8 +233,8 @@ const events = [
     {
       id: 4,
       title: "MOVIE MAKING",
-      date: "22 APRIL 2023",
-      time: "Deadline-11:50PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -250,8 +250,8 @@ const events = [
     {
       id: 5,
       title: "SCHOOL MODEL MAKING",
-      date: "23 APRIL 2023",
-      time: "8:00AM to 12:30PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
@@ -267,8 +267,8 @@ const events = [
     {
       id: 6,
       title: "HOW UNICORN",
-      date: "23 APRIL 2023",
-      time: "Begins-3:00PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7500/-",
       secondposition: "INR 5000/-",
@@ -284,8 +284,8 @@ const events = [
     {
       id: 7,
       title: "SOLID WORKS",
-      date: "21 APRIL 2023",
-      time: "10:30AM to 1:00PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
@@ -305,8 +305,8 @@ const events = [
     {
       id: 0,
       title: "PROJECT JUPYTER",
-      date: "21 APRIL 2023",
-      time: "Begins-11:00AM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 25000/-",
       firstposition: "INR 12000/-",
       secondposition: "INR 8000/-",
@@ -322,8 +322,8 @@ const events = [
     {
       id: 1,
       title: "FLASH 500",
-      date: "22 APRIL 2023",
-      time: "Deadline-11:50PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -343,8 +343,8 @@ const events = [
     {
       id: 0,
       title: "IMAGINATE",
-      date: "21 APRIL 2023",
-      time: "Deadline-11:50PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -360,8 +360,8 @@ const events = [
     {
       id: 1,
       title: "AR-CADE",
-      date: "22 APRIL 2023",
-      time: "6:30PM to 8:00PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -381,8 +381,8 @@ const events = [
     {
       id: 0,
       title: "VALORANT",
-      date: "21/04/2023 to 23/04/2023",
-      time: "Daily 9:00AM to 9:00PM",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       prizeWorth: "INR 20000/-",
       firstposition: "INR 9000/-",
       secondposition: "INR 6500/-",
@@ -397,8 +397,8 @@ const events = [
     // CLASH ROYAL
     {
       id: 1,
-      title: "CLASH ROYAL",
-      date: "22 APRIL 2023",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
       time: "10:00AM to 11:00PM",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
@@ -416,7 +416,7 @@ const events = [
 //------NO change under this
 const event_links = [
   // coding category id=0
-  [["SHORTEST CODE"], ["SHE CODE"], ["ByPASS CTF"]],
+  [["SHORTEST CODE"], ["SHE CODE"], ["CSS BATTLE"]],
 
   // robotics category id=1
   [
@@ -446,7 +446,7 @@ const event_links = [
   [["IMAGINATE"], ["AR-CADE"]],
 
   // gaming category id=5
-  [["VALORANT"], ["CLASH ROYALE"]],
+  [["VALORANT"], ["BGMI"]],
 ];
 
 export { events, event_links };
