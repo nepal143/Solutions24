@@ -233,6 +233,31 @@ body {
 }
 .hero-left-lines {
 }
+
+.scroll {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(31, 43, 42, 0.51);
+  /* width: 24px */
+  margin-top: -90px;
+}
+
+.scroll img {
+  /* position: absolute; */
+  top: 0;
+  animation: scrollUpDown 1s infinite alternate; /* Change the animation duration as needed */
+}
+
+@keyframes scrollUpDown {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+
 @media (max-width: 700px) {
   .hero_zigzag::before {
     height: 30px;
