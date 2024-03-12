@@ -21,6 +21,8 @@ html {
 
 body {
   position: relative;
+  width: 100vw;
+  overflow-x: hidden;
   background-color: #000;
   color: #fff;
   /* font-size: 2.2rem; */
