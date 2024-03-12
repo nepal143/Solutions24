@@ -86,7 +86,7 @@ body {
   margin-left: 2vw;
   height: 2.5vw;
 }
-.event-team {
+.event-team{
   height: 2.4vw;
 }
 
@@ -507,10 +507,10 @@ body {
 }
 
 .footer a {
-  color: #5ca7cc;
+  color: #66d6b4;
   font-size: 1.8rem;
   font-weight: 400;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .follow-us-on-items {
@@ -523,7 +523,6 @@ body {
 
 .follow-us-on-items img {
   height: 4rem;
-  /* color: #5ca7cc; */
 }
 
 /* ------------absolutes---------- */
@@ -535,7 +534,6 @@ body {
   height: 1500px;
   width : 1500px;
   /* background-image: url(images/spiral.svg); */
-
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
