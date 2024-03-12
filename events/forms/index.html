@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Solutions 23</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Rubik:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="forms.css" />
+    <link rel="icon" href="images/solutions-icon.svg" />
+    <link rel="apple-touch-icon" href="images/solutions-icon.svg" />
+    <link rel="manifest" href="manifest.webmanifest" />
+  </head>
+
+  <body>
+    <!--------- navbar -------->
+    <nav class="navbar">
+      <img
+        src="images/solutions-logo.png"
+        alt="Solutions logo"
+        class="solutions-logo"
+        onclick="window.location='../../index.html#home'"
+      />
+
+      <div class="main-navbar">
+        <a href="../../index.html#home"
+          ><img class="nav_btn_img" src="images/home-icon.svg" alt="home-icon"
+        /></a>
+        <a href="../../events/index.html?eventcat=0"
+          ><img
+            class="nav_btn_img nav_btn_img_middle"
+            src="images/events-icon.svg"
+            alt="events-icon"
+        /></a>
+        <a href="../../team/index.html"
+          ><img
+            class="nav_btn_img nav_btn_img_middle"
+            src="images/team-icon.svg"
+            alt="team-icon"
+        /></a>
+        <a href="../../schedule/index.html?index=0"
+          ><img
+            class="nav_btn_img"
+            src="images/schedule-icon.svg"
+            alt="schedule-icon"
+        /></a>
+      </div>
+
+      <div class="hamburger-button" id="hamburger">
+        <div class="sidemenu">
+          <div class="menu">
+            <ul class="contact-us_content list">
+              <li class="contact-us_list-item ham">
+                <a href="../../index.html#home"
+                  ><img
+                    class="nav_btn_img"
+                    src="images/home-icon.svg"
+                    alt="home-icon"
+                /></a>
+              </li>
+              <li class="contact-us_list-item ham">
+                <a href="../../index.html?eventcat=0"
+                  ><img
+                    class="nav_btn_img nav_btn_img_middle"
+                    src="images/events-icon.svg"
+                    alt="events-icon"
+                /></a>
+              </li>
+              <li class="contact-us_list-item ham">
+                <a href="../../team/index.html"
+                  ><img
+                    class="nav_btn_img nav_btn_img_middle"
+                    src="images/team-icon.svg"
+                    alt="team-icon"
+                /></a>
+              </li>
+              <li class="contact-us_list-item ham">
+                <a href="../../schedule/index.html?index=0"
+                  ><img
+                    class="nav_btn_img"
+                    src="images/schedule-icon.svg"
+                    alt="schedule-icon"
+                /></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-----------Nave end-----  -->
+
+    <section class="forms">
+      <div class="waiting" style="display: block">
+        <div class="loader"></div>
+        <div class="loader_content">Loading…</div>
+      </div>
+      <!-- <iframe class="form" src="https://docs.google.com/forms/d/e/1FAIpQLSdmmWs0qrQ1Y6HHGB_MW7Q0WXoqGwlrDUrOphNbgL_UgFdmWg/viewform?embedded=true" width="640" height="6259" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
+    </section>
+  </body>
+  <script src="nav.js"></script>
+  <script type="module" src="script.js"></script>
+</html>
