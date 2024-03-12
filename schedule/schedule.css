@@ -68,10 +68,6 @@ body {
   width: auto;
 }
 
-.nav_btn_img_middle {
-  transform: scale(1.2);
-}
-
 .solutions-logo {
   margin-top: 2vw;
   margin-left: 2vw;
@@ -247,14 +243,14 @@ body {
   justify-content: center;
   width: 20rem;
   height: 16rem;
-  background: linear-gradient(45deg, #16b299 0%, #378aa3 100%);
+  background: linear-gradient(45deg, #65cfb4 0%, #5ca8cb 100%);
   border-radius: 4px;
 }
 
 .event {
   width: 19rem;
   height: 15rem;
-  background: linear-gradient(45deg, #17272f 0%, #20363b 100%);
+  background: linear-gradient(45deg, #345768 0%, #254a52 100%);
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -262,6 +258,7 @@ body {
   align-items: center;
   gap: 0.1rem;
   border-radius: 3px;
+  box-shadow: #5ca8cb;
 }
 
 .event_name {
