@@ -26,6 +26,10 @@ body {
   /* font-size: 2.2rem; */
   font-family: sans-serif;
   transition: all 0.3s;
+  background-image: url("images/spiral.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* background-position: center; */
 }
 
 /* --navbar--- */
@@ -74,13 +78,15 @@ body {
 /* .nav_btn_img_middle {
   transform: scale(1.2);
 } */
-
+.solution-name{
+  margin: auto 3vw;
+}
 .solutions-logo {
   margin-top: 2vw;
   margin-left: 2vw;
   height: 2.5vw;
 }
-.event-team {
+.event-team{
   height: 2.4vw;
 }
 
@@ -175,7 +181,7 @@ body {
 }
 
 .container {
-  margin: 0 3vw 0;
+  /* margin: 0 3vw 0; */
   padding: 0 1.2rem 0;
   background-color: rgba(31, 43, 42, 0.51);
   height: 100%;
@@ -223,6 +229,9 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
 }
+.hero-left-lines{
+
+}
 @media (max-width: 700px) {
   .hero_zigzag::before {
     height: 30px;
@@ -238,7 +247,7 @@ body {
   }
 }
 .hero-section img {
-  max-width: 60%;
+  max-width: 100vw;
 }
 
 .ait-name {
@@ -498,10 +507,10 @@ body {
 }
 
 .footer a {
-  color: #5ca7cc;
+  color: #66d6b4;
   font-size: 1.8rem;
   font-weight: 400;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .follow-us-on-items {
@@ -514,7 +523,6 @@ body {
 
 .follow-us-on-items img {
   height: 4rem;
-  /* color: #5ca7cc; */
 }
 
 /* ------------absolutes---------- */
@@ -524,8 +532,8 @@ body {
   /* top: 1vw; */
   content: "";
   height: 1500px;
-  width: 1500px;
-  background-image: url(images/spiral.svg);
+  width : 1500px;
+  /* background-image: url(images/spiral.svg); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
