@@ -1,6 +1,6 @@
 const events = [
   // coding category id=0
-  [["SHORTEST<br>CODE"], ["SHE CODE"], ["ByPASS CTF"]],
+  [["SHORTEST<br>CODE"], ["SHE CODE"], ["CSS BATTLE"]],
 
   // robotics category id=1
   [

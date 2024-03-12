@@ -5,9 +5,9 @@ export var google_form_links = [
       '<iframe src="https://forms.gle/9gMrNNkkgFtRHFnVA" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
     [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSf9YQ9vHaGCKWdI43oiAXewIivOEKEO9dLhE9SXZjoGi-Nj2Q/viewform?embedded=true" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
+      '<iframe class="form" style="display:none" src="https://forms.gle/YzpLX6mHRusFAz727" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
-    ["https://isdf.tech"],
+    ['<iframe class="form" style="display:none" src="https://forms.gle/nGivg9f7chDToNCA8" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>'],
   ],
 
   // robotics category id=1
