@@ -3,6 +3,10 @@
   src: url(/font/strasua-webfont.woff2) format("woff2"),
     url(/font/strasua-webfont.woff) format("woff");
 }
+@font-face {
+  font-family: "aAtmospheric";
+  src: url(/font/aAtmospheric.otf);
+}
 * {
   padding: 0;
   margin: 0;
@@ -285,7 +289,7 @@ body {
   gap: 2rem;
   font-size: 2.5rem;
   margin-bottom: 15px;
-  font-family: "Roboto", sans-serif;
+  font-family: "aAtmospheric";
   color: #aeaeae;
 }
 
