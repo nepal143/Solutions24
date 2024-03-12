@@ -7,7 +7,9 @@ export var google_form_links = [
     [
       '<iframe class="form" style="display:none" src="https://forms.gle/YzpLX6mHRusFAz727" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
-    ['<iframe class="form" style="display:none" src="https://forms.gle/nGivg9f7chDToNCA8" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>'],
+    [
+      '<iframe class="form" style="display:none" src="https://forms.gle/nGivg9f7chDToNCA8" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
+    ],
   ],
 
   // robotics category id=1
@@ -27,7 +29,7 @@ export var google_form_links = [
       "https://unstop.com/p/tech-storm-army-institute-of-technology-ait-pune-664233",
     ],
     [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSdhmqsG6BbLu2h9mTsQpEwEmGs_1Bf-esSdLQkFr6tRk8BEoQ/viewform?embedded=true" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>'
+      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSdhmqsG6BbLu2h9mTsQpEwEmGs_1Bf-esSdLQkFr6tRk8BEoQ/viewform?embedded=true" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
     ["https://forms.gle/RPb1fBWeLUhQFJ2A9"],
     ["https://forms.gle/RPb1fBWeLUhQFJ2A9"],
@@ -39,9 +41,9 @@ export var google_form_links = [
   ],
   // machine learning category id=3
   [
-    ["https://www.kaggle.com/competitions/aitxdil-project-jupyter/overview"],
+    ["https://forms.gle/f2pSkBMck8yA2sLF9"],
     [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSePvxmgdaWwBAyBHniRFg7kYS3ZGYFPfc0uFgx6ES5DYrwm3w/viewform?embedded=true" width="640" height="1096" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
+      'https://forms.gle/jzkxXxRosgfcQ4FC7',
     ],
   ],
 
@@ -60,8 +62,6 @@ export var google_form_links = [
     [
       '<iframe class="form" style="display:none" src="https://forms.gle/V1V8vTkBrUtQUFt98" width="640" height="2674" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
-    [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSdntETk4WnNC_kFaLjaDOV7FSKvBBdh-iAL31MYtP0_iAoP7g/viewform?embedded=true" width="640" height="1036" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
+    [" https://forms.gle/V1V8vTkBrUtQUFt98"],
   ],
 ];

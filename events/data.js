@@ -30,7 +30,7 @@ const events = [
   [["IMAGINATE"], ["AR-CADE"]],
 
   // gaming category id=5
-  [["VALORANT"], ["CLASH ROYALE"]],
+  [["VALORANT"], ["BGMI"]],
 ];
 
 const category_img = [
