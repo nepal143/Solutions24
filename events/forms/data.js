@@ -22,30 +22,20 @@ export var google_form_links = [
 
   // open category id=2
   [
-    [
-      "https://unstop.com/quiz/placement-apti-army-institute-of-technology-ait-pune-664140",
-    ],
+    ["https://forms.gle/X6UhJ4bTcsMGarVh7"],
     [
       "https://unstop.com/p/tech-storm-army-institute-of-technology-ait-pune-664233",
     ],
     [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSdhmqsG6BbLu2h9mTsQpEwEmGs_1Bf-esSdLQkFr6tRk8BEoQ/viewform?embedded=true" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
+      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSdhmqsG6BbLu2h9mTsQpEwEmGs_1Bf-esSdLQkFr6tRk8BEoQ/viewform?embedded=true" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>'
     ],
-    [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSeme6-ekzVPkPeIL2s5QbdjgOh0dVZOUjX2BvVnm-i6HVIF7w/viewform?embedded=true" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
-    [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSd_34LKqUbYjrvm-pcqNPbITI5gYVVaxG-hKO8yByaM2bpBQg/viewform?embedded=true" width="640" height="1842" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
-    [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSf-tWu0qwEjSO96SwpWoMu7IYGDnxK9P3AjlqekMqRnF4eIrQ/viewform?embedded=true" width="640" height="975" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
+    ["https://forms.gle/RPb1fBWeLUhQFJ2A9"],
+    ["https://forms.gle/RPb1fBWeLUhQFJ2A9"],
+    ["https://forms.gle/UYU8zCg1jLb85h3C9"],
     [
       '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLScPlq1fvN8m8lmyC0E2fO2iRo2IYolQj5TIhmEG_9TJIR9mQw/viewform?embedded=true" width="640" height="2170" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
-    [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSd5Ybd2L9tlsQ-jN7OlIgBNkJGTkYrEUTQl4tFeEEf11-7MSw/viewform?embedded=true" width="640" height="1096" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
+    ["https://forms.gle/GMwYGUjQV78ieUyK9"],
   ],
   // machine learning category id=3
   [
