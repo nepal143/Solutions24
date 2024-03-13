@@ -90,7 +90,7 @@ body {
 .coading_img img {
   margin-top: 10rem;
   margin-left: 10vw;
-  height: 15rem;
+  height: 10rem;
 }
 
 .coading_events_grid {
@@ -112,19 +112,19 @@ body {
   width: 22rem;
   background: linear-gradient(
     91.01deg,
-    #1a232d81 0.87%,
+    #3b5261 0.87%,
     rgba(95, 177, 199, 0.3) 54.47%
   );
   backdrop-filter: blur(10px);
   transition: all 0.1s ease-in-out;
-  border: 5px solid #203954 ;
+  border: 5px solid #3a6695 ;
 }
 
 .coading_event:hover,
 .coading_event:active {
   /* box-sizing: content-box; */
-  border: 5px solid #203954;
-  outline: 5px solid #203954;
+  border: 5px solid #9DB2BF;
+  outline: 5px solid #9DB2BF;
   cursor: pointer;
 }
 

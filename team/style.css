@@ -259,26 +259,30 @@ body {
 .our_team_headding {
   align-items: center;
   text-align: center;
-  padding-top: 15rem;
+  display: flex;
+  justify-content: center;
+  padding-top: 15rem ;
 }
 
+
 .our_team_headding img {
-  height: 4rem;
+  /* height: 4rem; */
   transform: translateY(20%);
 }
 
 .our_team_headding span {
   font-size: 4rem;
-  margin-right: 2rem;
+  margin: auto 2rem;
   font-family: "strasu", "Poppins", sans-serif;
   font-weight: 200;
+  text-wrap: nowrap;
 }
 
 .line {
   margin-top: 3rem;
   margin-left: 10%;
   margin-right: 10%;
-  background-color: #b1ffe7;
+  background-color: #135782;
   height: 2px;
 }
 
@@ -286,7 +290,7 @@ body {
   display: flex;
   height: 335px;
   width: 280px;
-  background: linear-gradient(180deg, #15252d 0%, #20363a 100%);
+  background: linear-gradient(180deg, #15252d 0%, #163041 100%);
   box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.25);
   border-radius: 22px;
 }
