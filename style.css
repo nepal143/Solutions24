@@ -256,8 +256,6 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
 }
-.hero-left-lines {
-}
 
 .scroll {
   display: flex;
@@ -334,10 +332,6 @@ body {
 #t_b {
   font-weight: 500;
   letter-spacing: 0.1em;
-}
-
-.about {
-  /* background: rgba(29, 67, 61, 0.3); */
 }
 
 .about_container {
