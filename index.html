@@ -104,11 +104,11 @@
     <!-- <div id="particles-js"></div> -->
     <section class="header">
       <div class="container container-hero">
-        <div class="ait-name" style="color: white;">
-          <p><span style="color: #9DB2BF;">AIT</span> TECHNICAL BOARD</p>
-          <p id="t_b"><span style="color: #9DB2BF;">PRESENTS</span></p>
+        <div class="ait-name" style="color: white">
+          <p><span style="color: #9db2bf">AIT</span> TECHNICAL BOARD</p>
+          <p id="t_b"><span style="color: #9db2bf">PRESENTS</span></p>
         </div>
-        <div class="hero-section" >
+        <div class="hero-section">
           <div class="hero-left-lines">
             <img width="auto" src="images/zig_zag.svg" alt="" />
           </div>
@@ -126,6 +126,7 @@
           <p><span style="color: #9DB2BF;">2K</span>24</p>
           <p id="t_b" class="date-home"><img class="rect" style="width: auto;" src="images/date-rectangle.png" alt=""><span style="color: #ffffff; font-size: 1.2em;">
              4-8 APRIL <b style="color: #9DB2BF;">20</b>24</span> <img class="rect" style="width: auto;" src="images/date-rectangle.png" alt=""></p>
+
         </div>
         <div class="scroll">
           <a href="#about_us"
@@ -133,7 +134,6 @@
           /></a>
         </div>
       </div>
-
     </section>
     <!-- --------ABOUT US and VIDEO-------- -->
     <section class="about" id="about_us">
@@ -237,7 +237,7 @@
             onclick="window.location='./events/index.html?eventcat=5'"
           />
         </div>
-        
+
         <!-- ------------- -->
         <!-- highlights -->
         <!-- <div class="chu">
@@ -375,6 +375,13 @@
     </div>
     <script src="particles.js"></script>
     <script src="app.js"></script>
+    <script src="vanilla-tilt.min.js"></script>
+    <script>
+      VanillaTilt.init(document.querySelector(".discord-img"), {
+        max: 25,
+        speed: 400,
+      });
+    </script>
   </body>
   <script src="nav.js"></script>
 </html>

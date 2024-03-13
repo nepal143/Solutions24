@@ -409,16 +409,17 @@ body {
   justify-content: center;
   padding-left: 25%;
   padding-right: 25%;
+  transform-style: preserve-3d; /* Ensure child elements maintain 3D positioning */
+  transform: perspective(1000px);
 }
 
 .discord-img img {
   max-width: 100%;
-  transition: all 0.3s ease-in-out;
+  /* transition: all 0.3s ease-in-out; */
+ 
 }
-
-.discord-img img:hover {
-  cursor: pointer;
-  scale: 1.01;
+.inner-element{
+  transform: translateZ(20px);
 }
 
 /* -----------Event Grid-------- */
