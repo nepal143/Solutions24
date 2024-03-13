@@ -35,23 +35,6 @@ const events = [
         "<b>GUIDELINES: </b><br>1. The round will be of 1.5 Hours.<br>2. The round will be hosted on HackerRank and all the programs would be run and compiled online.<br>3. Contest link will be provided via E-mail.",
       descriptionDown: "",
     },
-    // ByPass CTF *
-    {
-      id: 2,
-      title: "ByPass CTF",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
-      prizeWorth: "INR 30000/-",
-      firstposition: "INR 15000/-",
-      secondposition: "INR 10000/-",
-      thirdposition: "INR 5000/-",
-      teamsize: " Individual Participation",
-      descriptionUp:
-        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 24 hours, featuring various categories including Web, OSINT, Crypto, and more.",
-      paragraph:
-        "<b>RULES:</b><br>1. This is a Jeopardy Style CTF Competition and you can participate as an individual or team of max size 1.<br>2. Hate speech , racism , and other inappropriate conduct will be met with a disqualification.<br>3. Attacking the infrastructure is against the rules. If you are not sure what belongs to a particular challenge, ask.<br>4. Act according to the general rules of playing a CTF (no flag sharing, asking for flags, flag hoarding, spoiling the solutions etc.  )<br>5. If there is something wrong with a challenge you are solving, DM the author of that challenge on our Discord Server.",
-      descriptionDown: "",
-    },
     // {
     //   id: 2,
     //   title: "CODE RED",
@@ -412,6 +395,56 @@ const events = [
       descriptionDown: "",
     },
   ],
+  [
+    {
+      id: 0,
+      title: "ByPass CTF",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 30000/-",
+      firstposition: "INR 15000/-",
+      secondposition: "INR 10000/-",
+      thirdposition: "INR 5000/-",
+      teamsize: " Individual Participation",
+      descriptionUp:
+        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 24 hours, featuring various categories including Web, OSINT, Crypto, and more.",
+      paragraph:
+        "<b>RULES:</b><br>1. This is a Jeopardy Style CTF Competition and you can participate as an individual or team of max size 1.<br>2. Hate speech , racism , and other inappropriate conduct will be met with a disqualification.<br>3. Attacking the infrastructure is against the rules. If you are not sure what belongs to a particular challenge, ask.<br>4. Act according to the general rules of playing a CTF (no flag sharing, asking for flags, flag hoarding, spoiling the solutions etc.  )<br>5. If there is something wrong with a challenge you are solving, DM the author of that challenge on our Discord Server.",
+      descriptionDown: "",
+    },
+    {
+      id: 1,
+      title: "ByPass CTF",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 30000/-",
+      firstposition: "INR 15000/-",
+      secondposition: "INR 10000/-",
+      thirdposition: "INR 5000/-",
+      teamsize: " Individual Participation",
+      descriptionUp:
+        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 24 hours, featuring various categories including Web, OSINT, Crypto, and more.",
+      paragraph:
+        "<b>RULES:</b><br>1. This is a Jeopardy Style CTF Competition and you can participate as an individual or team of max size 1.<br>2. Hate speech , racism , and other inappropriate conduct will be met with a disqualification.<br>3. Attacking the infrastructure is against the rules. If you are not sure what belongs to a particular challenge, ask.<br>4. Act according to the general rules of playing a CTF (no flag sharing, asking for flags, flag hoarding, spoiling the solutions etc.  )<br>5. If there is something wrong with a challenge you are solving, DM the author of that challenge on our Discord Server.",
+      descriptionDown: "",
+    },
+    {
+      id: 2,
+      title: "ByPass CTF",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 30000/-",
+      firstposition: "INR 15000/-",
+      secondposition: "INR 10000/-",
+      thirdposition: "INR 5000/-",
+      teamsize: " Individual Participation",
+      descriptionUp:
+        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 24 hours, featuring various categories including Web, OSINT, Crypto, and more.",
+      paragraph:
+        "<b>RULES:</b><br>1. This is a Jeopardy Style CTF Competition and you can participate as an individual or team of max size 1.<br>2. Hate speech , racism , and other inappropriate conduct will be met with a disqualification.<br>3. Attacking the infrastructure is against the rules. If you are not sure what belongs to a particular challenge, ask.<br>4. Act according to the general rules of playing a CTF (no flag sharing, asking for flags, flag hoarding, spoiling the solutions etc.  )<br>5. If there is something wrong with a challenge you are solving, DM the author of that challenge on our Discord Server.",
+      descriptionDown: "",
+    },
+  ]
 ];
 //------NO change under this
 const event_links = [
@@ -447,6 +480,8 @@ const event_links = [
 
   // gaming category id=5
   [["VALORANT"], ["BGMI"]],
+  // cyber security events id =  6;
+  [["BYPASS CTF"] , ["CRACKHUNT"]  , ["CYBERSCURITY QUIZ"]] , 
 ];
 
 export { events, event_links };

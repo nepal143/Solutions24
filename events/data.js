@@ -1,6 +1,6 @@
 const events = [
   // coding category id=0
-  [["SHORTEST<br>CODE"], ["SHE CODE"], ["CSS BATTLE"]],
+  [["SHORTEST<br>CODE"], ["SHE CODE"]],
 
   // robotics category id=1
   [
@@ -31,6 +31,11 @@ const events = [
 
   // gaming category id=5
   [["VALORANT"], ["BGMI"]],
+
+  // isdf id = 6   ""
+  [["BYPASS CTF"] , ["CRACKHUNT"]  , ["CYBERSCURITY QUIZ"]] , 
+  // EV EVENTS ID = 7 
+
 ];
 
 const category_img = [
@@ -51,6 +56,13 @@ const category_img = [
 
   // gaming category id=5
   "./images/gaming.svg",
+
+  // isdf category id = 6  
+  "./images/CYBER.svg" , 
+  
+  // ev category id  = 7 
+
+  "./images/EV.svg"
 ];
 
 export { events, category_img };
