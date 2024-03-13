@@ -404,6 +404,7 @@ body {
 
 .discord-img {
   margin-top: 13rem;
+  padding-bottom: 13rem;
   display: flex;
   align-items: center;
   justify-content: center;

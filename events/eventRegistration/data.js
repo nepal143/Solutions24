@@ -22,8 +22,8 @@ const events = [
     {
       id: 1,
       title: "SHE CODE",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: "04/04/2024",
+      time: "4:00PM- 5:30PM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -147,9 +147,9 @@ const events = [
     // PLACEMENT APTI
     {
       id: 0,
-      title: "PLACEMENT APTI",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      title: "PLACEMENT APIT",
+      date: "04/04/2024",
+      time: "11:00AM - 11:30AM  ",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -181,7 +181,7 @@ const events = [
     {
       id: 3,
       title: "PHOTOGRAPHY",
-      date: "Revealed Soon",
+      date: "04/04/2024",
       time: "Revealed Soon",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
@@ -198,7 +198,7 @@ const events = [
     {
       id: 4,
       title: "MOVIE MAKING",
-      date: "Revealed Soon",
+      date: "04/04/2024",
       time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
@@ -308,8 +308,8 @@ const events = [
     {
       id: 0,
       title: "IMAGINATE",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: "04/04/2024",
+      time: "Begins-12:00AM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -325,8 +325,8 @@ const events = [
     {
       id: 1,
       title: "AR-CADE",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: "04/04/2024",
+      time: "Begins- 12:00 AM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -346,8 +346,8 @@ const events = [
     {
       id: 0,
       title: "VALORANT",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: "04/04/2024",
+      time: "10:00AM-6:00PM",
       prizeWorth: "INR 20000/-",
       firstposition: "INR 9000/-",
       secondposition: "INR 6500/-",
