@@ -42,9 +42,7 @@ export var google_form_links = [
   // machine learning category id=3
   [
     ["https://forms.gle/f2pSkBMck8yA2sLF9"],
-    [
-      'https://forms.gle/jzkxXxRosgfcQ4FC7',
-    ],
+    ["https://forms.gle/jzkxXxRosgfcQ4FC7"],
   ],
 
   // game dev & cyber sec. category id=4
@@ -59,9 +57,7 @@ export var google_form_links = [
 
   // gaming category id=5
   [
-    [
-      '<iframe class="form" style="display:none" src="https://forms.gle/V1V8vTkBrUtQUFt98" width="640" height="2674" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
-    [" https://forms.gle/V1V8vTkBrUtQUFt98"],
+    ["https://forms.gle/V1V8vTkBrUtQUFt98"],
+    [" https://forms.gle/iNZybLBertymWEYAA"],
   ],
 ];
