@@ -256,7 +256,7 @@ body {
 .container {
   margin: 0 3vw 0;
   padding: 0 1.2rem 0;
-  background-color: #17202a65;
+  background-color: rgba(31, 43, 42, 0.51);
   height: 100%;
 }
 
@@ -473,14 +473,14 @@ body {
 .vpn {
   background-image: url("members/Vipin\ Yadav-min.jpg");
 }
-.nepal {
-  background-image: url("members/nepal.jpeg");
+.tiwari {
+  background-image: url("members/nepal.jpg");
 }
 .nush {
   background-image: url("members/Anushna\ Panwar.JPG");
 }
 .bist {
-  background-image: url("members/Harsh\ Bisht-min.png");
+  background-image: url("members/Nisha.jpg");
 }
 .jan {
   background-image: url("members/Jangveer\ Singh.jpg");
@@ -498,7 +498,7 @@ body {
   background-image: url("members/ronak.jpeg");
 }
 .giriraj {
-  background-image: url("members/giriraj.jpg");
+  background-image: url("members/Ankit.jpg");
 }
 .bharat-choudhary {
   background-image: url("members/bharat\ Choudhary.jpeg");
