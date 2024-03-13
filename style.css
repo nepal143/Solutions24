@@ -37,6 +37,14 @@ body {
   background-repeat: no-repeat;
   /* background-position: center; */
 }
+@media screen and (max-width:800px) {
+  body{
+    background-size: 150vw;
+    background-repeat: no-repeat;
+    background-position-x: center;
+  }
+  
+}
 
 /* --navbar--- */
 
@@ -616,6 +624,12 @@ body {
   }
   .hero-section img {
     max-width: 70%;
+  }
+  .hero-left-lines , .hero-right-lines{
+    display: none;
+  }
+  .rect{
+    display: none;
   }
 }
 
