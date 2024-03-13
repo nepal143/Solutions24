@@ -178,7 +178,7 @@ body {
   position: relative;
   height: 0.5rem;
   width: 4rem;
-  background-color: #65cfb4;
+  background-color: #5ca7cc;
   align-self: center;
   margin-right: 10px;
   border-radius: 100px;
@@ -189,7 +189,7 @@ body {
   position: absolute;
   height: 0.5rem;
   width: 4rem;
-  background-color: #65cfb4;
+  background-color: #5ca7cc;
   top: -10px;
   left: 0px;
 }
@@ -199,7 +199,7 @@ body {
   position: absolute;
   height: 0.5rem;
   width: 4rem;
-  background-color: #65cfb4;
+  background-color: #5ca7cc;
   top: 10px;
   left: 0px;
 }
@@ -239,7 +239,7 @@ body {
   .main-navbar {
     display: none;
   }
-  .rect{
+  .rect {
     display: none;
   }
 }
@@ -265,9 +265,8 @@ body {
   text-align: center;
   display: flex;
   justify-content: center;
-  padding-top: 15rem ;
+  padding-top: 15rem;
 }
-
 
 .our_team_headding img {
   /* height: 4rem; */
@@ -501,7 +500,7 @@ body {
 .giriraj {
   background-image: url("members/giriraj.jpg");
 }
-.bharat-choudhary{
+.bharat-choudhary {
   background-image: url("members/bharat\ Choudhary.jpeg");
 }
 .nehra {

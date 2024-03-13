@@ -87,7 +87,7 @@ body {
   position: relative;
   height: 0.5rem;
   width: 4rem;
-  background-color: #65cfb4;
+  background-color: #5ca7cc;
   align-self: center;
   margin-right: 10px;
   border-radius: 100px;
@@ -98,7 +98,7 @@ body {
   position: absolute;
   height: 0.5rem;
   width: 4rem;
-  background-color: #65cfb4;
+  background-color: #5ca7cc;
   top: -10px;
   left: 0px;
 }
@@ -108,7 +108,7 @@ body {
   position: absolute;
   height: 0.5rem;
   width: 4rem;
-  background-color: #65cfb4;
+  background-color: #5ca7cc;
   top: 10px;
   left: 0px;
 }
