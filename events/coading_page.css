@@ -24,7 +24,8 @@ body {
   background-color: #000;
   color: #fff;
   /* font-size: 2.2rem; */
-  font-family: "Poppins", sans-serif;
+ font-family: "Poppins", sans-serif;
+ overflow-x: hidden;
 }
 
 .header {
@@ -211,6 +212,9 @@ body {
   }
   .event_scroll::-webkit-scrollbar-thumb {
     background-color: rgba(101, 207, 181, 0.516);
+  }
+  .rect{
+    display: none;
   }
 }
 
