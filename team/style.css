@@ -256,7 +256,7 @@ body {
 .container {
   margin: 0 3vw 0;
   padding: 0 1.2rem 0;
-  background-color: rgba(31, 43, 42, 0.51);
+  background-color: #17202a65;
   height: 100%;
 }
 
@@ -435,7 +435,7 @@ body {
   background-repeat: no-repeat;
 }
 .vansh {
-  background-image: url("members/vansh.png");
+  background-image: url("members/vansh.jpg");
 }
 .khushi {
   background-image: url("members/Khushi\ Dogra-min.jpg");
