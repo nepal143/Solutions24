@@ -14,9 +14,8 @@ const events = [
   // open category id=2
   [
     ["PLACEMENT APTI"],
-    ["TECH STORM"],
-    ["IDEA PRESENTATION"],
     ["PHOTOGRAPHY"],
+    ["CSS BATTLE"],
     ["MOVIE MAKING"],
     ["SCHOOL MODEL MAKING"],
     ["HOW UNICORN"],
@@ -35,7 +34,7 @@ const events = [
   // isdf id = 6   ""
   [["BYPASS CTF"] , ["CRACKHUNT"]  , ["CYBERSCURITY QUIZ"]] , 
   // EV EVENTS ID = 7 
-
+    [ ["ETHON"] ,["DRIVE LINK"] , ["CIRCUITCRAFT"]   , ["CURRENTCLASH"]] 
 ];
 
 const category_img = [

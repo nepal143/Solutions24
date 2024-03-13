@@ -161,10 +161,9 @@ const events = [
         "<b>GENERAL RULES :</b><br>1. There will be one round only.<br>2. Individual Participation<br>3. Domain: Quantitative Aptitude, Reasoning, Maths.<br>4. Eligibility : Open for All<br><br>Teams will be given MCQ aptitude questions, 30 Mins will be given for Solving",
       descriptionDown: "",
     },
-    // TECH STORM
     {
-      id: 1,
-      title: "TECH STORM",
+      id: 0,
+      title: "CSS BATTLE",
       date: "Revealed Soon",
       time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
@@ -173,26 +172,9 @@ const events = [
       thirdposition: "INR 3000/-",
       teamsize: " 1",
       descriptionUp:
-        "If you are someone who loves to test yourself or a person who keeps on trying to push his/her boundaries.  Here’s an event for you. . .<br>TECH STORM will put to test both your critical thinking and problem-solving skills. Solving these problems will surely help a participant think out-of-box and find the optimal solution to problems.<br>The questions will be mostly based on CS Fundamentals.",
+        "Do you possess the confidence and skills to showcase your analytical mastery? Unleash your innate potential and exhibit your brilliance at Placement Apti, the ultimate platform to demonstrate your aptitude and reasoning skills. Join your like-minded individuals in a fierce competition to prove your mettle. Prepare yourself to tackle some amazing analytical problems that will put your intellect to the ultimate test!",
       paragraph:
-        "<b>GUIDELINES :</b><br>1. There will be one round only.<br>2. Individual Participation<br>3. Domain: CS Fundamentals. <br>4. Eligibility : Open for All<br><br>Teams will be given MCQ  questions, 30 Mins will be given for Solving",
-      descriptionDown: "",
-    },
-    // IDEA PRESENTATION
-    {
-      id: 2,
-      title: "IDEA PRESENTATION",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
-      prizeWorth: "INR 10000/-",
-      firstposition: "INR 5000/-",
-      secondposition: "INR 3000/-",
-      thirdposition: "INR 2000/-",
-      teamsize: " 2",
-      descriptionUp:
-        "Attention all the amazing innovators and creative thinkers! Do you have a desire to analyze problems that have already been established, find the greatest possibilities, and come up with the best possible solution? This is your chance to showcase your brilliant ideas and get a chance to win amazing prizes. So, what are you waiting for? Let your creativity shine and join us at our idea presentation event.",
-      paragraph:
-        "<b>JUDGING CRITERIA:</b><br>1. Originality of idea. <br>2. Scalability.<br>3. Feasibility.<br>4. Impact on society.<br>5.  Impact on Environment.<br><br><b>RULES:</b><br>1.  This event is open for all.<br>2. Name of the participating teams with members names should be submitted before 20th April 11:50 PM<br>3.Participants are required to submit a PowerPoint Presesntation along with a video(5-7 min) of them presenting the idea.<br>4. Teams unable to follow the guidelines will be disqualified.<br>5. The decision of the Technical Board will be final and no queries will be entertained.<br>6. All teams will send Presentations at: <a class='mail_link' href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a> <br>7. PowerPoint Presentation name should be in the format TeamName_TopicName.<br><b>8. AIT participants cannot use the same submissions as Ideathon in November.</b>",
+        "<b>GENERAL RULES :</b><br>1. There will be one round only.<br>2. Individual Participation<br>3. Domain: Quantitative Aptitude, Reasoning, Maths.<br>4. Eligibility : Open for All<br><br>Teams will be given MCQ aptitude questions, 30 Mins will be given for Solving",
       descriptionDown: "",
     },
     // PHOTOGRAPHY
@@ -407,14 +389,14 @@ const events = [
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
       descriptionUp:
-        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 24 hours, featuring various categories including Web, OSINT, Crypto, and more.",
+        "",
       paragraph:
-        "<b>RULES:</b><br>1. This is a Jeopardy Style CTF Competition and you can participate as an individual or team of max size 1.<br>2. Hate speech , racism , and other inappropriate conduct will be met with a disqualification.<br>3. Attacking the infrastructure is against the rules. If you are not sure what belongs to a particular challenge, ask.<br>4. Act according to the general rules of playing a CTF (no flag sharing, asking for flags, flag hoarding, spoiling the solutions etc.  )<br>5. If there is something wrong with a challenge you are solving, DM the author of that challenge on our Discord Server.",
+        "<b>RULES:</b><br>1. CTF will be “Jeopardy” Style. Teams or individuals compete to solve challenges and earn points.<br>2. Challenges: There will be a variety of challenges with varying difficulty levels.<br> 3. Each challenge will have a flag with the format CTF{ }.<br>4. Time limit : CTF event duration will be 36 hours starting from 12pm ,05 April 2024 to 12 am ,07 April 2024.<br> 5. Only registered players can participate in the event.<br> 6. A maximum of 2 players per team.<br> 7. Multiple logins will lead to disqualification.<br> 8. Flag sharing or seeking outside human help will lead to disqualification.<br> 9. Posting of the CTF questions during the event on public forums is prohibited.<br> <br> <b>Judging Criteria:</b> 1. Team with the most points at the end of 36hrs event wins.<br> 2. In case of tie,<br> 3. i.TB1 : time taken to solve challenges will be taken. <br> ii.TB2: total number of first bloods.",
       descriptionDown: "",
     },
     {
       id: 1,
-      title: "ByPass CTF",
+      title: "CRACKHUNT",
       date: "Revealed Soon",
       time: "Revealed Soon",
       prizeWorth: "INR 30000/-",
@@ -423,14 +405,14 @@ const events = [
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
       descriptionUp:
-        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 24 hours, featuring various categories including Web, OSINT, Crypto, and more.",
+        "Crackhunt is a one of a kind Cybersecurity based Gaming event organized by the ISDF Club at AIT.",
       paragraph:
-        "<b>RULES:</b><br>1. This is a Jeopardy Style CTF Competition and you can participate as an individual or team of max size 1.<br>2. Hate speech , racism , and other inappropriate conduct will be met with a disqualification.<br>3. Attacking the infrastructure is against the rules. If you are not sure what belongs to a particular challenge, ask.<br>4. Act according to the general rules of playing a CTF (no flag sharing, asking for flags, flag hoarding, spoiling the solutions etc.  )<br>5. If there is something wrong with a challenge you are solving, DM the author of that challenge on our Discord Server.",
+        "<b>RULES:</b><br>1.If any player is found violating any of the below rules, he/she will be disqualified:<br> 2. The duration of the event is 3 hours, from 1000 hours to 1300 hours on 5th of April. Any levels done outside this window will not be counted.<br> 3. Attacking the servers in any kind - DDoS attacks, scripting attacks etc. will lead to immediate disqualification.<br> 4. Sharing of puzzle answers is not allowed.<br> 5. Multiple logins for the same ID will lead to disqualification.<br> 6. Posting the puzzles and levels on public forums, messaging boards etc. is not allowed.<br> 7.Use of LLMs and AI tools is not allowed.<br> 8.In case of any query or doubts, please contact the organizing team.",
       descriptionDown: "",
     },
     {
       id: 2,
-      title: "ByPass CTF",
+      title: "CYBERSECURITY QUIZ",
       date: "Revealed Soon",
       time: "Revealed Soon",
       prizeWorth: "INR 30000/-",
@@ -439,9 +421,75 @@ const events = [
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
       descriptionUp:
-        "Information Security & Digital Forensics Club (ISDF) Team has launched its third community CTF named 'Bypass CTF'. This capture-the-flag competition follows a jeopardy-style format. The event will be hosted by the Army Institute of Technology and will last for 24 hours, featuring various categories including Web, OSINT, Crypto, and more.",
+        "Test your knowledge in a 30-minute online quiz covering various aspects of cybersecurity. Get ready to challenge yourself and learn more about staying safe in the digital world!",
       paragraph:
-        "<b>RULES:</b><br>1. This is a Jeopardy Style CTF Competition and you can participate as an individual or team of max size 1.<br>2. Hate speech , racism , and other inappropriate conduct will be met with a disqualification.<br>3. Attacking the infrastructure is against the rules. If you are not sure what belongs to a particular challenge, ask.<br>4. Act according to the general rules of playing a CTF (no flag sharing, asking for flags, flag hoarding, spoiling the solutions etc.  )<br>5. If there is something wrong with a challenge you are solving, DM the author of that challenge on our Discord Server.",
+        "",
+      descriptionDown: "",
+    },
+  ], 
+  [
+    {
+      id: 0,
+      title: "E-THON",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 30000/-",
+      firstposition: "INR 15000/-",
+      secondposition: "INR 10000/-",
+      thirdposition: "INR 5000/-",
+      teamsize: " Individual Participation",
+      descriptionUp:
+        "",
+      paragraph:
+        "<b>RULES:</b><br>1. Ethon is a two-round event, encompassing Ist online round and IInd offline round.<br>2. A mandatory team of 2 people is required for participation.<br>3. Participants will receive five themes (problem statements) for their PPT and must devise and implement their own solutions, condensing their ideas into a maximum of 6 slides.<br>4. In the first round, PPT submissions are to be emailed to the mail id : evclub2019@gmail.com ( by 31st March, 11:59 PM)<br>5. Qualifying teams will be invited for offline PPT presentations.<br> 6. Each presentation is limited to a maximum of 10 minutes.<br> 7. Evaluation criteria include marks for innovation, uniqueness, ease of implementation, and the quality of the presentation.",
+      descriptionDown: "",
+    },
+    {
+      id: 1,
+      title: "CIRCUITCRAFT",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 30000/-",
+      firstposition: "INR 15000/-",
+      secondposition: "INR 10000/-",
+      thirdposition: "INR 5000/-",
+      teamsize: " Individual Participation",
+      descriptionUp:
+        "",
+      paragraph:
+        "<b>RULES:</b><br>1. This will be an offline event (Solo Participation).<br>2. Participants will be provided with an EV with all the required components.<br>3. They are required to assemble all the components correctly without damaging it.<br>4. At the end, the EV should function properly.<br>5. Participants will work under a timer.<br>6. Marks will be awarded for best timing, correct connections, extra connections like horn and headlight will provide extra marks.",
+      descriptionDown: "",
+    },
+    {
+      id: 2,
+      title: "ETHON",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 30000/-",
+      firstposition: "INR 15000/-",
+      secondposition: "INR 10000/-",
+      thirdposition: "INR 5000/-",
+      teamsize: " Individual Participation",
+      descriptionUp:
+        "",
+      paragraph:
+        "<b>RULES:</b><br>1. This will be an offline event (Solo participation).<br>2. Total time provided: 40 minutes.<br>3. Participants will be provided with 5 circuit problems, describing its output.<br>4. You have to Design the circuit using necessary symbols on the Answer sheet.<br>5. Marks will be awarded for accuracy, clean design, correct component symbols.",
+      descriptionDown: "",
+    },
+    {
+      id: 3,
+      title: "CURRENTCLASH",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 30000/-",
+      firstposition: "INR 15000/-",
+      secondposition: "INR 10000/-",
+      thirdposition: "INR 5000/-",
+      teamsize: " Individual Participation",
+      descriptionUp:
+        "",
+      paragraph:
+        "<b>RULES:</b><br>1. This offline event involves teams of up to 3 people (max) and 2 people (min).<br>2. Half an hour before the event, teams will receive randomly assigned topics related to electric vehicles (EVs) and associated domains.<br>3. Two teams will take the stage simultaneously, each tackling clashing topics (e.g., Li-ion battery vs. Sodium-ion battery).<br>4. Teams have a maximum of 10 minutes to articulate their insights on the assigned topic.<br>5. After both teams present, a 5-minute debate ensues where they explain why their chosen product is superior to the other.<br>6. Judges have the opportunity to ask teams questions.<br>7. Marks will be awarded based on points covered, correctness of details mentioned, and the accuracy of replies during the debate.",
       descriptionDown: "",
     },
   ]
@@ -463,9 +511,8 @@ const event_links = [
   // open category id=2
   [
     ["PLACEMENT APTI"],
-    ["TECH STORM"],
-    ["IDEA PRESENTATION"],
     ["PHOTOGRAPHY"],
+    ["CSS BATTLE"]
     ["MOVIE MAKING"],
     ["SCHOOL MODEL MAKING"],
     ["HOW UNICORN"],
@@ -482,6 +529,9 @@ const event_links = [
   [["VALORANT"], ["BGMI"]],
   // cyber security events id =  6;
   [["BYPASS CTF"] , ["CRACKHUNT"]  , ["CYBERSCURITY QUIZ"]] , 
+
+  // ev events id = 7
+  [["ETHON"] ,["DRIVE LINK"] , ["CIRCUITCRAFT"]   , ["CURRENTCLASH"]] 
 ];
 
 export { events, event_links };
