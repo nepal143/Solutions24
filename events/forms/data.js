@@ -15,14 +15,27 @@ export var google_form_links = [
   // robotics category id=1
 
   [
-    ["https://forms.gle/TkwHuWgFeMnvYAtf9"],
-    ["https://forms.gle/tfqpHMeW8HYtZkQ89"],
-    ["https://forms.gle/5rqp2RcjpojC7uWs7"],
-    ["https://forms.gle/CQKEubHr8dmj9DdT9"],
-    ["https://forms.gle/xYuvnZQjCPc7bJAi9"],
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLScJWeByO99nOuB1IhfS5aA0myalp2-lYYn3YiPBR2Qc9th6qw/viewform",
+    ],
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLSdmJLOO8rKNtoFTmdwF3MOZwtG3SnOG4PTdUVlkW9nJ9MXpag/viewform",
+    ],
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLSd8pSjkaes5RQYBGxroJmZSMN8NsTm0lhIf3gsmAlLCAtgVXw/viewform?usp=sf_link",
+    ],
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLSdqZ0DeKkTdtIuuJKcKn8kJu7XYdnIwbBCxlwFcRbxVG3IG8g/viewform",
+    ],
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLSdiWoym-sBxzHj7z17LIiJH7cj168xMgDjHzA4J7jhsmawbYg/viewform ",
+    ],
+    ["https://docs.google.com/forms/d/e/1FAIpQLSe4Z2V2jPlODc_w5mjuYr08pAkrA6JkE0tt_HBOU60mS-WDwA/viewform "],
+    ["https://docs.google.com/forms/d/e/1FAIpQLScNq2HxmD_uATTwXkpiMJ0AWCdRqdUO4f2P8kodWC35czlYaA/viewform?usp=sf_link "],
+    ["https://docs.google.com/forms/d/e/1FAIpQLSfPUEPk9Oesv8GuhgRqzRCFqnOnObZdELOx6dz6-2Md_rQcwg/viewform "],
+    ["https://docs.google.com/forms/d/e/1FAIpQLSd8pSjkaes5RQYBGxroJmZSMN8NsTm0lhIf3gsmAlLCAtgVXw/viewform?usp=sf_link"],
   ],
   // THESE LINKS DOESN'T MATTER (FOR ROBOTICS) lol 😂😂😂
- 
 
   // open category id=2
   [

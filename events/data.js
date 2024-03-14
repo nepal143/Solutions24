@@ -4,14 +4,15 @@ const events = [
 
   // robotics category id=1
   [
-    ["MAZE RUNNER"],
-    ["ROBO-CLENCH"],
-    ["ROBO SOCCER"],
-    ["RUSTY WHEELS"],
-    ["DRONE DRAG"],
-    ["DRONE DRAG"],
-    ["DRONE DRAG"],
-    ["DRONE DRAG"],
+    ["Quizotics"],
+    ["Maze Runner"],
+    ["Robo Race"],
+    ["Robo Soccer"],
+    ["Dron Drag"],
+    ["Maze Runner"],
+    ["Robo War"],
+    ["Robo Clench"],
+    ["Rusty Wheel"],
   ],
 
   // open category id=2

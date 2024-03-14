@@ -140,6 +140,86 @@ const events = [
         "The objective of the Drone Maze Challenges is to complete an obstacle course using a drone .The course is designed to simulate real - world scenarios where a drone operator must navigate obstacles to complete a mission.",
       descriptionDown: "",
     },
+    {
+      id: 1,
+      title: "ROBO-CLENCH",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 15000/-",
+      firstposition: "INR 7000/-",
+      secondposition: "INR 5000/-",
+      thirdposition: "INR 3000/-",
+      teamsize: "Upto 4 Participants",
+      descriptionUp:
+        "Nature has a beautiful phenomenon of Diffusion and we need to follow this for diffusing many important things beyond our planet. But the driving force for diffusion is completely destroyed by the zombies. Now all of it depends on few robots that can restore lives by providing the driving force. But are the few robots capable enough? Can they diffuse the things through the barriers in the path? Would they be able to restore back the almighty's driving force? We put you in charge to make this happen!! .Bring  your strong armed boats which will pick the object from one point and keep it at the other in minimum possible time.",
+      paragraph:
+        "<b>GUIDELINES:</b><br><b>GAMEPLAY:</b><br>1. The event will be points based. <br>2. There will be a time limit to complete the course. <br>3. The bot has to begin from the START point. <br>4. The timer will be started. The bot will have to pick up square blocks, climb up the ramps and place the blocks at specified locations to complete the course. <br>5. The team will be awarded points for each task of an obstacle completed successfully. <br>6.  The team can decide to skip a task of an obstacle or the complete obstacle. No points will be awarded for the skipped tasks. If a bot performs a task incorrectly or topples over during the competition, it will have to go back to the previous checkpoint and start over from that checkpoint. The timer will not be stopped in any case. <br><br><b>ROBOT SPECIFICATIONS:</b><br>1.  The dimension of the bot should be less than or equal to 300mm X 200mm X 300mm. (l x b x h), failing which the team will be disqualified from the competition. The bot can however extend its dimension once the run starts. <br>2. An error of (+5%/-5%) is permitted. The bot must be controlled by manually. <br>3.  Teams can use both wired as well as wireless control mechanisms. <br>4. In case of wired bots, the length of wire should be minimum 2 meters so that the wire remains slack at any instant of time. <br>5.  Participants are not supposed to use any readymade Lego components or readymade  gripping mechanism. <br>6. However, the participants are allowed to use readymade gear assemblies. <br>7. Only one person will be allowed to control the bot. <br>8. Failing to meet any of the above specifications will lead to immediate disqualification. <br>9. Robot should fit in a box of dimensions 300mm * 250mm (inclusive of all the extensions of the bot). No Restrictions on Height. Team not fulfilling this criterion will be straight away disqualified. <br>10. The Robot should be controlled by a wireless remote control or the wired one throughout the race. <br>11. The weight of the robot should not exceed more than 3 kg. <br>12. If the machine is wired, then wire should remain slack under all circumstances during the race .The wires should be properly insulated. Power should not be transmitted in any physical form from the operator to the robot. <br><b>RULES AND REGULATIONS:</b><br>1. Only one team member is allowed to handle the bot. No other team member is allowed to enter the arena. <br>2. The bot will be liable for disqualification if it causes any kind of damage to the arena. <br>3.  The bot is not allowed to slide the blocks against the ground, except for fine adjustments in the Deposit Zone. <br>4. Any damage done to the blocks will lead to immediate disqualification. <br>5.   In case of any disputes/discrepancies, the organizer’s decision will be final and • binding. <br>6.  All decisions about scoring, Game Play & timing, and participation, made by the Organizing Committee is final. <br>7.  Teams should completely respect their vote and decisions. <br>",
+      descriptionDown: "",
+    },
+    {
+      id: 1,
+      title: "ROBO-CLENCH",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 15000/-",
+      firstposition: "INR 7000/-",
+      secondposition: "INR 5000/-",
+      thirdposition: "INR 3000/-",
+      teamsize: "Upto 4 Participants",
+      descriptionUp:
+        "Nature has a beautiful phenomenon of Diffusion and we need to follow this for diffusing many important things beyond our planet. But the driving force for diffusion is completely destroyed by the zombies. Now all of it depends on few robots that can restore lives by providing the driving force. But are the few robots capable enough? Can they diffuse the things through the barriers in the path? Would they be able to restore back the almighty's driving force? We put you in charge to make this happen!! .Bring  your strong armed boats which will pick the object from one point and keep it at the other in minimum possible time.",
+      paragraph:
+        "<b>GUIDELINES:</b><br><b>GAMEPLAY:</b><br>1. The event will be points based. <br>2. There will be a time limit to complete the course. <br>3. The bot has to begin from the START point. <br>4. The timer will be started. The bot will have to pick up square blocks, climb up the ramps and place the blocks at specified locations to complete the course. <br>5. The team will be awarded points for each task of an obstacle completed successfully. <br>6.  The team can decide to skip a task of an obstacle or the complete obstacle. No points will be awarded for the skipped tasks. If a bot performs a task incorrectly or topples over during the competition, it will have to go back to the previous checkpoint and start over from that checkpoint. The timer will not be stopped in any case. <br><br><b>ROBOT SPECIFICATIONS:</b><br>1.  The dimension of the bot should be less than or equal to 300mm X 200mm X 300mm. (l x b x h), failing which the team will be disqualified from the competition. The bot can however extend its dimension once the run starts. <br>2. An error of (+5%/-5%) is permitted. The bot must be controlled by manually. <br>3.  Teams can use both wired as well as wireless control mechanisms. <br>4. In case of wired bots, the length of wire should be minimum 2 meters so that the wire remains slack at any instant of time. <br>5.  Participants are not supposed to use any readymade Lego components or readymade  gripping mechanism. <br>6. However, the participants are allowed to use readymade gear assemblies. <br>7. Only one person will be allowed to control the bot. <br>8. Failing to meet any of the above specifications will lead to immediate disqualification. <br>9. Robot should fit in a box of dimensions 300mm * 250mm (inclusive of all the extensions of the bot). No Restrictions on Height. Team not fulfilling this criterion will be straight away disqualified. <br>10. The Robot should be controlled by a wireless remote control or the wired one throughout the race. <br>11. The weight of the robot should not exceed more than 3 kg. <br>12. If the machine is wired, then wire should remain slack under all circumstances during the race .The wires should be properly insulated. Power should not be transmitted in any physical form from the operator to the robot. <br><b>RULES AND REGULATIONS:</b><br>1. Only one team member is allowed to handle the bot. No other team member is allowed to enter the arena. <br>2. The bot will be liable for disqualification if it causes any kind of damage to the arena. <br>3.  The bot is not allowed to slide the blocks against the ground, except for fine adjustments in the Deposit Zone. <br>4. Any damage done to the blocks will lead to immediate disqualification. <br>5.   In case of any disputes/discrepancies, the organizer’s decision will be final and • binding. <br>6.  All decisions about scoring, Game Play & timing, and participation, made by the Organizing Committee is final. <br>7.  Teams should completely respect their vote and decisions. <br>",
+      descriptionDown: "",
+    },
+    {
+      id: 1,
+      title: "ROBO-CLENCH",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 15000/-",
+      firstposition: "INR 7000/-",
+      secondposition: "INR 5000/-",
+      thirdposition: "INR 3000/-",
+      teamsize: "Upto 4 Participants",
+      descriptionUp:
+        "Nature has a beautiful phenomenon of Diffusion and we need to follow this for diffusing many important things beyond our planet. But the driving force for diffusion is completely destroyed by the zombies. Now all of it depends on few robots that can restore lives by providing the driving force. But are the few robots capable enough? Can they diffuse the things through the barriers in the path? Would they be able to restore back the almighty's driving force? We put you in charge to make this happen!! .Bring  your strong armed boats which will pick the object from one point and keep it at the other in minimum possible time.",
+      paragraph:
+        "<b>GUIDELINES:</b><br><b>GAMEPLAY:</b><br>1. The event will be points based. <br>2. There will be a time limit to complete the course. <br>3. The bot has to begin from the START point. <br>4. The timer will be started. The bot will have to pick up square blocks, climb up the ramps and place the blocks at specified locations to complete the course. <br>5. The team will be awarded points for each task of an obstacle completed successfully. <br>6.  The team can decide to skip a task of an obstacle or the complete obstacle. No points will be awarded for the skipped tasks. If a bot performs a task incorrectly or topples over during the competition, it will have to go back to the previous checkpoint and start over from that checkpoint. The timer will not be stopped in any case. <br><br><b>ROBOT SPECIFICATIONS:</b><br>1.  The dimension of the bot should be less than or equal to 300mm X 200mm X 300mm. (l x b x h), failing which the team will be disqualified from the competition. The bot can however extend its dimension once the run starts. <br>2. An error of (+5%/-5%) is permitted. The bot must be controlled by manually. <br>3.  Teams can use both wired as well as wireless control mechanisms. <br>4. In case of wired bots, the length of wire should be minimum 2 meters so that the wire remains slack at any instant of time. <br>5.  Participants are not supposed to use any readymade Lego components or readymade  gripping mechanism. <br>6. However, the participants are allowed to use readymade gear assemblies. <br>7. Only one person will be allowed to control the bot. <br>8. Failing to meet any of the above specifications will lead to immediate disqualification. <br>9. Robot should fit in a box of dimensions 300mm * 250mm (inclusive of all the extensions of the bot). No Restrictions on Height. Team not fulfilling this criterion will be straight away disqualified. <br>10. The Robot should be controlled by a wireless remote control or the wired one throughout the race. <br>11. The weight of the robot should not exceed more than 3 kg. <br>12. If the machine is wired, then wire should remain slack under all circumstances during the race .The wires should be properly insulated. Power should not be transmitted in any physical form from the operator to the robot. <br><b>RULES AND REGULATIONS:</b><br>1. Only one team member is allowed to handle the bot. No other team member is allowed to enter the arena. <br>2. The bot will be liable for disqualification if it causes any kind of damage to the arena. <br>3.  The bot is not allowed to slide the blocks against the ground, except for fine adjustments in the Deposit Zone. <br>4. Any damage done to the blocks will lead to immediate disqualification. <br>5.   In case of any disputes/discrepancies, the organizer’s decision will be final and • binding. <br>6.  All decisions about scoring, Game Play & timing, and participation, made by the Organizing Committee is final. <br>7.  Teams should completely respect their vote and decisions. <br>",
+      descriptionDown: "",
+    },
+    {
+      id: 1,
+      title: "ROBO-CLENCH",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 15000/-",
+      firstposition: "INR 7000/-",
+      secondposition: "INR 5000/-",
+      thirdposition: "INR 3000/-",
+      teamsize: "Upto 4 Participants",
+      descriptionUp:
+        "Nature has a beautiful phenomenon of Diffusion and we need to follow this for diffusing many important things beyond our planet. But the driving force for diffusion is completely destroyed by the zombies. Now all of it depends on few robots that can restore lives by providing the driving force. But are the few robots capable enough? Can they diffuse the things through the barriers in the path? Would they be able to restore back the almighty's driving force? We put you in charge to make this happen!! .Bring  your strong armed boats which will pick the object from one point and keep it at the other in minimum possible time.",
+      paragraph:
+        "<b>GUIDELINES:</b><br><b>GAMEPLAY:</b><br>1. The event will be points based. <br>2. There will be a time limit to complete the course. <br>3. The bot has to begin from the START point. <br>4. The timer will be started. The bot will have to pick up square blocks, climb up the ramps and place the blocks at specified locations to complete the course. <br>5. The team will be awarded points for each task of an obstacle completed successfully. <br>6.  The team can decide to skip a task of an obstacle or the complete obstacle. No points will be awarded for the skipped tasks. If a bot performs a task incorrectly or topples over during the competition, it will have to go back to the previous checkpoint and start over from that checkpoint. The timer will not be stopped in any case. <br><br><b>ROBOT SPECIFICATIONS:</b><br>1.  The dimension of the bot should be less than or equal to 300mm X 200mm X 300mm. (l x b x h), failing which the team will be disqualified from the competition. The bot can however extend its dimension once the run starts. <br>2. An error of (+5%/-5%) is permitted. The bot must be controlled by manually. <br>3.  Teams can use both wired as well as wireless control mechanisms. <br>4. In case of wired bots, the length of wire should be minimum 2 meters so that the wire remains slack at any instant of time. <br>5.  Participants are not supposed to use any readymade Lego components or readymade  gripping mechanism. <br>6. However, the participants are allowed to use readymade gear assemblies. <br>7. Only one person will be allowed to control the bot. <br>8. Failing to meet any of the above specifications will lead to immediate disqualification. <br>9. Robot should fit in a box of dimensions 300mm * 250mm (inclusive of all the extensions of the bot). No Restrictions on Height. Team not fulfilling this criterion will be straight away disqualified. <br>10. The Robot should be controlled by a wireless remote control or the wired one throughout the race. <br>11. The weight of the robot should not exceed more than 3 kg. <br>12. If the machine is wired, then wire should remain slack under all circumstances during the race .The wires should be properly insulated. Power should not be transmitted in any physical form from the operator to the robot. <br><b>RULES AND REGULATIONS:</b><br>1. Only one team member is allowed to handle the bot. No other team member is allowed to enter the arena. <br>2. The bot will be liable for disqualification if it causes any kind of damage to the arena. <br>3.  The bot is not allowed to slide the blocks against the ground, except for fine adjustments in the Deposit Zone. <br>4. Any damage done to the blocks will lead to immediate disqualification. <br>5.   In case of any disputes/discrepancies, the organizer’s decision will be final and • binding. <br>6.  All decisions about scoring, Game Play & timing, and participation, made by the Organizing Committee is final. <br>7.  Teams should completely respect their vote and decisions. <br>",
+      descriptionDown: "",
+    },
+    {
+      id: 1,
+      title: "ROBO-CLENCH",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 15000/-",
+      firstposition: "INR 7000/-",
+      secondposition: "INR 5000/-",
+      thirdposition: "INR 3000/-",
+      teamsize: "Upto 4 Participants",
+      descriptionUp:
+        "Nature has a beautiful phenomenon of Diffusion and we need to follow this for diffusing many important things beyond our planet. But the driving force for diffusion is completely destroyed by the zombies. Now all of it depends on few robots that can restore lives by providing the driving force. But are the few robots capable enough? Can they diffuse the things through the barriers in the path? Would they be able to restore back the almighty's driving force? We put you in charge to make this happen!! .Bring  your strong armed boats which will pick the object from one point and keep it at the other in minimum possible time.",
+      paragraph:
+        "<b>GUIDELINES:</b><br><b>GAMEPLAY:</b><br>1. The event will be points based. <br>2. There will be a time limit to complete the course. <br>3. The bot has to begin from the START point. <br>4. The timer will be started. The bot will have to pick up square blocks, climb up the ramps and place the blocks at specified locations to complete the course. <br>5. The team will be awarded points for each task of an obstacle completed successfully. <br>6.  The team can decide to skip a task of an obstacle or the complete obstacle. No points will be awarded for the skipped tasks. If a bot performs a task incorrectly or topples over during the competition, it will have to go back to the previous checkpoint and start over from that checkpoint. The timer will not be stopped in any case. <br><br><b>ROBOT SPECIFICATIONS:</b><br>1.  The dimension of the bot should be less than or equal to 300mm X 200mm X 300mm. (l x b x h), failing which the team will be disqualified from the competition. The bot can however extend its dimension once the run starts. <br>2. An error of (+5%/-5%) is permitted. The bot must be controlled by manually. <br>3.  Teams can use both wired as well as wireless control mechanisms. <br>4. In case of wired bots, the length of wire should be minimum 2 meters so that the wire remains slack at any instant of time. <br>5.  Participants are not supposed to use any readymade Lego components or readymade  gripping mechanism. <br>6. However, the participants are allowed to use readymade gear assemblies. <br>7. Only one person will be allowed to control the bot. <br>8. Failing to meet any of the above specifications will lead to immediate disqualification. <br>9. Robot should fit in a box of dimensions 300mm * 250mm (inclusive of all the extensions of the bot). No Restrictions on Height. Team not fulfilling this criterion will be straight away disqualified. <br>10. The Robot should be controlled by a wireless remote control or the wired one throughout the race. <br>11. The weight of the robot should not exceed more than 3 kg. <br>12. If the machine is wired, then wire should remain slack under all circumstances during the race .The wires should be properly insulated. Power should not be transmitted in any physical form from the operator to the robot. <br><b>RULES AND REGULATIONS:</b><br>1. Only one team member is allowed to handle the bot. No other team member is allowed to enter the arena. <br>2. The bot will be liable for disqualification if it causes any kind of damage to the arena. <br>3.  The bot is not allowed to slide the blocks against the ground, except for fine adjustments in the Deposit Zone. <br>4. Any damage done to the blocks will lead to immediate disqualification. <br>5.   In case of any disputes/discrepancies, the organizer’s decision will be final and • binding. <br>6.  All decisions about scoring, Game Play & timing, and participation, made by the Organizing Committee is final. <br>7.  Teams should completely respect their vote and decisions. <br>",
+      descriptionDown: "",
+    },
   ],
 
   // open category id=2
@@ -388,7 +468,8 @@ const events = [
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp: "",
+      descriptionUp:
+        "",
       paragraph:
         "<b>RULES:</b><br>1. CTF will be “Jeopardy” Style. Teams or individuals compete to solve challenges and earn points.<br>2. Challenges: There will be a variety of challenges with varying difficulty levels.<br> 3. Each challenge will have a flag with the format CTF{ }.<br>4. Time limit : CTF event duration will be 36 hours starting from 12pm ,05 April 2024 to 12 am ,07 April 2024.<br> 5. Only registered players can participate in the event.<br> 6. A maximum of 2 players per team.<br> 7. Multiple logins will lead to disqualification.<br> 8. Flag sharing or seeking outside human help will lead to disqualification.<br> 9. Posting of the CTF questions during the event on public forums is prohibited.<br> <br> <b>Judging Criteria:</b> 1. Team with the most points at the end of 36hrs event wins.<br> 2. In case of tie,<br> 3. i.TB1 : time taken to solve challenges will be taken. <br> ii.TB2: total number of first bloods.",
       descriptionDown: "",
@@ -421,10 +502,11 @@ const events = [
       teamsize: " Individual Participation",
       descriptionUp:
         "Test your knowledge in a 30-minute online quiz covering various aspects of cybersecurity. Get ready to challenge yourself and learn more about staying safe in the digital world!",
-      paragraph: "",
+      paragraph:
+        "",
       descriptionDown: "",
     },
-  ],
+  ], 
   [
     {
       id: 0,
@@ -436,7 +518,8 @@ const events = [
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp: "",
+      descriptionUp:
+        "",
       paragraph:
         "<b>RULES:</b><br>1. Ethon is a two-round event, encompassing Ist online round and IInd offline round.<br>2. A mandatory team of 2 people is required for participation.<br>3. Participants will receive five themes (problem statements) for their PPT and must devise and implement their own solutions, condensing their ideas into a maximum of 6 slides.<br>4. In the first round, PPT submissions are to be emailed to the mail id : evclub2019@gmail.com ( by 31st March, 11:59 PM)<br>5. Qualifying teams will be invited for offline PPT presentations.<br> 6. Each presentation is limited to a maximum of 10 minutes.<br> 7. Evaluation criteria include marks for innovation, uniqueness, ease of implementation, and the quality of the presentation.",
       descriptionDown: "",
@@ -451,7 +534,8 @@ const events = [
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp: "",
+      descriptionUp:
+        "",
       paragraph:
         "<b>RULES:</b><br>1. This will be an offline event (Solo Participation).<br>2. Participants will be provided with an EV with all the required components.<br>3. They are required to assemble all the components correctly without damaging it.<br>4. At the end, the EV should function properly.<br>5. Participants will work under a timer.<br>6. Marks will be awarded for best timing, correct connections, extra connections like horn and headlight will provide extra marks.",
       descriptionDown: "",
@@ -466,7 +550,8 @@ const events = [
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp: "",
+      descriptionUp:
+        "",
       paragraph:
         "<b>RULES:</b><br>1. This will be an offline event (Solo participation).<br>2. Total time provided: 40 minutes.<br>3. Participants will be provided with 5 circuit problems, describing its output.<br>4. You have to Design the circuit using necessary symbols on the Answer sheet.<br>5. Marks will be awarded for accuracy, clean design, correct component symbols.",
       descriptionDown: "",
@@ -481,12 +566,13 @@ const events = [
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp: "",
+      descriptionUp:
+        "",
       paragraph:
         "<b>RULES:</b><br>1. This offline event involves teams of up to 3 people (max) and 2 people (min).<br>2. Half an hour before the event, teams will receive randomly assigned topics related to electric vehicles (EVs) and associated domains.<br>3. Two teams will take the stage simultaneously, each tackling clashing topics (e.g., Li-ion battery vs. Sodium-ion battery).<br>4. Teams have a maximum of 10 minutes to articulate their insights on the assigned topic.<br>5. After both teams present, a 5-minute debate ensues where they explain why their chosen product is superior to the other.<br>6. Judges have the opportunity to ask teams questions.<br>7. Marks will be awarded based on points covered, correctness of details mentioned, and the accuracy of replies during the debate.",
       descriptionDown: "",
     },
-  ],
+  ]
 ];
 //------NO change under this
 const event_links = [
@@ -506,7 +592,8 @@ const event_links = [
   [
     ["PLACEMENT APTI"],
     ["PHOTOGRAPHY"],
-    ["CSS BATTLE"]["MOVIE MAKING"],
+    ["CSS BATTLE"]
+    ["MOVIE MAKING"],
     ["SCHOOL MODEL MAKING"],
     ["HOW UNICORN"],
     ["SOLID WORKS"],
@@ -521,10 +608,10 @@ const event_links = [
   // gaming category id=5
   [["VALORANT"], ["BGMI"]],
   // cyber security events id =  6;
-  [["BYPASS CTF"], ["CRACKHUNT"], ["CYBERSCURITY QUIZ"]],
+  [["BYPASS CTF"] , ["CRACKHUNT"]  , ["CYBERSCURITY QUIZ"]] , 
 
   // ev events id = 7
-  [["ETHON"], ["DRIVE LINK"], ["CIRCUITCRAFT"], ["CURRENTCLASH"]],
+  [["ETHON"] ,["DRIVE LINK"] , ["CIRCUITCRAFT"]   , ["CURRENTCLASH"]] 
 ];
 
 export { events, event_links };
