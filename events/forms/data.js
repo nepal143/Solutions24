@@ -98,6 +98,5 @@ export var google_form_links = [
     [
       "https://docs.google.com/forms/d/e/1FAIpQLSfQXjPhagfx9_QuLPF9zaPPm2YVMKuRruChE1v9RBjGcTY0Nw/viewform?usp=sf_link",
     ],
-    ['https://forms.gle/V1V8vTkBrUtQUFt98'],
   ],
 ];
