@@ -26,6 +26,7 @@ window.addEventListener("load", (event) => {
     [2, 5],
     [2, 6],
     [2, 7],
+    [5,1]
 
     // [0, 2],
     [3, 0],

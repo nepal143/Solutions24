@@ -62,6 +62,6 @@ export var google_form_links = [
     [
       '<iframe class="form" style="display:none" src="https://forms.gle/V1V8vTkBrUtQUFt98" width="640" height="2674" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
-    [" https://forms.gle/V1V8vTkBrUtQUFt98"],
+    ['https://forms.gle/V1V8vTkBrUtQUFt98'],
   ],
 ];
