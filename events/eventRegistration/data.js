@@ -191,7 +191,7 @@ const events = [
       descriptionUp:
         "This is your chance to showcase your talent and creativity behind the lens. Whether you are a beginner or a seasoned photographer, we welcome all students to participate and capture the essence of the moment. Paint your shot with an immersive story that captures the essence of the moment, and be in the running to win big and amazing prizes.",
       paragraph:
-        "<b>RULES :</b><br>1. Themes are :<br>Symmetry & Abstract<br>Urban-Rural Life Photography<br>Day in the life of an Engineering Student<br>2. Register and Submit your entry on <a class='mail_link' href='mailto:ait.solutions2k23@gmail.com'>ait.solutions2k23@gmail.com</a> before 22nd April 11:50 PM<br>3. One person can give only one entry.<br>4. Every entry must have one photo in .psd or .jpg form along with a short essay (not more than 100 words) about the photo.<br>5. The minimum resolution of the pictures should be 1000 pixels on the shorter side.<br>6. Images should not exceed 16 MB in size.<br>7. The photo should not have been previously entered in any competition/exhibition.<br>8. Plagiarism should be strictly avoided and such photographs shall be immediately disqualified from the competition.<br>9. There should not be any watermarks, copyright marks on the picture.<br>10. Please limit your use of pre-edited images.<br>11.  Participant should be ready with the original image elements when asked upon by the organizers.<br>12. Judging criteria:<br>Relevance<br>Quality<br>Vista<br>Essay<br>13. Any violation of the rules will strictly lead to disqualification.",
+        "<b>RULES :</b><br>1. Themes are :<br>Symmetry & Abstract<br>Urban-Rural Life Photography<br>Day in the life of an Engineering Student<br>2. Register and Submit your entry on <a class='mail_link' href='mailto:technicalboard@aitpune.edu.in'>technicalboard@aitpune.edu.in</a> before 22nd April 11:50 PM<br>3. One person can give only one entry.<br>4. Every entry must have one photo in .psd or .jpg form along with a short essay (not more than 100 words) about the photo.<br>5. The minimum resolution of the pictures should be 1000 pixels on the shorter side.<br>6. Images should not exceed 16 MB in size.<br>7. The photo should not have been previously entered in any competition/exhibition.<br>8. Plagiarism should be strictly avoided and such photographs shall be immediately disqualified from the competition.<br>9. There should not be any watermarks, copyright marks on the picture.<br>10. Please limit your use of pre-edited images.<br>11.  Participant should be ready with the original image elements when asked upon by the organizers.<br>12. Judging criteria:<br>Relevance<br>Quality<br>Vista<br>Essay<br>13. Any violation of the rules will strictly lead to disqualification.",
       descriptionDown: "",
     },
     // MOVIE MAKING
@@ -388,8 +388,7 @@ const events = [
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp:
-        "",
+      descriptionUp: "",
       paragraph:
         "<b>RULES:</b><br>1. CTF will be “Jeopardy” Style. Teams or individuals compete to solve challenges and earn points.<br>2. Challenges: There will be a variety of challenges with varying difficulty levels.<br> 3. Each challenge will have a flag with the format CTF{ }.<br>4. Time limit : CTF event duration will be 36 hours starting from 12pm ,05 April 2024 to 12 am ,07 April 2024.<br> 5. Only registered players can participate in the event.<br> 6. A maximum of 2 players per team.<br> 7. Multiple logins will lead to disqualification.<br> 8. Flag sharing or seeking outside human help will lead to disqualification.<br> 9. Posting of the CTF questions during the event on public forums is prohibited.<br> <br> <b>Judging Criteria:</b> 1. Team with the most points at the end of 36hrs event wins.<br> 2. In case of tie,<br> 3. i.TB1 : time taken to solve challenges will be taken. <br> ii.TB2: total number of first bloods.",
       descriptionDown: "",
@@ -422,11 +421,10 @@ const events = [
       teamsize: " Individual Participation",
       descriptionUp:
         "Test your knowledge in a 30-minute online quiz covering various aspects of cybersecurity. Get ready to challenge yourself and learn more about staying safe in the digital world!",
-      paragraph:
-        "",
+      paragraph: "",
       descriptionDown: "",
     },
-  ], 
+  ],
   [
     {
       id: 0,
@@ -438,8 +436,7 @@ const events = [
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp:
-        "",
+      descriptionUp: "",
       paragraph:
         "<b>RULES:</b><br>1. Ethon is a two-round event, encompassing Ist online round and IInd offline round.<br>2. A mandatory team of 2 people is required for participation.<br>3. Participants will receive five themes (problem statements) for their PPT and must devise and implement their own solutions, condensing their ideas into a maximum of 6 slides.<br>4. In the first round, PPT submissions are to be emailed to the mail id : evclub2019@gmail.com ( by 31st March, 11:59 PM)<br>5. Qualifying teams will be invited for offline PPT presentations.<br> 6. Each presentation is limited to a maximum of 10 minutes.<br> 7. Evaluation criteria include marks for innovation, uniqueness, ease of implementation, and the quality of the presentation.",
       descriptionDown: "",
@@ -454,8 +451,7 @@ const events = [
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp:
-        "",
+      descriptionUp: "",
       paragraph:
         "<b>RULES:</b><br>1. This will be an offline event (Solo Participation).<br>2. Participants will be provided with an EV with all the required components.<br>3. They are required to assemble all the components correctly without damaging it.<br>4. At the end, the EV should function properly.<br>5. Participants will work under a timer.<br>6. Marks will be awarded for best timing, correct connections, extra connections like horn and headlight will provide extra marks.",
       descriptionDown: "",
@@ -470,8 +466,7 @@ const events = [
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp:
-        "",
+      descriptionUp: "",
       paragraph:
         "<b>RULES:</b><br>1. This will be an offline event (Solo participation).<br>2. Total time provided: 40 minutes.<br>3. Participants will be provided with 5 circuit problems, describing its output.<br>4. You have to Design the circuit using necessary symbols on the Answer sheet.<br>5. Marks will be awarded for accuracy, clean design, correct component symbols.",
       descriptionDown: "",
@@ -486,13 +481,12 @@ const events = [
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp:
-        "",
+      descriptionUp: "",
       paragraph:
         "<b>RULES:</b><br>1. This offline event involves teams of up to 3 people (max) and 2 people (min).<br>2. Half an hour before the event, teams will receive randomly assigned topics related to electric vehicles (EVs) and associated domains.<br>3. Two teams will take the stage simultaneously, each tackling clashing topics (e.g., Li-ion battery vs. Sodium-ion battery).<br>4. Teams have a maximum of 10 minutes to articulate their insights on the assigned topic.<br>5. After both teams present, a 5-minute debate ensues where they explain why their chosen product is superior to the other.<br>6. Judges have the opportunity to ask teams questions.<br>7. Marks will be awarded based on points covered, correctness of details mentioned, and the accuracy of replies during the debate.",
       descriptionDown: "",
     },
-  ]
+  ],
 ];
 //------NO change under this
 const event_links = [
@@ -512,8 +506,7 @@ const event_links = [
   [
     ["PLACEMENT APTI"],
     ["PHOTOGRAPHY"],
-    ["CSS BATTLE"]
-    ["MOVIE MAKING"],
+    ["CSS BATTLE"]["MOVIE MAKING"],
     ["SCHOOL MODEL MAKING"],
     ["HOW UNICORN"],
     ["SOLID WORKS"],
@@ -528,10 +521,10 @@ const event_links = [
   // gaming category id=5
   [["VALORANT"], ["BGMI"]],
   // cyber security events id =  6;
-  [["BYPASS CTF"] , ["CRACKHUNT"]  , ["CYBERSCURITY QUIZ"]] , 
+  [["BYPASS CTF"], ["CRACKHUNT"], ["CYBERSCURITY QUIZ"]],
 
   // ev events id = 7
-  [["ETHON"] ,["DRIVE LINK"] , ["CIRCUITCRAFT"]   , ["CURRENTCLASH"]] 
+  [["ETHON"], ["DRIVE LINK"], ["CIRCUITCRAFT"], ["CURRENTCLASH"]],
 ];
 
 export { events, event_links };

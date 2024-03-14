@@ -13,6 +13,14 @@ export var google_form_links = [
   ],
 
   // robotics category id=1
+
+  [
+    ["https://forms.gle/TkwHuWgFeMnvYAtf9"],
+    ["https://forms.gle/tfqpHMeW8HYtZkQ89"],
+    ["https://forms.gle/5rqp2RcjpojC7uWs7"],
+    ["https://forms.gle/CQKEubHr8dmj9DdT9"],
+    ["https://forms.gle/xYuvnZQjCPc7bJAi9"],
+  ],
   // THESE LINKS DOESN'T MATTER (FOR ROBOTICS) lol 😂😂😂
   [
     ["https://forms.gle/TkwHuWgFeMnvYAtf9"],
@@ -25,18 +33,11 @@ export var google_form_links = [
   // open category id=2
   [
     ["https://forms.gle/X6UhJ4bTcsMGarVh7"],
-    [
-      "https://unstop.com/p/tech-storm-army-institute-of-technology-ait-pune-664233",
-    ],
-    [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSdhmqsG6BbLu2h9mTsQpEwEmGs_1Bf-esSdLQkFr6tRk8BEoQ/viewform?embedded=true" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
-    ["https://forms.gle/RPb1fBWeLUhQFJ2A9"],
+    ["https://forms.gle/BkfFq9FfJshaCfLt8"],
+    ["https://forms.gle/EnaQtd9pNMvVU1LW9"],
     ["https://forms.gle/RPb1fBWeLUhQFJ2A9"],
     ["https://forms.gle/UYU8zCg1jLb85h3C9"],
-    [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLScPlq1fvN8m8lmyC0E2fO2iRo2IYolQj5TIhmEG_9TJIR9mQw/viewform?embedded=true" width="640" height="2170" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
+    ["https://forms.gle/ZBKhhi7ViSXqRuQk8"],
     ["https://forms.gle/GMwYGUjQV78ieUyK9"],
   ],
   // machine learning category id=3
