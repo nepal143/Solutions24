@@ -34,12 +34,12 @@ body {
   margin: 0 3vw 0;
   padding: 0 1.2rem 0;
   padding-bottom: 4rem;
-  background-color: #17202aad;
+  background-color: #17202a65;
   height: 100%;
 }
 
 .container-footer {
-  background-image: url("./images/footer-background.png");
+  background-image: url("../images/grid.png");
   background-size: 100% 100%;
   padding-bottom: 4rem;
 }
@@ -474,7 +474,7 @@ body {
   background-image: url("members/Vipin\ Yadav-min.jpg");
 }
 .tiwari {
-  background-image: url("members/nepal.jpg");
+  background-image: url("members/nepal.jpeg");
 }
 .nush {
   background-image: url("members/Anushna\ Panwar.JPG");

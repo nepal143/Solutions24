@@ -24,8 +24,8 @@ body {
   background-color: #000;
   color: #fff;
   /* font-size: 2.2rem; */
- font-family: "Poppins", sans-serif;
- overflow-x: hidden;
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
 }
 
 .header {
@@ -118,14 +118,14 @@ body {
   );
   backdrop-filter: blur(10px);
   transition: all 0.1s ease-in-out;
-  border: 5px solid #3a6695 ;
+  border: 5px solid #3a6695;
 }
 
 .coading_event:hover,
 .coading_event:active {
   /* box-sizing: content-box; */
-  border: 5px solid #9DB2BF;
-  outline: 5px solid #9DB2BF;
+  border: 5px solid #9db2bf;
+  outline: 5px solid #9db2bf;
   cursor: pointer;
 }
 
@@ -145,7 +145,7 @@ body {
 }
 
 .container-footer {
-  background-image: url("./images/footer-background.png");
+  background-image: url("../images/grid.png");
   background-size: 100% 100%;
   padding-bottom: 4rem;
 }
@@ -213,7 +213,7 @@ body {
   .event_scroll::-webkit-scrollbar-thumb {
     background-color: rgba(101, 207, 181, 0.516);
   }
-  .rect{
+  .rect {
     display: none;
   }
 }
@@ -298,7 +298,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 0rem 3vw;
-  background: linear-gradient(180deg, #141c1d 37.86%, rgba(0, 0, 0, 0) 100%);
+  background: linear-gradient(180deg, #17202aad 37.86%, rgba(0, 0, 0, 0) 100%);
   z-index: 99;
 }
 
@@ -313,7 +313,7 @@ body {
 
 .main-navbar a:hover,
 .main-navbar a:active {
-  transform:scale(1.1);
+  transform: scale(1.1);
 }
 
 .main-navbar {

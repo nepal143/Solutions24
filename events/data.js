@@ -4,19 +4,23 @@ const events = [
 
   // robotics category id=1
   [
-    ["MAZE RUNNER"],
-    ["ROBO-CLENCH"],
-    ["ROBO SOCCER"],
-    ["RUSTY WHEELS"],
-    ["DRONE DRAG"],
+    ["Quizotics, (School event)"],
+    ["Maze Runner,(School Event)"],
+    ["Robo Race, (School Event)"],
+    ["Robo Soccer"],
+    ["Dron Drag"],
+    ["Maze Runner"],
+    ["Robo War"],
+    ["Robo Clench"],
+    ["Rusty Wheel"],
   ],
 
   // open category id=2
   [
     ["PLACEMENT APTI"],
-    ["PHOTOGRAPHY"],
+    ["MOVE MAKING"],
     ["CSS BATTLE"],
-    ["MOVIE MAKING"],
+    ["PHOTOGRAPHY"],
     ["SCHOOL MODEL MAKING"],
     ["HOW UNICORN"],
     ["SOLID WORKS"],
@@ -32,9 +36,9 @@ const events = [
   [["VALORANT"], ["BGMI"]],
 
   // isdf id = 6   ""
-  [["BYPASS CTF"] , ["CRACKHUNT"]  , ["CYBERSCURITY QUIZ"]] , 
-  // EV EVENTS ID = 7 
-    [ ["ETHON"] ,["DRIVE LINK"] , ["CIRCUITCRAFT"]   , ["CURRENTCLASH"]] 
+  [["BYPASS CTF"], ["CRACKHUNT"], ["CYBERSCURITY QUIZ"]],
+  // EV EVENTS ID = 7
+  [["ETHON"], ["DRIVE LINK"], ["CIRCUITCRAFT"], ["CURRENTCLASH"]],
 ];
 
 const category_img = [
@@ -56,12 +60,12 @@ const category_img = [
   // gaming category id=5
   "./images/gaming.svg",
 
-  // isdf category id = 6  
-  "./images/CYBER.svg" , 
-  
-  // ev category id  = 7 
+  // isdf category id = 6
+  "./images/CYBER.svg",
 
-  "./images/EV.svg"
+  // ev category id  = 7
+
+  "./images/EV.svg",
 ];
 
 export { events, category_img };
