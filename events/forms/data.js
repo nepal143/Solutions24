@@ -22,13 +22,7 @@ export var google_form_links = [
     ["https://forms.gle/xYuvnZQjCPc7bJAi9"],
   ],
   // THESE LINKS DOESN'T MATTER (FOR ROBOTICS) lol 😂😂😂
-  [
-    ["https://forms.gle/TkwHuWgFeMnvYAtf9"],
-    ["https://forms.gle/tfqpHMeW8HYtZkQ89"],
-    ["https://forms.gle/5rqp2RcjpojC7uWs7"],
-    ["https://forms.gle/CQKEubHr8dmj9DdT9"],
-    ["https://forms.gle/xYuvnZQjCPc7bJAi9"],
-  ],
+ 
 
   // open category id=2
   [
