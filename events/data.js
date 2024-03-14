@@ -4,9 +4,9 @@ const events = [
 
   // robotics category id=1
   [
-    ["Quizotics"],
-    ["Maze Runner"],
-    ["Robo Race"],
+    ["Quizotics, (School event)"],
+    ["Maze Runner,(School Event)"],
+    ["Robo Race, (School Event)"],
     ["Robo Soccer"],
     ["Dron Drag"],
     ["Maze Runner"],

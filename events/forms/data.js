@@ -79,13 +79,10 @@ export var google_form_links = [
 
   // idf id =6
   [
-    [
-      "https://docs.google.com/document/d/1Z1NHxnfR24O6a6Oj8Tw75moxZi36HyhmJWTVH2giPJI/edit?usp=sharing",
-    ],
-    [
-      "https://docs.google.com/document/d/1ZFUaWz3zG0Jtle9bTeK9GVzR61napxCCVODcA0aM1PA/edit?usp=sharing",
-    ],
-    [],
+    
+    ["https://forms.gle/B3Jvn2CbhvxbXf6R8"],
+    ["https://forms.gle/B3Jvn2CbhvxbXf6R8"],
+    ["https://forms.gle/B3Jvn2CbhvxbXf6R8"],
   ],
   // idf id=7
   [
