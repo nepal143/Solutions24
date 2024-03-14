@@ -188,7 +188,7 @@ body {
   justify-content: space-around;
   margin-top: 10rem;
   gap: 2rem;
-  border-bottom: 4px solid #407a6c;
+  border-bottom: 4px solid #5ca7cc;
   border-radius: 2px;
   padding-bottom: 5rem;
 }
@@ -213,8 +213,8 @@ body {
 
 .dates_time_anchor:hover,
 .dates_time_anchor:active {
-  background-color: #65cfb5;
-  color: #28454b;
+  /* background-color: #65cfb5; */
+  background: linear-gradient(#325564, #2f5260);
   transform: scale(1.1);
 }
 
