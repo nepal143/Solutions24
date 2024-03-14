@@ -41,7 +41,13 @@ window.addEventListener("load", (event) => {
     [1, 8],
     [1, 9],
     [5, 0],
-    [5, 1],
+    [6, 0],
+    [6, 1],
+    [6, 2],
+    [7, 0],
+    [7, 1],
+    [7, 2],
+    [7, 3],
   ]; //[eventcat,eventid]
   let redirect = false;
   for (let e = 0; e < self_link.length; e++) {

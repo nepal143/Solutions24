@@ -30,10 +30,18 @@ export var google_form_links = [
     [
       "https://docs.google.com/forms/d/e/1FAIpQLSdiWoym-sBxzHj7z17LIiJH7cj168xMgDjHzA4J7jhsmawbYg/viewform ",
     ],
-    ["https://docs.google.com/forms/d/e/1FAIpQLSe4Z2V2jPlODc_w5mjuYr08pAkrA6JkE0tt_HBOU60mS-WDwA/viewform "],
-    ["https://docs.google.com/forms/d/e/1FAIpQLScNq2HxmD_uATTwXkpiMJ0AWCdRqdUO4f2P8kodWC35czlYaA/viewform?usp=sf_link "],
-    ["https://docs.google.com/forms/d/e/1FAIpQLSfPUEPk9Oesv8GuhgRqzRCFqnOnObZdELOx6dz6-2Md_rQcwg/viewform "],
-    ["https://docs.google.com/forms/d/e/1FAIpQLSd8pSjkaes5RQYBGxroJmZSMN8NsTm0lhIf3gsmAlLCAtgVXw/viewform?usp=sf_link"],
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLSe4Z2V2jPlODc_w5mjuYr08pAkrA6JkE0tt_HBOU60mS-WDwA/viewform ",
+    ],
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLScNq2HxmD_uATTwXkpiMJ0AWCdRqdUO4f2P8kodWC35czlYaA/viewform?usp=sf_link ",
+    ],
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLSfPUEPk9Oesv8GuhgRqzRCFqnOnObZdELOx6dz6-2Md_rQcwg/viewform ",
+    ],
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLSd8pSjkaes5RQYBGxroJmZSMN8NsTm0lhIf3gsmAlLCAtgVXw/viewform?usp=sf_link",
+    ],
   ],
   // THESE LINKS DOESN'T MATTER (FOR ROBOTICS) lol 😂😂😂
 
@@ -67,5 +75,31 @@ export var google_form_links = [
   [
     ["https://forms.gle/V1V8vTkBrUtQUFt98"],
     [" https://forms.gle/iNZybLBertymWEYAA"],
+  ],
+
+  // idf id =6
+  [
+    [
+      "https://docs.google.com/document/d/1Z1NHxnfR24O6a6Oj8Tw75moxZi36HyhmJWTVH2giPJI/edit?usp=sharing",
+    ],
+    [
+      "https://docs.google.com/document/d/1ZFUaWz3zG0Jtle9bTeK9GVzR61napxCCVODcA0aM1PA/edit?usp=sharing",
+    ],
+    [],
+  ],
+  // idf id=7
+  [
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLSfQXjPhagfx9_QuLPF9zaPPm2YVMKuRruChE1v9RBjGcTY0Nw/viewform?usp=sf_link",
+    ],
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLSfQXjPhagfx9_QuLPF9zaPPm2YVMKuRruChE1v9RBjGcTY0Nw/viewform?usp=sf_link",
+    ],
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLSfQXjPhagfx9_QuLPF9zaPPm2YVMKuRruChE1v9RBjGcTY0Nw/viewform?usp=sf_link",
+    ],
+    [
+      "https://docs.google.com/forms/d/e/1FAIpQLSfQXjPhagfx9_QuLPF9zaPPm2YVMKuRruChE1v9RBjGcTY0Nw/viewform?usp=sf_link",
+    ],
   ],
 ];
