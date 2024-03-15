@@ -18,11 +18,11 @@ const events = [
   // open category id=2
   [
     ["PLACEMENT APTI"],
-    ["MOVE MAKING"],
     ["CSS BATTLE"],
     ["PHOTOGRAPHY"],
+    ["MOVE MAKING"],
     ["SCHOOL MODEL MAKING"],
-    ["HOW UNICORN"],
+    ["B PLAN"],
     ["SOLID WORKS"],
   ],
 

@@ -252,9 +252,9 @@ const events = [
       thirdposition: "INR 3000/-",
       teamsize: " 1",
       descriptionUp:
-        "Do you possess the confidence and skills to showcase your analytical mastery? Unleash your innate potential and exhibit your brilliance at Placement Apti, the ultimate platform to demonstrate your aptitude and reasoning skills. Join your like-minded individuals in a fierce competition to prove your mettle. Prepare yourself to tackle some amazing analytical problems that will put your intellect to the ultimate test!",
+        "CSS Battle is an online platform where web developers showcase their skills by recreating various graphical designs using only HTML and CSS code. Participants are presented with design challenges, such as replicating a given image or pattern using CSS properties like positioning, gradients, and animations. They compete to create the most accurate representation of the target design while adhering to specific constraints and limitations. CSS Battle not only fosters creativity and problem-solving skills but also encourages developers to explore the full potential of CSS in web design.",
       paragraph:
-        "<b>GENERAL RULES :</b><br>1. There will be one round only.<br>2. Individual Participation<br>3. Domain: Quantitative Aptitude, Reasoning, Maths.<br>4. Eligibility : Open for All<br><br>Teams will be given MCQ aptitude questions, 30 Mins will be given for Solving",
+        "<b>GENERAL RULES :</b><br>1. Recreating Designs: Participants are tasked with replicating given graphical designs using only HTML and CSS code.<br>2. Accuracy: The goal is to create the most accurate representation of the target design. Details such as colors, shapes, and positioning should closely match the original design.<br> 3. CSS Only: Participants are restricted to using only HTML and CSS for their solutions. No JavaScript or external libraries are allowed, promoting mastery of CSS techniques.<br> 4. Efficiency: While accuracy is important, participants are also encouraged to write clean, efficient code. Solutions should strive for minimal CSS while achieving the desired outcome.<br> 5. Specificity: CSS specificity is crucial. Participants must understand how to target specific elements and apply styles effectively to achieve the desired visual result.<br> 6. Event link will be shared through E-mail<br> <br> <b>Time Limit :</b><br> 60 mins. <br><br> <b>Judging: :</b><br> Specificity of the code.<br>Minimal Lines.<br>Exactness with the sample.",
       descriptionDown: "",
     },
     // PHOTOGRAPHY
@@ -591,11 +591,11 @@ const event_links = [
   // open category id=2
   [
     ["PLACEMENT APTI"],
+    ["CSS BATTLE"],
     ["PHOTOGRAPHY"],
-    ["CSS BATTLE"]
     ["MOVIE MAKING"],
     ["SCHOOL MODEL MAKING"],
-    ["HOW UNICORN"],
+    ["B PLAN"],
     ["SOLID WORKS"],
   ],
 
