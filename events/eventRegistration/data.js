@@ -58,7 +58,7 @@ const events = [
     // MAZE RUNNER
     {
       id: 0,
-      title: "MAZE RUNNER",
+      title: "QUIZOTICS,(SCHOOL EVENT)",
       date: "Revealed Soon",
       time: "Revealed Soon",
       prizeWorth: "INR 10000/-",
@@ -75,7 +75,7 @@ const events = [
     // ROBO-CLENCH
     {
       id: 1,
-      title: "ROBO-CLENCH",
+      title: "MAZE -RUNNER (SCHOOL EVENT)",
       date: "Revealed Soon",
       time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
@@ -84,9 +84,9 @@ const events = [
       thirdposition: "INR 3000/-",
       teamsize: "Upto 4 Participants",
       descriptionUp:
-        "Nature has a beautiful phenomenon of Diffusion and we need to follow this for diffusing many important things beyond our planet. But the driving force for diffusion is completely destroyed by the zombies. Now all of it depends on few robots that can restore lives by providing the driving force. But are the few robots capable enough? Can they diffuse the things through the barriers in the path? Would they be able to restore back the almighty's driving force? We put you in charge to make this happen!! .Bring  your strong armed boats which will pick the object from one point and keep it at the other in minimum possible time.",
+        "Develop an autonomous robot for rapid navigation on a course marked by black lines on a white background or white lines on a black background.<br> Prioritize swift progression from the starting line to the finishing line.<br>Implement reliable line detection to ensure the robot consistently follows a specific line throughout the course.<br>Emphasize speed and accuracy, aiming for the shortest completion time while maintaining ownership of the designated line.",
       paragraph:
-        "<b>GUIDELINES:</b><br><b>GAMEPLAY:</b><br>1. The event will be points based. <br>2. There will be a time limit to complete the course. <br>3. The bot has to begin from the START point. <br>4. The timer will be started. The bot will have to pick up square blocks, climb up the ramps and place the blocks at specified locations to complete the course. <br>5. The team will be awarded points for each task of an obstacle completed successfully. <br>6.  The team can decide to skip a task of an obstacle or the complete obstacle. No points will be awarded for the skipped tasks. If a bot performs a task incorrectly or topples over during the competition, it will have to go back to the previous checkpoint and start over from that checkpoint. The timer will not be stopped in any case. <br><br><b>ROBOT SPECIFICATIONS:</b><br>1.  The dimension of the bot should be less than or equal to 300mm X 200mm X 300mm. (l x b x h), failing which the team will be disqualified from the competition. The bot can however extend its dimension once the run starts. <br>2. An error of (+5%/-5%) is permitted. The bot must be controlled by manually. <br>3.  Teams can use both wired as well as wireless control mechanisms. <br>4. In case of wired bots, the length of wire should be minimum 2 meters so that the wire remains slack at any instant of time. <br>5.  Participants are not supposed to use any readymade Lego components or readymade  gripping mechanism. <br>6. However, the participants are allowed to use readymade gear assemblies. <br>7. Only one person will be allowed to control the bot. <br>8. Failing to meet any of the above specifications will lead to immediate disqualification. <br>9. Robot should fit in a box of dimensions 300mm * 250mm (inclusive of all the extensions of the bot). No Restrictions on Height. Team not fulfilling this criterion will be straight away disqualified. <br>10. The Robot should be controlled by a wireless remote control or the wired one throughout the race. <br>11. The weight of the robot should not exceed more than 3 kg. <br>12. If the machine is wired, then wire should remain slack under all circumstances during the race .The wires should be properly insulated. Power should not be transmitted in any physical form from the operator to the robot. <br><b>RULES AND REGULATIONS:</b><br>1. Only one team member is allowed to handle the bot. No other team member is allowed to enter the arena. <br>2. The bot will be liable for disqualification if it causes any kind of damage to the arena. <br>3.  The bot is not allowed to slide the blocks against the ground, except for fine adjustments in the Deposit Zone. <br>4. Any damage done to the blocks will lead to immediate disqualification. <br>5.   In case of any disputes/discrepancies, the organizer’s decision will be final and • binding. <br>6.  All decisions about scoring, Game Play & timing, and participation, made by the Organizing Committee is final. <br>7.  Teams should completely respect their vote and decisions. <br>",
+        "<b>TRACK:</b><br>There will be one START point and one FINISH point in the entire arena.<br>A designated end zone in the arena is marked by the presence of a black box, indicating the conclusion or endpoint.<br>The width of all black stripes will be 2 inches. <br>The black lines in the path form right angles with each other.<br>The track will be released on the day of the event on the spot.<b>CHECKPOINTS:</b><br>The track will be segmented into x sectors: A, B, and C.<br>Every checkpoint is worth 25 points.<b>BOT SPECIFICATION</b><br>The autonomous bot needs to be able to fit inside a box with dimensions of 25 cm by 25 cm by 25 cm.<br>While operating, the autonomous bot must avoid causing any harm or damage to the arena. It is strictly prohibited from leaving any residues or creating marks while navigating through the arena.<br>Use of lego parts and ready-made bots is not allowed.<b>GAMEPLAY</b><br>The competition involves two phases: the 'Dry Run' and the 'Actual Run'.<b>During the Dry Run</b><br>The robot navigates from the 'Start' to the 'End,' using an algorithm to find the optimal path and storing directional information in its memory.<br>There are no restrictions on covering all checkpoints during the Dry Run exploration.<b>During the Actual Run</b><br>In the Actual Run, the robot starts again from the 'Start' and follows the most     efficient path based on the stored information from the Dry Run.<br>The 'End Zone' is marked by a black box, indicating the endpoint.<br>Each checkpoint along the path carries 25 points, with variable locations in the actual arena.<br>Teams have 4 minutes to complete the Dry Run and 3 minutes for the Actual Run.<br>Any excess time taken during the Dry Run beyond 4 minutes is deducted from the 3-minute time limit for the Actual Run, promoting strategic planning and efficient execution.<br>Teams are allowed a limited time for testing before the actual race as determined by the coordinators.<br>Once on the track, a maximum of 8 touches is permitted to reset the bot on the right track, with a penalty of 5 seconds per touch added to the total time.<br>The winner is the team finishing the track in the shortest time; if no team finishes, the prize goes to the team covering the most of the track in the least time with minimum touches.<br>Judges' decisions are final at all times.<b>RULES</b><br>Timely arrival is mandatory,failure to comply results in elimination with an option to rejoin upon payment of a designated fee.<br>The Line Follower Bot must be fully self-contained, without external wire or remote radio control during the race.<br>Any bot damaging the arena will be disqualified, and the organizers have the final say",
       descriptionDown: "",
     },
     // ROBO SOCCER
@@ -581,11 +581,15 @@ const event_links = [
 
   // robotics category id=1
   [
-    ["MAZE RUNNER"],
-    ["ROBO CLENCH"],
-    ["ROBO SOCCER"],
-    ["RUSTY WHEELS"],
-    ["DRONE DRAG"],
+    ["Quizotics, (School event)"],
+    ["Maze Runner,(School Event)"],
+    ["Robo Race, (School Event)"],
+    ["Robo Soccer"],
+    ["Dron Drag"],
+    ["Maze Runner"],
+    ["Robo War"],
+    ["Robo Clench"],
+    ["Rusty Wheel"],
   ],
 
   // open category id=2
