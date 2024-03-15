@@ -52,8 +52,8 @@ const events = [
     //   descriptionDown: "",
     // },
   ],
-
-  // robotics category id=1 $$
+ 
+  // robotics category id=1 $$ fuck these event's discription why these are so big 
   [
     // quqizotics (school event )
     {
@@ -446,6 +446,7 @@ const events = [
       descriptionDown: "",
     },
   ],
+  // ISDF EVNENTS 
   [
     {
       id: 0,
@@ -496,6 +497,7 @@ const events = [
       descriptionDown: "",
     },
   ],
+  // EV EVNTS 
   [
     {
       id: 0,
