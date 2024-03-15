@@ -55,7 +55,7 @@ const events = [
 
   // robotics category id=1 $$
   [
-    // MAZE RUNNER
+    // quqizotics (school event )
     {
       id: 0,
       title: "QUIZOTICS,(SCHOOL EVENT)",
@@ -72,7 +72,7 @@ const events = [
         "<b>GUIDELINES:</b><br>The event is only for the School students.<br>The quiz will be conducted in an offline mode.<br>This is an individual event .<b>Game Play & Rules</b><br>Each question is designed to cover points related to robotics based on its difficulty level.<br>There will be a specific number of questions.<Br>+1 point will be granted for each correct answer.<br>There is no negative point for wrong answers.<br>Participants scoring the maximum score will be announced as the winner.<br>If two  or more contestants have the same score , the one who has less submission time will be the  winner .<br>The decision made by the organizers will be considered as the final decision . ",
       descriptionDown: "",
     },
-    // ROBO-CLENCH
+    // maze runner school event 
     {
       id: 1,
       title: "MAZE -RUNNER (SCHOOL EVENT)",
@@ -89,7 +89,24 @@ const events = [
         "<b>TRACK:</b><br>There will be one START point and one FINISH point in the entire arena.<br>A designated end zone in the arena is marked by the presence of a black box, indicating the conclusion or endpoint.<br>The width of all black stripes will be 2 inches. <br>The black lines in the path form right angles with each other.<br>The track will be released on the day of the event on the spot.<b>CHECKPOINTS:</b><br>The track will be segmented into x sectors: A, B, and C.<br>Every checkpoint is worth 25 points.<b>BOT SPECIFICATION</b><br>The autonomous bot needs to be able to fit inside a box with dimensions of 25 cm by 25 cm by 25 cm.<br>While operating, the autonomous bot must avoid causing any harm or damage to the arena. It is strictly prohibited from leaving any residues or creating marks while navigating through the arena.<br>Use of lego parts and ready-made bots is not allowed.<b>GAMEPLAY</b><br>The competition involves two phases: the 'Dry Run' and the 'Actual Run'.<b>During the Dry Run</b><br>The robot navigates from the 'Start' to the 'End,' using an algorithm to find the optimal path and storing directional information in its memory.<br>There are no restrictions on covering all checkpoints during the Dry Run exploration.<b>During the Actual Run</b><br>In the Actual Run, the robot starts again from the 'Start' and follows the most     efficient path based on the stored information from the Dry Run.<br>The 'End Zone' is marked by a black box, indicating the endpoint.<br>Each checkpoint along the path carries 25 points, with variable locations in the actual arena.<br>Teams have 4 minutes to complete the Dry Run and 3 minutes for the Actual Run.<br>Any excess time taken during the Dry Run beyond 4 minutes is deducted from the 3-minute time limit for the Actual Run, promoting strategic planning and efficient execution.<br>Teams are allowed a limited time for testing before the actual race as determined by the coordinators.<br>Once on the track, a maximum of 8 touches is permitted to reset the bot on the right track, with a penalty of 5 seconds per touch added to the total time.<br>The winner is the team finishing the track in the shortest time; if no team finishes, the prize goes to the team covering the most of the track in the least time with minimum touches.<br>Judges' decisions are final at all times.<b>RULES</b><br>Timely arrival is mandatory,failure to comply results in elimination with an option to rejoin upon payment of a designated fee.<br>The Line Follower Bot must be fully self-contained, without external wire or remote radio control during the race.<br>Any bot damaging the arena will be disqualified, and the organizers have the final say",
       descriptionDown: "",
     },
-    // ROBO SOCCER
+    // ROBO RACE 
+    {
+      id: 1,
+      title: "ROBO RACE ",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 15000/-",
+      firstposition: "INR 7000/-",
+      secondposition: "INR 5000/-",
+      thirdposition: "INR 3000/-",
+      teamsize: "Upto 4 Participants",
+      descriptionUp:
+        " A manually operated robot, whether wired or wireless, must navigate through a track filled with turns and obstacles in the shortest possible time.",
+      paragraph:
+        "<b>TRACKS:</b><br>1. Designate distinct Start and Finish Lines for the race.<br>2. Introduce an unpredictable track surface with variations and irregularities.<br>3. Incorporate obstacles strategically placed along the race track, designed to impede the robot's progress.<br4. Diversify the track elements, including but not limited to steep ramps, bridges, speed breakers, marble pits, slippery paths, rotating discs, curved ramps, seesaws, and more.<b>GAMEPLAY:</b><br>1. The robot commences its course from the starting line synchronized with the timer.<br>2. It is imperative for the robot to adhere to the prescribed track,failure to do so results in a restart from the last checkpoint, with the timer persistently running.<br>3. Penalties are assigned for each bypassed obstacle, contributing to the cumulative time.<br>4. The timer ceases immediately upon the robot successfully crossing the finish line. <br><br><b>CHECKPOINTS:</b><br>The track will be segmented into x sectors: A, B, and C.<br>Every checkpoint is worth 25 points.<br> <b> BOT SPECIFICATION <b> <br> 1. The robot has the flexibility to operate either wired or wirelessly.<br>2. Manual control is a prerequisite for the robot's operation.<br>3. The robot's dimensions must adhere to specific limits:<br>Length: Maximum 300mm<br>Width: Maximum 300mm<br>Height: Maximum 250mm<br>4. The overall weight of the robot should not surpass 5 kilograms.<br>5. Prohibit the use of Lego parts or pre-assembled kits in constructing the robot; it must solely rely on electrical power, and the utilization of IC engines is strictly disallowed.<br>6. The robot can derive its power from a battery affixed to the robot or a stationary power source connected via a cord.<br>7. Strictly forbid the use of batteries exceeding 3s LiPo.<br>8. Participants are required to carry spare batteries to avoid disqualification in case the robot is not prepared or experiences interruptions during the race.<br>9. For wired robots, ensure that the length of the wire is sufficient, and it remains slack throughout the entire race.<br> <br> <b> RULES : </> <br> ",
+      descriptionDown: "",
+    },
+    // ROBO SOCCER 
     {
       id: 2,
       title: "ROBO RACE",
@@ -104,23 +121,6 @@ const events = [
         "A well known and loved sport football has become famous world wide and each one of us playing the game want to became Messi and Ronaldo. We are bringing up the event ROBO SOCCER in which pair of two teams will battle it out and prove their endurance in a nail-biting game of football using their bots as the players . A proper venue will be allotted for the event and with guidance of event head proper rules and their implementation will be carried out . It would be a wonderful experience for the participants as well as for the spectators and thrilling moments will be captured for lifetime.",
       paragraph:
         "<b>GUIDELINES:</b><br>1. This is a 1 on 1 type game.<br>2. The Ball will be of 3-inch size.<br>3. Robots will be placed in different half of the arena with a ball in the center of the arena.<br>4. Each team will try to score a goal by pushing the ball.<br>5. Team with greater number of goals win the match.<br>6. If the ball goes out of the arena it will be placed in the center and the match will resume.<br>7. In case a tie, 3 penalties will be given to each team. Match duration will be announced on the day of the event.<br><b>ROBOT SPECIFICATION>1. The owing size limitations apply for each robot, including whatever kick mechanisms the bot have:<br>Width – 300mm max<br>Length – 300mm max<br>Height – 250mm max<br>2. An error of (± 5%) is permitted.M<br>3. The weight of the robot should not exceed more than 5 kg.<br>4. If the machine is wired then the wire should be of minimum 2 meters during the race . The wires should be properly insulated. Power should not be transmitted in any physical form from the operator to the robot.<br>5. The machine must not be made from Lego parts, or any ready-made assembly kits<br>6. However, participants are allowed to use their own creativity for the kick mechanism.<br>7. The robot can be powered by a source such as a battery fixed on the robot or by a stationary power source connected to the robot by a cord.<br>8. Participants should keep spare batteries, otherwise it may lead to disqualification, if the bot is not ready or stops in between the match.<br>9. The length of the wire (for wired bots) should be long enough to cover the whole arena and wire should remain slack during the complete game.<br><b>ARENA:</b><br>1. The arena is made up of wooden ply of dimensions 7 feet in length and 4 feet in width.<br>2. The arena has a 20 cm wide goal post on either side.<br>3. The arena is bounded from all sides<br><b>RULES:</b><br>1. Each team will have to defend the goal on its side as well as score the goal on the opposite side.<br>2. Each team can have a maximum of 4 team members.<br>3. A team can make either one robot or at max, 2 robots (manually controlled) taking into consideration that the total weight of 1 or 2 robots, the controller and batteries should not exceed 5 kg. (This means that whatever components the participants enter on to the field should not be more than 5 kg.)<br>4. The game will start at the count of 3 given by referee followed by whistle. In case a team starts its robot before the whistle, the game will be restarted and a team making this mistake more than 3 times will be disqualified.<br>5. The ball can be either dragged or pushed by the team.<br>6. A maximum of 2 members per team will be allowed to remain close to field for operating the robots.<br>7. In case of a jam up of robots for more than 15 seconds the robots will have to kick-off again at the order of the referee.<br>8. In case of any discrepancy the final decision rests in the hands of Referee.<br>9. Any act of misbehavior or misconduct will lead to immediate disqualification of the team.<br>10. Team Size: Up to 4 Participant<br> <br>Robots or participants that cause deliberate interference with other robots or damage to the arena will be disqualified.",
-      descriptionDown: "",
-    },
-    // RUSTY WHEELS
-    {
-      id: 3,
-      title: "RUSTY WHEELS",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
-      prizeWorth: "INR 50000/-",
-      firstposition: "INR 30000/-",
-      secondposition: "INR 20000/-",
-      thirdposition: "Goodies",
-      teamsize: "Upto 4 Participants",
-      descriptionUp:
-        "The  event of fun where multiple teams come with their RC car which compete and has to traverse through a track full of turns and obstacles in the minimum possible time. A proper venue will be allotted for the event and with guidance of event head  proper rules and their implementation  will be carried out . It would be a wonderful experience for the participants as well as for the spectators and  thrilling moments will be captured for lifetime.",
-      paragraph:
-        "<b>GUIDELINES:</b><br><b>GAMEPLAY:</b><br>1. The robot will be placed at the start line. <br>2. The robot starts when the timer starts.<br>3. There are penalties for each obstacle skipped. Penalties will be added to the total time.<br>4. Scoring and penalties rules will be announced on the day of the event. <br><b>ROBOT SPECIFICATIONS:</b><br>1. The dimension of the bot should be less than or equal to 300mm X 250mm X 300mm (l x b x h), failing which the team will be disqualified from the competition. <br>2. An error of (± 5%) is permitted. <br>3. The machine must not be made from Lego parts, or any ready-made assembly kits, and it must be powered electrical by, use of IC engine is not allowed. <br>4. The robot can be powered by a power source such as a battery fixed on the robot or by a stationary power source connected to the robot by a cord. <br>5. Potential between any two points on the robot should not exceed 12 V. <br>6. Participants should keep spare batteries, otherwise it may lead to disqualification if bot is not ready or stops in between the race. <br>7. The length of the wire (for wired bots) should be long enough and the wire should remain slack during the complete race. <br><b>RACE TRACK:</b><br>1. There will be only one Start and one Finish line. <br>2. The track surface and course line may have unevenness. <br>3. There will be certain obstacles in the racetrack, which will try to slow down the robot. <br>4. The design and size of the track may vary from that shown in the pictures. <br>5. Track may consist of steep ramps, bridges, speed breakers, marble pit, slippery path, rotating disc, curve ramp down, seesaw etc. <br><b>RULES AND REGULATIONS:</b><br>1. A team can have a maximum of 3 members. <br>2. One team member is elected as the robot handler. <br>3. Only that team member is permitted to control the robot during the game. <br>4.  All other team members must remain outside the game zone. <br>5. Participants who misbehave may be asked to leave the competition area and risk being disqualified from the contest. <br>6.  Robots or participants that cause deliberate interference with other robots or damage to the arena will be disqualified. <br>7. All decisions about scoring, Game Play & timing, and participation, made by the The Organizing Committee is final. <br>",
       descriptionDown: "",
     },
     // DRONE DRAG
@@ -140,6 +140,24 @@ const events = [
         "<b> SCORING </b> <br> People in the competition get points for how fast they finish and how many obstacles they go through. The person with the most points at the end is the winner <br> <b> CHECKPOINTS </b> <br> The challenge for the drone involves going through a path with gates and obstacles. This path is like a course and will be set up in a specific area of the college campus.<br> <b> DRONE SPECIFICATION </b> <br> Participants can use any type of drone for the event, as long as it meets the following requirements:<br>1. The drone should weigh no more than 5kg.<br>2. The drone must be able to move easily in tight spaces and make quick turns.<br> <b> RULES : </b> <br> 1. Keep your drone in sight at all times.<br>2. Avoid flying your drone higher than 40 feet.<br>3. Do not fly your drone over people or buildings.<br>4. Refrain from interfering with other participants' drones.<br>5. Prioritize safety to ensure a smooth and secure event for everyone.<br>Participants could be removed from the event if they don't follow the rules or if their drone causes harm to property or hurts someone. <b> NOTE :- </b> Participants must make sure their drones are operated safely, and they are accountable for any damage their drone may cause. <b> TEAM SIZE :- </b> Up to 4 Participant",
       descriptionDown: "",
     },
+    // RUSTY WHEELS
+    {
+      id: 3,
+      title: "RUSTY WHEELS",
+      date: "Revealed Soon",
+      time: "Revealed Soon",
+      prizeWorth: "INR 50000/-",
+      firstposition: "INR 30000/-",
+      secondposition: "INR 20000/-",
+      thirdposition: "Goodies",
+      teamsize: "Upto 4 Participants",
+      descriptionUp:
+        "The  event of fun where multiple teams come with their RC car which compete and has to traverse through a track full of turns and obstacles in the minimum possible time. A proper venue will be allotted for the event and with guidance of event head  proper rules and their implementation  will be carried out . It would be a wonderful experience for the participants as well as for the spectators and  thrilling moments will be captured for lifetime.",
+      paragraph:
+        "<b>GUIDELINES:</b><br><b>GAMEPLAY:</b><br>1. The robot will be placed at the start line. <br>2. The robot starts when the timer starts.<br>3. There are penalties for each obstacle skipped. Penalties will be added to the total time.<br>4. Scoring and penalties rules will be announced on the day of the event. <br><b>ROBOT SPECIFICATIONS:</b><br>1. The dimension of the bot should be less than or equal to 300mm X 250mm X 300mm (l x b x h), failing which the team will be disqualified from the competition. <br>2. An error of (± 5%) is permitted. <br>3. The machine must not be made from Lego parts, or any ready-made assembly kits, and it must be powered electrical by, use of IC engine is not allowed. <br>4. The robot can be powered by a power source such as a battery fixed on the robot or by a stationary power source connected to the robot by a cord. <br>5. Potential between any two points on the robot should not exceed 12 V. <br>6. Participants should keep spare batteries, otherwise it may lead to disqualification if bot is not ready or stops in between the race. <br>7. The length of the wire (for wired bots) should be long enough and the wire should remain slack during the complete race. <br><b>RACE TRACK:</b><br>1. There will be only one Start and one Finish line. <br>2. The track surface and course line may have unevenness. <br>3. There will be certain obstacles in the racetrack, which will try to slow down the robot. <br>4. The design and size of the track may vary from that shown in the pictures. <br>5. Track may consist of steep ramps, bridges, speed breakers, marble pit, slippery path, rotating disc, curve ramp down, seesaw etc. <br><b>RULES AND REGULATIONS:</b><br>1. A team can have a maximum of 3 members. <br>2. One team member is elected as the robot handler. <br>3. Only that team member is permitted to control the robot during the game. <br>4.  All other team members must remain outside the game zone. <br>5. Participants who misbehave may be asked to leave the competition area and risk being disqualified from the contest. <br>6.  Robots or participants that cause deliberate interference with other robots or damage to the arena will be disqualified. <br>7. All decisions about scoring, Game Play & timing, and participation, made by the The Organizing Committee is final. <br>",
+      descriptionDown: "",
+    },
+    
     {
       id: 1,
       title: "ROBO-CLENCH",
@@ -204,22 +222,7 @@ const events = [
         "<b>GUIDELINES:</b><br><b>GAMEPLAY:</b><br>1. The event will be points based. <br>2. There will be a time limit to complete the course. <br>3. The bot has to begin from the START point. <br>4. The timer will be started. The bot will have to pick up square blocks, climb up the ramps and place the blocks at specified locations to complete the course. <br>5. The team will be awarded points for each task of an obstacle completed successfully. <br>6.  The team can decide to skip a task of an obstacle or the complete obstacle. No points will be awarded for the skipped tasks. If a bot performs a task incorrectly or topples over during the competition, it will have to go back to the previous checkpoint and start over from that checkpoint. The timer will not be stopped in any case. <br><br><b>ROBOT SPECIFICATIONS:</b><br>1.  The dimension of the bot should be less than or equal to 300mm X 200mm X 300mm. (l x b x h), failing which the team will be disqualified from the competition. The bot can however extend its dimension once the run starts. <br>2. An error of (+5%/-5%) is permitted. The bot must be controlled by manually. <br>3.  Teams can use both wired as well as wireless control mechanisms. <br>4. In case of wired bots, the length of wire should be minimum 2 meters so that the wire remains slack at any instant of time. <br>5.  Participants are not supposed to use any readymade Lego components or readymade  gripping mechanism. <br>6. However, the participants are allowed to use readymade gear assemblies. <br>7. Only one person will be allowed to control the bot. <br>8. Failing to meet any of the above specifications will lead to immediate disqualification. <br>9. Robot should fit in a box of dimensions 300mm * 250mm (inclusive of all the extensions of the bot). No Restrictions on Height. Team not fulfilling this criterion will be straight away disqualified. <br>10. The Robot should be controlled by a wireless remote control or the wired one throughout the race. <br>11. The weight of the robot should not exceed more than 3 kg. <br>12. If the machine is wired, then wire should remain slack under all circumstances during the race .The wires should be properly insulated. Power should not be transmitted in any physical form from the operator to the robot. <br><b>RULES AND REGULATIONS:</b><br>1. Only one team member is allowed to handle the bot. No other team member is allowed to enter the arena. <br>2. The bot will be liable for disqualification if it causes any kind of damage to the arena. <br>3.  The bot is not allowed to slide the blocks against the ground, except for fine adjustments in the Deposit Zone. <br>4. Any damage done to the blocks will lead to immediate disqualification. <br>5.   In case of any disputes/discrepancies, the organizer’s decision will be final and • binding. <br>6.  All decisions about scoring, Game Play & timing, and participation, made by the Organizing Committee is final. <br>7.  Teams should completely respect their vote and decisions. <br>",
       descriptionDown: "",
     },
-    {
-      id: 1,
-      title: "ROBO-CLENCH",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
-      prizeWorth: "INR 15000/-",
-      firstposition: "INR 7000/-",
-      secondposition: "INR 5000/-",
-      thirdposition: "INR 3000/-",
-      teamsize: "Upto 4 Participants",
-      descriptionUp:
-        "Nature has a beautiful phenomenon of Diffusion and we need to follow this for diffusing many important things beyond our planet. But the driving force for diffusion is completely destroyed by the zombies. Now all of it depends on few robots that can restore lives by providing the driving force. But are the few robots capable enough? Can they diffuse the things through the barriers in the path? Would they be able to restore back the almighty's driving force? We put you in charge to make this happen!! .Bring  your strong armed boats which will pick the object from one point and keep it at the other in minimum possible time.",
-      paragraph:
-        "<b>GUIDELINES:</b><br><b>GAMEPLAY:</b><br>1. The event will be points based. <br>2. There will be a time limit to complete the course. <br>3. The bot has to begin from the START point. <br>4. The timer will be started. The bot will have to pick up square blocks, climb up the ramps and place the blocks at specified locations to complete the course. <br>5. The team will be awarded points for each task of an obstacle completed successfully. <br>6.  The team can decide to skip a task of an obstacle or the complete obstacle. No points will be awarded for the skipped tasks. If a bot performs a task incorrectly or topples over during the competition, it will have to go back to the previous checkpoint and start over from that checkpoint. The timer will not be stopped in any case. <br><br><b>ROBOT SPECIFICATIONS:</b><br>1.  The dimension of the bot should be less than or equal to 300mm X 200mm X 300mm. (l x b x h), failing which the team will be disqualified from the competition. The bot can however extend its dimension once the run starts. <br>2. An error of (+5%/-5%) is permitted. The bot must be controlled by manually. <br>3.  Teams can use both wired as well as wireless control mechanisms. <br>4. In case of wired bots, the length of wire should be minimum 2 meters so that the wire remains slack at any instant of time. <br>5.  Participants are not supposed to use any readymade Lego components or readymade  gripping mechanism. <br>6. However, the participants are allowed to use readymade gear assemblies. <br>7. Only one person will be allowed to control the bot. <br>8. Failing to meet any of the above specifications will lead to immediate disqualification. <br>9. Robot should fit in a box of dimensions 300mm * 250mm (inclusive of all the extensions of the bot). No Restrictions on Height. Team not fulfilling this criterion will be straight away disqualified. <br>10. The Robot should be controlled by a wireless remote control or the wired one throughout the race. <br>11. The weight of the robot should not exceed more than 3 kg. <br>12. If the machine is wired, then wire should remain slack under all circumstances during the race .The wires should be properly insulated. Power should not be transmitted in any physical form from the operator to the robot. <br><b>RULES AND REGULATIONS:</b><br>1. Only one team member is allowed to handle the bot. No other team member is allowed to enter the arena. <br>2. The bot will be liable for disqualification if it causes any kind of damage to the arena. <br>3.  The bot is not allowed to slide the blocks against the ground, except for fine adjustments in the Deposit Zone. <br>4. Any damage done to the blocks will lead to immediate disqualification. <br>5.   In case of any disputes/discrepancies, the organizer’s decision will be final and • binding. <br>6.  All decisions about scoring, Game Play & timing, and participation, made by the Organizing Committee is final. <br>7.  Teams should completely respect their vote and decisions. <br>",
-      descriptionDown: "",
-    },
+
   ],
 
   // open category id=2
@@ -506,7 +509,7 @@ const events = [
         "",
       descriptionDown: "",
     },
-  ], 
+  ],
   [
     {
       id: 0,
@@ -612,10 +615,10 @@ const event_links = [
   // gaming category id=5
   [["VALORANT"], ["BGMI"]],
   // cyber security events id =  6;
-  [["BYPASS CTF"] , ["CRACKHUNT"]  , ["CYBERSCURITY QUIZ"]] , 
+  [["BYPASS CTF"], ["CRACKHUNT"], ["CYBERSCURITY QUIZ"]],
 
   // ev events id = 7
-  [["ETHON"] ,["DRIVE LINK"] , ["CIRCUITCRAFT"]   , ["CURRENTCLASH"]] 
+  [["ETHON"], ["DRIVE LINK"], ["CIRCUITCRAFT"], ["CURRENTCLASH"]]
 ];
 
 export { events, event_links };
