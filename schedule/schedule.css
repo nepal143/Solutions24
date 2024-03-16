@@ -187,10 +187,10 @@ body {
   display: flex;
   justify-content: space-around;
   margin-top: 10rem;
-  gap: 2rem;
+  /* gap: 2rem; */
   border-bottom: 4px solid #5ca7cc;
   border-radius: 2px;
-  padding-bottom: 5rem;
+  /* padding-bottom: 5rem; */
 }
 
 .dates_time {
@@ -262,7 +262,8 @@ body {
   justify-content: center;
   width: 20rem;
   height: 16rem;
-  background: linear-gradient(45deg, #65cfb4 0%, #5ca8cb 100%);
+  background: linear-gradient(45deg, #345768 0%, #254A52 100%);
+  box-shadow: 0 0 20px #254A52 ;
   border-radius: 4px;
 }
 
@@ -381,8 +382,8 @@ body {
     justify-content: unset;
     overflow-x: scroll;
     border: none;
-    padding-bottom: 2rem;
-    margin-bottom: 0;
+    /* padding-bottom: 2rem; */
+    /* margin-bottom: 0; */
   }
   .schedule_date::-webkit-scrollbar {
     height: 2px;
