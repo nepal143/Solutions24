@@ -278,6 +278,7 @@ body {
   padding: 0 1.2rem 0;
   background-color: #17202a65;
   height: 100%;
+  
 }
 
 .container-footer {
@@ -337,7 +338,11 @@ body {
     width: 20rem;
     height: 20rem;
   }
+  .rect {
+    display: none;
+  }
 }
+
 
 @media (max-width: 700px) {
   .schedule-text {

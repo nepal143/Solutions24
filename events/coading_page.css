@@ -65,6 +65,8 @@ body {
   align-items: center;
   justify-content: center;
   gap: 25px;
+  overflow-x: scroll;
+  overflow-y: hidden;
 }
 
 .event_scroll_img,
