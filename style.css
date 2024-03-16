@@ -417,7 +417,10 @@ body {
 }
 
 .discord-img img {
-  max-width: 100%;
+  max-width: 200px;
+  margin-top: -110px;
+  position: relative;
+
   /* transition: all 0.3s ease-in-out; */
 }
 .inner-element {
@@ -819,8 +822,22 @@ body {
   transform: translateY(-40px);
 }
 
+
 .frame{
   position: absolute;
   height: 50vw;
   width: 100vw;
+}
+.outerdiv {
+  width: 31vh;
+  height: 30vh;
+  background-color: #06325276;
+  border-radius: 30px;
+  opacity: 2;
+  margin-top: 40px;
+  padding: 8px;
+  margin-left: 550px;
+  position: relative;
+  box-shadow: inset rgba(100, 137, 196, 0.5) 0px 0px 40px 0px,
+    rgba(106, 170, 197, 0.3) 0px 30px 100px -24px;
 }
