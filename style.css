@@ -7,6 +7,10 @@
   font-family: "aAtmospheric";
   src: url(/font/aAtmospheric.otf);
 }
+@font-face {
+  font-family: "Nuniton";
+  src: url(/font/NunitoSans-VariableFont_YTLC\,opsz\,wdth\,wght.ttf);
+}
 * {
   padding: 0;
   margin: 0;
@@ -197,10 +201,11 @@ body {
 }
 
 .container {
-  margin: 0 3vw 0;
+  /* margin: 0 3vw 0; */
   padding: 0 1.2rem 0;
   background-color: #17202a65;
   height: 100%;
+  width: 100%;
 }
 
 .container-hero {
@@ -337,10 +342,13 @@ body {
 .about_container {
   padding-top: 5rem;
   padding-bottom: 5rem;
+  
+
 }
 
 .about-us-headding {
   align-items: center;
+  font-family: "Nuniton" ;
 }
 
 .about-us-headding img {
@@ -353,7 +361,7 @@ body {
   margin-right: 2rem;
   margin-top: 2rem;
   margin-left: 10rem;
-  font-family: "strasu", sans-serif;
+  /* font-family: "strasu", sans-serif; */
 }
 
 .about-us-content {
@@ -809,4 +817,10 @@ body {
 .event_grid.visible {
   opacity: 1;
   transform: translateY(-40px);
+}
+
+.frame{
+  position: absolute;
+  height: 50vw;
+  width: 100vw;
 }
