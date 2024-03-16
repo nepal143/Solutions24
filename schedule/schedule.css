@@ -196,27 +196,45 @@ body {
 .dates_time {
   width: 14rem;
   height: 7rem;
-  background-color: #2f545b;
+  /* background-color: #2f545b; */
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   gap: 0.1rem;
-  border-radius: 4px;
+  border-radius: 10% 10% 0 0 ;
+}
+.dates_time .dates { 
+  transform: rotate(-90deg);
+  font-size: 3em;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #5C819D;
+  font-weight: 900;
+}
+.dates_time .time{
+  font-size: 10em;
+  color: #C9F1F0;
+  font-weight: 900;
 }
 
 .dates_time_anchor {
+  padding: 100px ;
   color: #fff;
   text-decoration: none;
   transition: all 0.3s ease-in-out;
+  transition: 0.2s;
 }
 
 .dates_time_anchor:hover,
 .dates_time_anchor:active {
   /* background-color: #65cfb5; */
   
-  background: linear-gradient(#325564, #2f5260);
+  background: linear-gradient(#325564, #2f526028);
   transform: scale(1.1);
+
 }
 
 .dates {
@@ -364,6 +382,7 @@ body {
     overflow-x: scroll;
     border: none;
     padding-bottom: 2rem;
+    margin-bottom: 0;
   }
   .schedule_date::-webkit-scrollbar {
     height: 2px;
