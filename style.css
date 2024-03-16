@@ -829,3 +829,8 @@ body {
     border-radius: 50px;
     box-shadow: 0 0 200px #27374D
 }
+@media screen and (max-width: 600px) {
+  .img-container{
+    padding: 20px;
+  }
+}
