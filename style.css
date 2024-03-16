@@ -824,4 +824,6 @@ body {
   padding: 8px;
   margin-left: 550px;
   position: relative;
+  box-shadow: inset rgba(100, 137, 196, 0.5) 0px 0px 40px 0px,
+    rgba(106, 170, 197, 0.3) 0px 30px 100px -24px;
 }
