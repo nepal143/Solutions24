@@ -529,9 +529,9 @@ const events = [
     },
     {
       id: 2,
-      title: "ETHON",
+      title: "07/04/24",
       date: "Revealed Soon",
-      time: "Revealed Soon",
+      time: " 3:00 PM",
       prizeWorth: "INR 30000/-",
       firstposition: "INR 15000/-",
       secondposition: "INR 10000/-",
