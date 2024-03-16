@@ -548,16 +548,16 @@ body {
 /* ---------FOOTER-------------- */
 
 .container-footer {
-  background-image: url("./images/grid.png");
-
+  /* background-image: url("./images/grid.png"); */
+  background: linear-gradient(180deg, #17202aad 37.86%, rgba(0, 0, 0, 0) 100%);
   background-size: 100% 100%;
   padding-bottom: 4rem;
   width: 100%;
 }
 
 .footer {
-  padding-top: 20rem;
-  padding-bottom: 4rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   justify-items: center;
@@ -829,6 +829,25 @@ body {
     border-radius: 50px;
     box-shadow: 0 0 200px #27374D
 }
+
+/* footer */
+
+.footer{
+  
+  border-radius: 25px;
+  margin: auto;
+  background: rgba(156, 178, 191, 0.11);
+  
+  /* opacity: 20%; */
+}
+
+.img-foot{
+  width: 92%;
+  margin: auto;
+  background-image: url("./images/grid.png");
+  
+}
+
 @media screen and (max-width: 600px) {
   .img-container{
     padding: 20px;
