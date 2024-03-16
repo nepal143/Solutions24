@@ -451,8 +451,8 @@ const events = [
     {
       id: 0,
       title: "ByPass CTF",
-      date: " 06/04/2024",
-      time: "Begins - 12:00PM",
+      date: " 06/04/2024-08/04/2024",
+      time: "Begins - 12:00PM : Ends- 12:00AM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",

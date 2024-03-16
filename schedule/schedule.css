@@ -214,6 +214,7 @@ body {
 .dates_time_anchor:hover,
 .dates_time_anchor:active {
   /* background-color: #65cfb5; */
+  
   background: linear-gradient(#325564, #2f5260);
   transform: scale(1.1);
 }
