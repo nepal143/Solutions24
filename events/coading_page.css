@@ -66,12 +66,27 @@ body {
   justify-content: center;
   gap: 25px;
   overflow-x: scroll;
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
+}
+.event_scroll {
+  height: 78px;
+  justify-content: unset;
+  overflow-x: scroll;
+}
+.event_scroll::-webkit-scrollbar {
+  height: 2px;
+}
+.event_scroll::-webkit-scrollbar-track {
+  background-color: #2f4b4a;
+}
+.event_scroll::-webkit-scrollbar-thumb {
+  background-color: rgba(101, 207, 181, 0.516);
 }
 
 .event_scroll_img,
 .event_scroll_img:visited {
   transition: all 0.3s ease-in-out;
+  -webkit-user-drag: none;
 }
 
 .event_scroll_img:hover,
