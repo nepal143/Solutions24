@@ -5,8 +5,8 @@ const events = [
     {
       id: 0,
       title: "SHORTEST CODE",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: "07/04/2024",
+      time: "3:30PM - 5:30PM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -52,15 +52,15 @@ const events = [
     //   descriptionDown: "",
     // },
   ],
- 
-  // robotics category id=1 $$ fuck these event's discription why these are so big 
+
+  // robotics category id=1 $$ fuck these event's discription why these are so big
   [
     // quqizotics (school event )
     {
       id: 0,
       title: "QUIZOTICS,(SCHOOL EVENT)",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 05/04/2024",
+      time: "10:00 AM - 11:00AM",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
@@ -72,12 +72,12 @@ const events = [
         "<b>GUIDELINES:</b><br>The event is only for the School students.<br>The quiz will be conducted in an offline mode.<br>This is an individual event .<b>Game Play & Rules</b><br>Each question is designed to cover points related to robotics based on its difficulty level.<br>There will be a specific number of questions.<Br>+1 point will be granted for each correct answer.<br>There is no negative point for wrong answers.<br>Participants scoring the maximum score will be announced as the winner.<br>If two  or more contestants have the same score , the one who has less submission time will be the  winner .<br>The decision made by the organizers will be considered as the final decision . ",
       descriptionDown: "",
     },
-    // maze runner school event 
+    // maze runner school event
     {
       id: 1,
       title: "MAZE -RUNNER (SCHOOL EVENT)",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 05/04/2024",
+      time: " 1:00PM - 2:30PM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -89,12 +89,12 @@ const events = [
         "<b>TRACK:</b><br>There will be one START point and one FINISH point in the entire arena.<br>A designated end zone in the arena is marked by the presence of a black box, indicating the conclusion or endpoint.<br>The width of all black stripes will be 2 inches. <br>The black lines in the path form right angles with each other.<br>The track will be released on the day of the event on the spot.<b>CHECKPOINTS:</b><br>The track will be segmented into x sectors: A, B, and C.<br>Every checkpoint is worth 25 points.<b>BOT SPECIFICATION</b><br>The autonomous bot needs to be able to fit inside a box with dimensions of 25 cm by 25 cm by 25 cm.<br>While operating, the autonomous bot must avoid causing any harm or damage to the arena. It is strictly prohibited from leaving any residues or creating marks while navigating through the arena.<br>Use of lego parts and ready-made bots is not allowed.<b>GAMEPLAY</b><br>The competition involves two phases: the 'Dry Run' and the 'Actual Run'.<b>During the Dry Run</b><br>The robot navigates from the 'Start' to the 'End,' using an algorithm to find the optimal path and storing directional information in its memory.<br>There are no restrictions on covering all checkpoints during the Dry Run exploration.<b>During the Actual Run</b><br>In the Actual Run, the robot starts again from the 'Start' and follows the most     efficient path based on the stored information from the Dry Run.<br>The 'End Zone' is marked by a black box, indicating the endpoint.<br>Each checkpoint along the path carries 25 points, with variable locations in the actual arena.<br>Teams have 4 minutes to complete the Dry Run and 3 minutes for the Actual Run.<br>Any excess time taken during the Dry Run beyond 4 minutes is deducted from the 3-minute time limit for the Actual Run, promoting strategic planning and efficient execution.<br>Teams are allowed a limited time for testing before the actual race as determined by the coordinators.<br>Once on the track, a maximum of 8 touches is permitted to reset the bot on the right track, with a penalty of 5 seconds per touch added to the total time.<br>The winner is the team finishing the track in the shortest time; if no team finishes, the prize goes to the team covering the most of the track in the least time with minimum touches.<br>Judges' decisions are final at all times.<b>RULES</b><br>Timely arrival is mandatory,failure to comply results in elimination with an option to rejoin upon payment of a designated fee.<br>The Line Follower Bot must be fully self-contained, without external wire or remote radio control during the race.<br>Any bot damaging the arena will be disqualified, and the organizers have the final say",
       descriptionDown: "",
     },
-    // ROBO RACE 
+    // ROBO RACE
     {
       id: 1,
       title: "ROBO RACE ",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 05/04/2024",
+      time: " 11:30AM - 1:00 PM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -106,10 +106,10 @@ const events = [
         "<b>TRACKS:</b><br>1. Designate distinct Start and Finish Lines for the race.<br>2. Introduce an unpredictable track surface with variations and irregularities.<br>3. Incorporate obstacles strategically placed along the race track, designed to impede the robot's progress.<br4. Diversify the track elements, including but not limited to steep ramps, bridges, speed breakers, marble pits, slippery paths, rotating discs, curved ramps, seesaws, and more.<b>GAMEPLAY:</b><br>1. The robot commences its course from the starting line synchronized with the timer.<br>2. It is imperative for the robot to adhere to the prescribed track,failure to do so results in a restart from the last checkpoint, with the timer persistently running.<br>3. Penalties are assigned for each bypassed obstacle, contributing to the cumulative time.<br>4. The timer ceases immediately upon the robot successfully crossing the finish line. <br><br><b>CHECKPOINTS:</b><br>The track will be segmented into x sectors: A, B, and C.<br>Every checkpoint is worth 25 points.<br> <b> BOT SPECIFICATION <b> <br> 1. The robot has the flexibility to operate either wired or wirelessly.<br>2. Manual control is a prerequisite for the robot's operation.<br>3. The robot's dimensions must adhere to specific limits:<br>Length: Maximum 300mm<br>Width: Maximum 300mm<br>Height: Maximum 250mm<br>4. The overall weight of the robot should not surpass 5 kilograms.<br>5. Prohibit the use of Lego parts or pre-assembled kits in constructing the robot; it must solely rely on electrical power, and the utilization of IC engines is strictly disallowed.<br>6. The robot can derive its power from a battery affixed to the robot or a stationary power source connected via a cord.<br>7. Strictly forbid the use of batteries exceeding 3s LiPo.<br>8. Participants are required to carry spare batteries to avoid disqualification in case the robot is not prepared or experiences interruptions during the race.<br>9. For wired robots, ensure that the length of the wire is sufficient, and it remains slack throughout the entire race.<br> <br> <b> RULES : </> <br> ",
       descriptionDown: "",
     },
-    // ROBO SOCCER 
+    // ROBO SOCCER
     {
       id: 2,
-      title: "ROBO RACE",
+      title: "ROBO SOCCER",
       date: "Revealed Soon",
       time: "Revealed Soon",
       prizeWorth: "INR 15000/-",
@@ -127,8 +127,8 @@ const events = [
     {
       id: 4,
       title: "DRONE DRAG",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 07/04/2024",
+      time: "Begins - 2:00PM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -178,8 +178,8 @@ const events = [
     {
       id: 1,
       title: "ROBO-CLENCH",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 08/04/2024",
+      time: "4:00PM - 5:00PM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -191,12 +191,12 @@ const events = [
         "<b>GUIDELINES:</b><br><b>GAMEPLAY:</b><br> Teams will earn points in this competition, and they must navigate the course within a 6-minute time frame.<br> The robot must kick off its mission from the designated START point once the timer is set in motion.<br> Tasks involve the robot grasping square blocks, ascending ramps, and strategically depositing the blocks for points.<br> Points are awarded for successfully completing each obstacle task, but there are penalties for opting to skip tasks.<br> Teams are allowed to skip just one task or obstacle, but failing to complete the remaining tasks results in elimination.<br> If the robot makes a mistake or topples over, it must backtrack to the previous checkpoint to restart, and the timer keeps running without pause.<br> <br><br><b>ROBOT SPECIFICATIONS:</b><br>1. The robot's dimensions must be within 300mm x 200mm x 300mm, with a permissible error of ±5%. It can extend its dimensions once the race starts. Failure to meet this criterion results in immediate disqualification.<br>2. Control your robot using either a wireless remote or a wired one throughout the entire race.<br>3. Ensure that your robot's weight does not exceed 3 kg.<br>4. For wired robots, maintain a minimum 2-metre slack in the wire at all times during the race. Properly insulate the wires, and no physical transmission of power from the operator to the robot is allowed. Violating these rules will lead to immediate disqualification.<br>5. The robot should fit into a box of dimensions 300mm x 210mm x 300mm, including all extensions. Failure to comply results in instant disqualification.<br>6. Control the robot manually, using either wired or wireless mechanisms.<br>7. Keep the robot's weight under 3 kg.<br>8. For wired robots, ensure the wire remains slack throughout the race, with proper insulation and no physical power transmission from the operator. Failure to meet any of these specifications leads to immediate disqualification.<br><br><b>RULES AND REGULATIONS:</b><br>1. Only one team member is permitted to handle the robot, and no other team members are allowed to enter the arena.<br>2. The robot risks disqualification if it causes any damage to the arena during the competition.<br>3. Sliding blocks against the ground is prohibited, except for fine adjustments in the Deposit Zone.<br>4. Immediate disqualification will occur for any damage done to the blocks.<br>5. All decisions regarding scoring, gameplay, timing, and participation made by the      Organizing Committee are deemed final.<br> <br><b> SCORING </b> <br>  Points earned for completing a task are represented by 'A'.<br> Penalties incurred during the competition are denoted by 'P'.<br> Time taken, converted to seconds, is represented by 'T' and calculated as (360 - Time taken in seconds).<br> The overall points for a team are determined by the formula: TOTAL POINTS = A + T - P.<br>The team with the highest total points will be declared the winner.<br> <b> PENALTY </b> <br>  Any interference involving touching the robot or manipulating its attached wire during an obstacle incurs a penalty of 10 points.<br>Crossing the designated track limits results in a penalty of 10 points for the robot.<br> Opting to skip an obstacle comes with a penalty of 20 points.<br>",
       descriptionDown: "",
     },
-    // RUSTY WHEELS 
+    // RUSTY WHEELS
     {
       id: 1,
       title: "RUSTY WHEELS",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 08/04/2024",
+      time: " 5:30PM - 6:30PM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -250,7 +250,7 @@ const events = [
       id: 3,
       title: "PHOTOGRAPHY",
       date: "04/04/2024",
-      time: "Revealed Soon",
+      time: " Deadline - 11:50PM",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
@@ -267,7 +267,7 @@ const events = [
       id: 4,
       title: "MOVIE MAKING",
       date: "04/04/2024",
-      time: "Revealed Soon",
+      time: " Deadline - 11:50PM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -283,8 +283,8 @@ const events = [
     {
       id: 5,
       title: "SCHOOL MODEL MAKING",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 06/04/2024",
+      time: " 8:00AM - 12:30PM",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
@@ -295,13 +295,13 @@ const events = [
       paragraph:
         "1. There are 2 phases:<br>Preparation Phase<br>Judging Phase<br>2. Participants will be given 2 hours for preparing their model after coming to college.<br>3. Participants will be judged by college faculty and will have to give a presentation to the judges.<br>4. Preparation phase will begin at 8:00 AM and judging phase will begin at 10:00 AM.",
       descriptionDown: "",
-    },  
+    },
     // HOW UNICORN
     {
       id: 6,
       title: "HOW UNICORN",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 07/04/2024",
+      time: "Begins - 3:00PM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7500/-",
       secondposition: "INR 5000/-",
@@ -317,8 +317,8 @@ const events = [
     {
       id: 7,
       title: "SOLID WORKS",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: "06/04/2024",
+      time: "10:30AM-1:00PM",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
@@ -338,8 +338,8 @@ const events = [
     {
       id: 0,
       title: "PROJECT JUPYTER",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 05/04/2024",
+      time: "begins-10:00 AM",
       prizeWorth: "INR 25000/-",
       firstposition: "INR 12000/-",
       secondposition: "INR 8000/-",
@@ -355,8 +355,8 @@ const events = [
     {
       id: 1,
       title: "FLASH 500",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 05/04/2024",
+      time: " Deadline - 11:50PM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
@@ -384,9 +384,9 @@ const events = [
       thirdposition: "INR 3000/-",
       teamsize: " 1",
       descriptionUp:
-        "A 3-d artist can create a world of his own. It’s time to polish your rendering skills by taking up this challenge. Dive into the dynamic world of animation and push the boundaries of creativity in IMAGINATE! Make a 3D scene based on a prompt provided a day before the start of the event.<br>Every frame is an opportunity to dazzle and inspire.<br>An example prompt can be: Creatures collecting raining money from sky.<br>Prompt will be ours, Creativity, Imagination, and all others yours. Get ingenious and flex your skills.<br>Total Prize Pool: 30K+<br>Team Size: Solo<br>Event Duration: 04th April 2024- 08th April 2024 [11:50 pm / 2350 hrs]<br> ",
+        "Reality can be whatever you want  if you're a 3D artist. It's time to polish your rendering skills by taking up this challenge. Participants will be provided with a prompt a day before the start of the event and will have the complete creative freedom to create a 3D scene on any platform.  An example prompt can be : Snowman eating ice cream on a beach  while it rains.<br>It's our prompt, interpreted your way. Get ingenious and flex your skills.",
       paragraph:
-        "br><br><b>GUIDELINES:</b><br>Prompt for the event will be disclosed before the start of the event on our social media handles and participants will be informed through their contact details.<br>Participants will be required to submit the project file of the final submission through google forms. (Will be provided through email)<br>Participants are free to use any platform and available online assets, textures, materials etc.<br>Judging Criteria:<br>The submissions will be judged based on following categories: <br>Originality<br>Concept <br>Creativity<br>Aesthetics<br>The GDXR Club of AIT reserves the right to disqualify participants / submissions, modify constraints as well as extend submission time. In case of any dispute regarding the event or submissions, final decision authority lies in the hands of GDXR club AIT.<br>",
+        "<b>PROMPT:</b><br>Being chased by an Army.<br><br><b>GUIDELINES:</b><br>1. Individual Participation <br>2. The event begins on 16th April 2023.<br>3. Prompt will be released at the start of the event.<br>4. It will be a 5-day event<br>5.  Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc. <br>7. The submission link will be provided through email.<br>8. Participants will be required to submit both project files and render.<br>9. Submissions will close on 21st April at 11:59 PM.<br><br>      <a class='mail_link' href='https://forms.gle/mP1tj9PHEZkT9G5y8'>Click here for submission</a><br> 10. Team Size :1<br>",
       descriptionDown: "",
     },
     // AR-CADE $$
@@ -401,9 +401,9 @@ const events = [
       thirdposition: "INR 3000/-",
       teamsize: " 1",
       descriptionUp:
-        "Step into a world where imagination fuels the spark of technological innovation, crafting a landscape where creativity knows no bounds. Be a part of AR-CADE and showcase your skills by creating an AR app, filter or game that will revolve around a theme, which will be revealed at the start of the event. Let your imagination run wild, where participants breathe life into their creations, birthing artworks that pulse with their own vibrant energy. It will be a one round event and participants are allowed to use any platform they are comfortable with. Necessary updates will be provided through participant’s contact details.<br>Total Prize Pool: 30K+<br>Team Size: Solo<br>Event Duration: 04th April 2024- 08th April 2024 [11:50 pm / 2350 hrs]",
+        "Imagination should be used not to escape reality but to create it. GDXR Club presents to you a platform to showcase your skills by creating an AR app, filter or game that will revolve around a theme , which will be revealed at the start of the event. Participants can go crazy with their imagination and take a step forward in creating an artwork that is alive in itself.",
       paragraph:
-        "<br><b>GUIDELINES:</b><br>Theme for the event will be disclosed before the start of the event on our social media handles and participants will be informed through their contact details.<br>Participants will be required to submit the project file of the final submission through google forms. (Will be provided through email)<br>Participants are free to use any platform and available online assets, textures, materials etc.<br>Judging Criteria:<br>The submissions will be judged based on following categories:<br>Innovative approach<br>Originality<br>Concept<br>Art and Audio creativity scope<br>Scalability<br>The GDXR Club of AIT reserves the right to disqualify participants / submissions, modify constraints as well as extend submission time. In case of any dispute regarding the event or submissions, final decision authority lies in the hands of GDXR club AIT.<br>",
+        "<b>THEME :</b> <br>Science Fiction(SCI-FI)<br><br><b>GUIDELINES:</b><br>1. Individual Participation<br>2.  The event begins on 15th april 2023.<br>3. Theme will be released at the start of the event. <br>4. It will be a 7-day event<br>5. Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc.<br>7. The submission link will be provided through email.<br>8. Submissions will close on 22nd April at 11:50 PM.<br><br>        <a class='mail_link' href='https://forms.gle/4DRwG2znmNr5yLth6'>Click here for submission</a><br> 9. Team Size :1<br>",
       descriptionDown: "",
     },
   ],
@@ -430,9 +430,9 @@ const events = [
     // CLASH ROYAL
     {
       id: 1,
-      title: "BGMI"  , 
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      title: "BGMI",
+      date: "05/04/2024",
+      time: "10:00AM-6:00PM",
       time: "10:00AM to 11:00PM",
       prizeWorth: "INR 25000/-",
       firstposition: "INR 14000/-",
@@ -446,20 +446,19 @@ const events = [
       descriptionDown: "",
     },
   ],
-  // ISDF EVNENTS 
+  // ISDF EVNENTS
   [
     {
       id: 0,
       title: "ByPass CTF",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 06/04/2024",
+      time: "Begins - 12:00PM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
       secondposition: "INR 5000/-",
       thirdposition: "INR 3000/-",
       teamsize: " Individual Participation",
-      descriptionUp:
-        "",
+      descriptionUp: "",
       paragraph:
         "<b>RULES:</b><br>1. CTF will be “Jeopardy” Style. Teams or individuals compete to solve challenges and earn points.<br>2. Challenges: There will be a variety of challenges with varying difficulty levels.<br> 3. Each challenge will have a flag with the format CTF{ }.<br>4. Time limit : CTF event duration will be 36 hours starting from 12pm ,05 April 2024 to 12 am ,07 April 2024.<br> 5. Only registered players can participate in the event.<br> 6. A maximum of 2 players per team.<br> 7. Multiple logins will lead to disqualification.<br> 8. Flag sharing or seeking outside human help will lead to disqualification.<br> 9. Posting of the CTF questions during the event on public forums is prohibited.<br> <br> <b>Judging Criteria:</b> 1. Team with the most points at the end of 36hrs event wins.<br> 2. In case of tie,<br> 3. i.TB1 : time taken to solve challenges will be taken. <br> ii.TB2: total number of first bloods.",
       descriptionDown: "",
@@ -467,8 +466,8 @@ const events = [
     {
       id: 1,
       title: "CRACKHUNT",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 06/04/2024",
+      time: "9:00AM - 12:00PM",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
@@ -483,8 +482,8 @@ const events = [
     {
       id: 2,
       title: "CYBERSECURITY QUIZ",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 07/04/2024",
+      time: " 3:30PM - 4:00PM",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
@@ -492,25 +491,23 @@ const events = [
       teamsize: " Individual Participation",
       descriptionUp:
         "Test your knowledge in a 30-minute online quiz covering various aspects of cybersecurity. Get ready to challenge yourself and learn more about staying safe in the digital world!",
-      paragraph:
-        "",
+      paragraph: "",
       descriptionDown: "",
     },
   ],
-  // EV EVNTS 
+  // EV EVNTS
   [
     {
       id: 0,
       title: "E-THON",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 05/04/2024",
+      time: " 11:00AM onwards",
       prizeWorth: "INR 30000/-",
       firstposition: "INR 15000/-",
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp:
-        "",
+      descriptionUp: "",
       paragraph:
         "<b>RULES:</b><br>1. Ethon is a two-round event, encompassing Ist online round and IInd offline round.<br>2. A mandatory team of 2 people is required for participation.<br>3. Participants will receive five themes (problem statements) for their PPT and must devise and implement their own solutions, condensing their ideas into a maximum of 6 slides.<br>4. In the first round, PPT submissions are to be emailed to the mail id : evclub2019@gmail.com ( by 31st March, 11:59 PM)<br>5. Qualifying teams will be invited for offline PPT presentations.<br> 6. Each presentation is limited to a maximum of 10 minutes.<br> 7. Evaluation criteria include marks for innovation, uniqueness, ease of implementation, and the quality of the presentation.",
       descriptionDown: "",
@@ -518,15 +515,14 @@ const events = [
     {
       id: 1,
       title: "CIRCUITCRAFT",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 07/04/2024",
+      time: "3:00 PM",
       prizeWorth: "INR 30000/-",
       firstposition: "INR 15000/-",
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp:
-        "",
+      descriptionUp: "",
       paragraph:
         "<b>RULES:</b><br>1. This will be an offline event (Solo Participation).<br>2. Participants will be provided with an EV with all the required components.<br>3. They are required to assemble all the components correctly without damaging it.<br>4. At the end, the EV should function properly.<br>5. Participants will work under a timer.<br>6. Marks will be awarded for best timing, correct connections, extra connections like horn and headlight will provide extra marks.",
       descriptionDown: "",
@@ -541,8 +537,7 @@ const events = [
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp:
-        "",
+      descriptionUp: "",
       paragraph:
         "<b>RULES:</b><br>1. This will be an offline event (Solo participation).<br>2. Total time provided: 40 minutes.<br>3. Participants will be provided with 5 circuit problems, describing its output.<br>4. You have to Design the circuit using necessary symbols on the Answer sheet.<br>5. Marks will be awarded for accuracy, clean design, correct component symbols.",
       descriptionDown: "",
@@ -550,20 +545,19 @@ const events = [
     {
       id: 3,
       title: "CURRENTCLASH",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: " 08/04/2024",
+      time: " 10:00AM onwards",
       prizeWorth: "INR 30000/-",
       firstposition: "INR 15000/-",
       secondposition: "INR 10000/-",
       thirdposition: "INR 5000/-",
       teamsize: " Individual Participation",
-      descriptionUp:
-        "",
+      descriptionUp: "",
       paragraph:
         "<b>RULES:</b><br>1. This offline event involves teams of up to 3 people (max) and 2 people (min).<br>2. Half an hour before the event, teams will receive randomly assigned topics related to electric vehicles (EVs) and associated domains.<br>3. Two teams will take the stage simultaneously, each tackling clashing topics (e.g., Li-ion battery vs. Sodium-ion battery).<br>4. Teams have a maximum of 10 minutes to articulate their insights on the assigned topic.<br>5. After both teams present, a 5-minute debate ensues where they explain why their chosen product is superior to the other.<br>6. Judges have the opportunity to ask teams questions.<br>7. Marks will be awarded based on points covered, correctness of details mentioned, and the accuracy of replies during the debate.",
       descriptionDown: "",
     },
-  ]
+  ],
 ];
 //------NO change under this
 const event_links = [
@@ -606,7 +600,7 @@ const event_links = [
   [["BYPASS CTF"], ["CRACKHUNT"], ["CYBERSCURITY QUIZ"]],
 
   // ev events id = 7
-  [["ETHON"], ["DRIVE LINK"], ["CIRCUITCRAFT"], ["CURRENTCLASH"]]
+  [["ETHON"], ["DRIVE LINK"], ["CIRCUITCRAFT"], ["CURRENTCLASH"]],
 ];
 
 export { events, event_links };
