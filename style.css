@@ -409,7 +409,10 @@ body {
 }
 
 .discord-img img {
-  max-width: 100%;
+  max-width: 200px;
+  margin-top: -110px;
+  position: relative;
+
   /* transition: all 0.3s ease-in-out; */
 }
 .inner-element {
@@ -809,4 +812,16 @@ body {
 .event_grid.visible {
   opacity: 1;
   transform: translateY(-40px);
+}
+
+.outerdiv {
+  width: 31vh;
+  height: 30vh;
+  background-color: #06325276;
+  border-radius: 30px;
+  opacity: 2;
+  margin-top: 40px;
+  padding: 8px;
+  margin-left: 550px;
+  position: relative;
 }
