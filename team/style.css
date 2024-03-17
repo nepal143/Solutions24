@@ -39,19 +39,23 @@ body {
 }
 
 .container-footer {
-  background-image: url("../images/grid.png");
+  /* background-image: url("./images/grid.png"); */
+  background: linear-gradient(180deg, #17202aad 37.86%, rgba(0, 0, 0, 0) 100%);
   background-size: 100% 100%;
   padding-bottom: 4rem;
+  width: 100%;
+  padding-top: 3rem;
 }
 
 .footer {
-  padding-top: 20rem;
-  padding-bottom: 4rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   justify-items: center;
   align-items: center;
 }
+
 
 .footer-ele {
   display: flex;
@@ -473,7 +477,7 @@ body {
 .vpn {
   background-image: url("members/Vipin\ Yadav-min.jpg");
 }
-.tiwari {
+.nepal {
   background-image: url("members/nepal.jpeg");
 }
 .nush {
@@ -497,7 +501,7 @@ body {
 .bhakhar {
   background-image: url("members/ronak.jpeg");
 }
-.giriraj {
+.ankit {
   background-image: url("members/Ankit.jpg");
 }
 .bharat-choudhary {
@@ -531,5 +535,28 @@ body {
   .member_card:hover {
     scale: 1;
     cursor: pointer;
+  }
+}
+
+
+.footer{
+  
+  border-radius: 25px;
+  margin: auto;
+  background: rgba(156, 178, 191, 0.11);
+  
+  /* opacity: 20%; */
+}
+
+.img-foot{
+  width: 92%;
+  margin: auto;
+  background-image: url("../images/grid.png");
+  
+}
+
+@media screen and (max-width: 600px) {
+  .img-container{
+    padding: 20px;
   }
 }
