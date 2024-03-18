@@ -465,17 +465,15 @@ body {
 .praveen {
   background-image: url("members/Praveen\ Gangwar.jpg");
 }
-.rishab {
-  background-image: url("members/Rishabh\ Tiwari-min.jpg");
+.Priyanshu{
+  background-image: url("images/vashista.jpg");
 }
-.Madhuri {
-  background-image: url("members/Madhuri\ Deshpande-min.jpg");
+.akshit{
+  background-image: url("members/Akshit.jpg");
 }
-.vishal {
-  background-image: url("members/vishal\ singh-min.jpg");
-}
-.vpn {
-  background-image: url("members/Vipin\ Yadav-min.jpg");
+
+.yashwant{
+  background-image: url("images/Yashwant.jpeg");
 }
 .nepal {
   background-image: url("members/nepal.jpeg");
@@ -486,8 +484,8 @@ body {
 .bist {
   background-image: url("members/Nisha.jpg");
 }
-.jan {
-  background-image: url("members/Jangveer\ Singh.jpg");
+.vishal {
+  background-image: url("images/Vishal.JPG");
 }
 .hah {
   background-image: url("members/Khushi\ Shah-min.jpg");
@@ -508,22 +506,46 @@ body {
   background-image: url("members/bharat\ Choudhary.jpeg");
 }
 .nehra {
-  background-image: url("members/Nirmal\ Nehra\ 2.jpg");
+  background-image: url("images/Nirmal.jpeg");
 }
 .gurjar {
   background-image: url("members/gurjar.jpeg");
 }
-.suraj {
-  background-image: url("members/Suraj\ Singh-min.jpg");
+.vikrant {
+  background-image: url("images/Vikrant.jpeg");
 }
 .neha {
   background-image: url("members/neha\ choudhary.jpg");
 }
-.Yugandhar {
-  background-image: url("members/Yugandhar\ Patil-min.jpg");
+.varsha {
+  background-image: url("images/varsha.jpg");
+}
+.yash{
+  background-image: url("members/yash\ nikam.jpeg") ;
+}
+.manas{
+  background-image: url("images/Manas.jpeg") ;
+}
+.royal{
+  background-image: url("images/Royal.jpeg") ;
+}
+.abrish{
+  background-image: url("images/Abrish.jpeg") ;
+}
+.raj{
+  background-image: url("images/Raj.jpg") ;
+}
+.arvind{
+  background-image: url("images/Arvind.jpeg") ;
+}
+.Aditya{
+  background-image: url("members/Aditya\ Tiwari.jpg") ;
 }
 
-/* ---------- */
+
+
+/* ----
+------ */
 .member_card {
   transition: all 0.3s ease-in-out;
 }
