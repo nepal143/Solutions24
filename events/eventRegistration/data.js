@@ -403,7 +403,7 @@ const events = [
       descriptionUp:
         "Imagination should be used not to escape reality but to create it. GDXR Club presents to you a platform to showcase your skills by creating an AR app, filter or game that will revolve around a theme , which will be revealed at the start of the event. Participants can go crazy with their imagination and take a step forward in creating an artwork that is alive in itself.",
       paragraph:
-        "<b>THEME :</b> <br>Released on 2nd April 2023<br><br><b>GUIDELINES:</b><br>1. Individual Participation<br>2.  The event begins on 15th april 2023.<br>3. Theme will be released at the start of the event. <br>4. It will be a 7-day event<br>5. Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc.<br>7. The submission link will be provided through email.<br>8. Submissions will close on 22nd April at 11:50 PM.<br><br>        <a class='mail_link' href='https://forms.gle/4DRwG2znmNr5yLth6'>Click here for submission</a><br> 9. Team Size :1<br>",
+        "<b>THEME :</b> <br>Released on 2nd April 2023<br><br><b>GUIDELINES:</b><br>1. Individual Participation<br>2.  The event begins on 2nd april 2023.<br>3. Theme will be released at the start of the event. <br>4. It will be a 7-day event<br>5. Participants are free to choose their software/platform<br>6. Participants are allowed to use online assets , textures, materials, etc.<br>7. The submission link will be provided through email.<br>8. Submissions will close on 22nd April at 11:50 PM.<br><br>        <a class='mail_link' href='https://forms.gle/4DRwG2znmNr5yLth6'>Click here for submission</a><br> 9. Team Size :1<br>",
       descriptionDown: "",
     },
   ],
