@@ -393,7 +393,7 @@ const events = [
     {
       id: 1,
       title: "AR-CADE",
-      date: "04/04/2024",
+      date: "02/04/2024",
       time: "Begins- 12:00 AM",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7000/-",
