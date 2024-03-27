@@ -64,10 +64,10 @@ export var google_form_links = [
   // game dev & cyber sec. category id=4 LOVE ❤️
   [
     [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSf_K7Xy6KnIAkdv-vq-w6KezPorXQ8JQHlUnOT0CikjWnJ59g/viewform?usp=sf_link" width="640" height="1096" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
+      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSfgK3EDlVF0x6bkBCxvCgPyuYsR_ZMsvXFcGhW6e6POVXPBtg/viewform?usp=sf_link" width="640" height="1096" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
     [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSfgK3EDlVF0x6bkBCxvCgPyuYsR_ZMsvXFcGhW6e6POVXPBtg/viewform?usp=sf_link" width="640" height="1096" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
+      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSf_K7Xy6KnIAkdv-vq-w6KezPorXQ8JQHlUnOT0CikjWnJ59g/viewform?usp=sf_link" width="640" height="1096" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
   ],
 
