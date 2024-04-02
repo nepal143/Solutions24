@@ -229,8 +229,8 @@ const events = [
     {
       id: 0,
       title: "CSS BATTLE",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
+      date: "7 April",
+      time: "9am-10am",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
       secondposition: "INR 3000/-",
