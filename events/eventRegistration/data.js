@@ -58,13 +58,13 @@ const events = [
     // quqizotics (school event )
     {
       id: 0,
-      title: "QUIZOTICS,(SCHOOL EVENT)",
+      title: "QUIZOTICS (SCHOOL EVENT)",
       date: " 05/04/2024",
       time: "10:00 AM - 11:00AM",
-      prizeWorth: "INR 10000/-",
-      firstposition: "INR 5000/-",
-      secondposition: "INR 3000/-",
-      thirdposition: "INR 2000/-",
+      prizeWorth: "INR 3500/-",
+      firstposition: "INR 2000/-",
+      secondposition: "INR 1500/-",
+
       teamsize: "Upto 4 Participants",
       descriptionUp:
         "  Welcome to the Robotics Quiz – where the world of robots meets fun and learning! This special event is all about exploring cool facts about robots and testing your knowledge in an exciting quiz. Compete for awesome prizes and get ready to have a great time as we dive into the amazing world of technology together!      ",
@@ -78,10 +78,9 @@ const events = [
       title: "MAZE -RUNNER (SCHOOL EVENT)",
       date: " 05/04/2024",
       time: " 1:00PM - 2:30PM",
-      prizeWorth: "INR 15000/-",
-      firstposition: "INR 7000/-",
-      secondposition: "INR 5000/-",
-      thirdposition: "INR 3000/-",
+      prizeWorth: "INR 3500/-",
+      firstposition: "INR 2000/-",
+      secondposition: "INR 1500/-",
       teamsize: "Upto 4 Participants",
       descriptionUp:
         "Develop an autonomous robot for rapid navigation on a course marked by black lines on a white background or white lines on a black background.<br> Prioritize swift progression from the starting line to the finishing line.<br>Implement reliable line detection to ensure the robot consistently follows a specific line throughout the course.<br>Emphasize speed and accuracy, aiming for the shortest completion time while maintaining ownership of the designated line.",
@@ -95,10 +94,9 @@ const events = [
       title: "ROBO RACE ",
       date: " 05/04/2024",
       time: " 11:30AM - 1:00 PM",
-      prizeWorth: "INR 15000/-",
-      firstposition: "INR 7000/-",
-      secondposition: "INR 5000/-",
-      thirdposition: "INR 3000/-",
+      prizeWorth: "INR 3500/-",
+      firstposition: "INR 2000/-",
+      secondposition: "INR 1500/-",
       teamsize: "Upto 4 Participants",
       descriptionUp:
         " A manually operated robot, whether wired or wireless, must navigate through a track filled with turns and obstacles in the shortest possible time.",
@@ -159,20 +157,19 @@ const events = [
     },
     // ROBO WAR
     {
-      id: 1,
-      title: "ROBO WAR",
-      date: "Revealed Soon",
-      time: "Revealed Soon",
-      prizeWorth: "INR 15000/-",
-      firstposition: "INR 7000/-",
-      secondposition: "INR 5000/-",
-      thirdposition: "INR 3000/-",
-      teamsize: "Upto 4 Participants",
-      descriptionUp:
-        " Robo-Combat stands as a prominent combat robotics event centered around the creation and production of robots engineered for the purpose of annihilating adversaries while prioritizing their own safety. Victory is determined by the extent of destruction inflicted upon opponents. In the 15 kg category, robots will engage in fierce battles, showcasing their destructive capabilities to emerge victorious.",
-      paragraph:
-        "<b>GUIDELINES:</b><br><b>ARENA:</b><br>1. Shape and Dimensions:<br>   - The arena is rectangular in shape.<br>   - Dimensions: 18 x 16 x 10 feet.<br>2. Safety Wall:<br>   - The side safety wall is constructed from M.S. (Mild Steel).<br>   - The height of the safety wall is 0.5 meters.<br>3. Height Above Safety Plate:<br>   - Above the safety plate, there is a polycarbonate plate forming a protective barrier.<br>   - The height above the safety plate is enclosed within a cage structure.<br>4. Cage Cover:<br>   - The top of the arena is covered with a cage structure.<br>Note: The provided dimensions and materials are critical components ensuring the safety and integrity of the arena during competitions.<br> <br><br><b>ROBOT SPECIFICATIONS:</b><br>- The robot's weight, including pneumatic/hydraulic components outside the arena, should not exceed 15 kg.<br>- Robots must be wireless.<br>- The robot should fit within a box of dimensions 750mm x 750mm x 1000mm.<br>- External devices for control are not included in size constraints.<br>- Zero ground clearance is permitted if it does not damage the arena.<br>- Robots in the 15 kg category can exhibit the following modes of mobility:<br>  - Rolling (wheels or whole bot).<br>  - Linear actuated legs or cam operated motion or any non-wheeled drive system.<br>  - Jumping or flying with the help of propellers or gas balloons is not allowed<br>- The robot's electrical system must adhere to the following specifications:<br>  - The bot can be powered electrically (DC) by batteries with electrolytes such as Li-ion, Li-Po, NiCad, gel cells, lead-acid, etc.<br>  - The electric voltage between 2 points anywhere in the machine should not exceed 48 V DC at any point in time.<br>  - Batteries should be fully charged before advancing to the match.<br>  - All efforts must be made to safeguard battery terminals from a direct short, as causing a battery fire will result in direct disqualification.<br>  - Internal combustion engines as a source of power are strictly prohibited.<br>  - The use of any inflammable liquid in the bot is not allowed under any circumstances.<br>- Non-inflammable liquid can be used for hydraulic devices.<br>- Maximum pressure in the storage/source tank must not exceed 8 bars.<br>- Provision for pressure checking with an integrated or temporarily fitted pressure gauge.<br>- Hydraulic liquids should be non-corrosive and leak-proof.<br>- Care must be taken to prevent direct fluid streams in case of damage.<br>- Robots in the 15 kg category are allowed to equip various weapons, including cutters, flippers, saws, lifting devices, spinning hammers, spinning drums, etc.<br>- Prohibited weapons or attacking systems include:<br>  - Liquid projectiles and tethered or untethered projectiles.<br>  - Any kind of inflammable liquid.<br>  - Any kind of explosive or intentionally ignited solid or potentially ignitable solid.<br>  - Nets, tape, glue, chains, or any other entanglement device.<br>  - High-power magnets or electromagnets.<br>  - Radio jamming, lasers, tesla coils, or any other high-voltage device.<br>- Spinning weapons are permitted as long as they do not make contact with the arena at any point in time.<br>- It is crucial to ensure that the robot's actions do not cause damage to the arena in any case<br><br><b>RULES AND REGULATIONS:</b><br>1. Any damage inflicted on the arena at any point in time will result in immediate disqualification or penalties.<br>2. A team member is restricted from participating in more than one team.<br>3. It is mandatory to present your college/student ID card at the time of the competition.4. Violation of any of the aforementioned rules will result in teams being barred from participating in the competition.<br>5. Decisions made by judges are deemed final and binding for all participants.<br>6. Misbehavior during the competition will result in disqualification.<br> <b> GAMEPLAY </b> <br> - Prior to each match, robots will undergo rigorous testing for compliance with dimensions and safety standards.<br>- Both bots must be positioned within their respective starting zones before the match begins.<br>- Each match comprises 2 rounds, each lasting 5 minutes. The winner will be determined based on predefined criteria.<br>- No mechanism of the bot is allowed to start before or after the match inside the arena.<br>- Qualifier match winners will be declared based on the points accumulated in the rounds.<br>- In the event of a tie, a rematch lasting 5 minutes will be conducted to determine the ultimate winner.<br>- Teams are permitted a timeout of 2 minutes per round for repairing minor casualties.<br>- Points deductions commence if the timeout exceeds 2 minutes.<br>- In case of a situation arising during the match, if both teams agree, time will be paused, and the bots will return to the starting zone.<br>- If any managerial/technical issues occur, organizers reserve the right to delay the match.<br>",
-      descriptionDown: "",
+      // id: 1,
+      // title: "ROBO WAR",
+      // date: "Revealed Soon",
+      // time: "Revealed Soon",
+      // prizeWorth: "INR 15000/-",
+      // firstposition: "INR 7000/-",
+      // secondposition: "INR 5000/-",
+      // thirdposition: "INR 3000/-",
+      // teamsize: "Upto 4 Participants",
+      // descriptionUp:
+      //   " Robo-Combat stands as a prominent combat robotics event centered around the creation and production of robots engineered for the purpose of annihilating adversaries while prioritizing their own safety. Victory is determined by the extent of destruction inflicted upon opponents. In the 15 kg category, robots will engage in fierce battles, showcasing their destructive capabilities to emerge victorious.",
+      // paragraph:
+      //   descriptionDown: "",
     },
     // ROBO-CLENCH
     {
@@ -283,7 +280,7 @@ const events = [
     {
       id: 5,
       title: "SCHOOL MODEL MAKING",
-      date: " 06/04/2024",
+      date: " 08/04/2024",
       time: " 8:00AM - 12:30PM",
       prizeWorth: "INR 10000/-",
       firstposition: "INR 5000/-",
@@ -299,18 +296,18 @@ const events = [
     // HOW UNICORN
     {
       id: 6,
-      title: "HOW UNICORN",
-      date: " 07/04/2024",
-      time: "Begins - 3:00PM",
+      title: "B PLAN",
+      date: " 04/04/2024",
+      time: "Begins - 00:00AM<br> End - 23:59 PM IST",
       prizeWorth: "INR 15000/-",
       firstposition: "INR 7500/-",
       secondposition: "INR 5000/-",
       thirdposition: "INR 2500/-",
       teamsize: "1-2",
       descriptionUp:
-        "The “How Unicorn'' event is about how you validate your selected startup's valuation that has a huge cash burn and struggling to make profits. Participants have to analyze the fundamentals like marketing strategy, burn rate and cost of acquisition etc of the startup selected by them to find a unique solution and the steps participants will take to make it profitable and justify the current valuation.Team Size : 1-2",
+        "The “B Plan'' event is about how you validate your selected startup's valuation that has a huge cash burn and struggling to make profits. Participants have to analyze the fundamentals like marketing strategy, burn rate and cost of acquisition etc of the startup selected by them to find a unique solution and the steps participants will take to make it profitable and justify the current valuation.Team Size : 1-2",
       paragraph:
-        "<b>EVENT DETAILS:</b><br><br><b>Round 1 (Hybrid):</b><br>1. For AIT Participants, a quiz will be held in Manekshaw Hall on. <br>2. For Non-AIT participants, instructions will be shared on email. <br>3. Top 10 performers will be qualified for the second round. <br> <br> <br><b>Round 2 (Online):</b><br>1. Participants have to select a startup of their wish with a huge cash burn and struggling to make profit  <br>2. Do a complete analysis of that startup and think of unique strategies to justify the current valuation and make it profitable.<br>3. Your Presentation must include:<br>a. Problem Identified<br>b. Strategies you will implement.<br>c. How you will justify the current valuation<br>4. Second round will be held on 23 April 2023<br><br>You can select startups from below or you may select our own.<br> 1. Bharatpe<br>2. Paytm<br>3. Meesho<br>4. Udaan<br>5. Swiggy",
+        "<b>EVENT DETAILS:</b><br><br><b>>Round 1(Online):</b><br>1. Participants have to select a startup of their wish with a huge cash burn and struggling to make profit  <br>2. Do a complete analysis of that startup and think of unique strategies to justify the current valuation and make it profitable.<br>3. Your Presentation must include:<br>a. Problem Identified<br>b. Strategies you will implement.<br>c. How you will justify the current valuation<br><br><br>You can select startups from below or you may select our own.<br> 1. Bharatpe<br>2. Paytm<br>3. Meesho<br>4. Udaan<br>5. Swiggy",
       descriptionDown: "",
     },
     // SOLID WORKS
@@ -566,13 +563,13 @@ const event_links = [
 
   // robotics category id=1
   [
-    ["Quizotics, (School event)"],
-    ["Maze Runner,(School Event)"],
+    ["Quizotics (School event)"],
+    ["Maze Runner (School Event)"],
     ["Robo Race"],
     ["Robo Soccer"],
-    ["Dron Drag"],
+    ["Drone Drag"],
     ["Maze Runner"],
-    ["Robo War"],
+    [],
     ["Robo Clench"],
     ["Rusty Wheel"],
   ],

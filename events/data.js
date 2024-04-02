@@ -8,9 +8,9 @@ const events = [
     ["Maze Runner,(School Event)"],
     ["Robo Race, (School Event)"],
     ["Robo Soccer"],
-    ["Dron Drag"],
+    ["Drone Drag"],
     ["Maze Runner"],
-    ["Robo War"],
+    
     ["Robo Clench"],
     ["Rusty Wheel"],
   ],
