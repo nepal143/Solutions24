@@ -12,7 +12,7 @@ console.log(eventcat);
 cat_img.innerHTML=`<img class="category_img" src="${category_img[eventcat]}" alt="Coading" />`;
 
 for(let i=0;i<data[eventcat].length;i++){
-    let div=`<div class="coading_event" onclick="window.location='../events/eventRegistration/index.html?eventcat=${eventcat}&eventid=${i}'">
+    let div=`<div class="coading_event" onclick="window.location='../Results_page/index.html?eventcat=${eventcat}&eventid=${i}'">
     <span>${data[eventcat][i]}</span>
     </div>`
     container.innerHTML+=div;
