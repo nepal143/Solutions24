@@ -92,54 +92,56 @@ const events = [
       // PLACEMENT APTI
       {
         title: "PLACEMENT APTI",
-        position1: "Abunchar",
-        position2: "Subhomoy Banerjee",
-        position3: "Jyoti Bhansori",
+        position1: "Gagan Sharma",
+        position2: "Naman Singh",
+        position3: "Hitesh",
       },
-      // TECH STORM
+      //CSS Battle
       {
-        title: "TECH STORM",
-        position1: "Ranjit Chauhan",
-        position2: "Varun Tyagi",
-        position3: "Kishore Singh",
+        title: "CSS Battle",
+        position1: "Kanak Kumar Mahala",
+        position2: "Raghunandan Kumar",
+        position3: "Aditya Kumar Thakur",
       },
-      // IDEA PRESENTATION
-      {
-        title: "IDEA PRESENTATION",
-        position1: "InnovateNation",
-        position2: "Synergy",
-        position3: "Mavericks",
-      },
+      
       // PHOTOGRAPHY
       {
         title: "PHOTOGRAPHY",
-        position1: "Suresh",
-        position2: "Anju Yadav",
-        position3: "Harshit Mishra",
+        position1: "Arun Kumar Sahu",
+        position2: "Gurashish",
+        position3: "Maaz S.",
       },
       // MOVIE MAKING
       {
         title: "MOVIE MAKING",
-        position1: "45D Productions",
-        position2: "DESPERATES",
-        position3: "Team 315E",
+        position1: "T. Ravichandra",
+        position2: "Abhishek Kumar",
+        position3: "Dhananjay Karade",
       },
       // SCHOOL MODEL MAKING
       {
         title: "SCHOOL MODEL MAKING",
-        position1: "Kshitij",
-        position2: "Sai Kamble",
-        position3: "Pallavi",
+        position1: "-",
+        position2: "-",
+        position3: "-",
       },
-      // HOW UNICORN
+      // B Plan
       {
-        title: "HOW UNICORN",
-        position1: "Siddhant Didwania",
-        position2: "Himanshu Umrao",
-        position3: "Dhaval Shah",
+        title: "B Plan",
+        position1: "Aarav Patel",
+        position2: "Sunita Rao",
+        position3: "Aditiya Mishra",
       },
+      
       // SOLID WORKS
-    ],
+      {
+        title: "Solid Works",
+        position1: "Badal Pratap IIT Mandi",
+        position2: "Rohan Singh IIT Allahabad",
+        position3: "Ankita Jaiswal NIT Patna",
+      },
+
+    ],
   
     // machine learning category id=3
     [
@@ -196,25 +198,25 @@ const events = [
     ],
      //isdf  id=6
      [
-      // VALORANT **
+      // bypass ctf winners **
       {
-        title: "VALORANT",
-        position1: "Team March",
-        position2: "Ahh_Yeah!!",
-        position3: "RR Guys",
+        title: "Bypass CTF ",
+        position1: "Team K1RA",
+        position2: "Team neerajKai",
+        position3: "Team World Wide Flags",
       },
-      // BGMI
+      // crackhunt winners
       {
-        title: "BGMI",
-        position1: "1 elvish Bhai",
-        position2: "2 Team disaster",
-        position3: "3 M4xESPORTS",
+        title: "Crackhunt Winners",
+        position1: "Lokendra Kushwah",
+        position2: "Hemant singh",
+        position3: "PRANAV",
       },
       {
-        title: "VALORANT",
-        position1: "Team March",
-        position2: "Ahh_Yeah!!",
-        position3: "RR Guys",
+        title: "Quiz",
+        position1: "Milan Pal",
+        position2: "Piyush Kumar",
+        position3: "Gourav Kumar", 
       },
       {
         title: "VALORANT",
@@ -227,30 +229,30 @@ const events = [
     [
       //EV 
       {
-        title: "VALORANT",
-        position1: "Team March",
-        position2: "Ahh_Yeah!!",
-        position3: "RR Guys",
+        title: "E thon",
+        position1: "Deepanshu",
+        position2: "Sameer",
+        position3: "Ritik Nehra",
       },
       // BGMI
       {
-        title: "BGMI",
-        position1: "1 elvish Bhai",
-        position2: "2 Team disaster",
-        position3: "3 M4xESPORTS",
+        title: "Circuit Craft",
+        position1: "Abhishek Yadav",
+        position2: "Gajendra singh",
+        position3: "ankur singh kuntal",
       },
       {
-        title: "VALORANT",
-        position1: "Team March",
-        position2: "Ahh_Yeah!!",
-        position3: "RR Guys",
+        title: "Current clash",
+        position1: "Sachin Chauhan",
+        position2: "Sahil",
+        position3: "Aditya Tiwari",
       },
       // BGMI
       {
-        title: "BGMI",
-        position1: "1 elvish Bhai",
-        position2: "2 Team disaster",
-        position3: "3 M4xESPORTS",
+        title: "Drive Link",
+        position1: "Kunal singh",
+        position2: "Abhilash",
+        position3: "Shivam",
       }, {
         title: "VALORANT",
         position1: "Team March",
