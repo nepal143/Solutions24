@@ -24,7 +24,7 @@ const events = [
     [
       // Quizotics
       {
-        title: "ROBO SOCCER",
+        title: "quizotics",
         position1: "Shrushti",
         position2: "Sanah",
         position3: "Viren",
@@ -39,7 +39,7 @@ const events = [
       },
       // Robo Race, (School Event)
       {
-        title: "ROBO SOCCER",
+        title: "ROBO RACE",
         position1: "Kushal",
         position2: "kishka",
         position3: "Rahul",
@@ -68,13 +68,7 @@ const events = [
         position3: "Team Beta",
       },
     
-      // ROBO SOCCER
-      {
-        title: "ROBO SOCCER",
-        position1: "Swapnil garud",
-        position2: "Chetan thakre",
-        position3: "Team om",
-      },
+ 
      
       
       // robo clench
@@ -287,7 +281,7 @@ const events = [
     ["Maze Runner"],
     
     ["Robo Clench"],
-    ["Rusty Wheel"],
+    ["DRONE SIMULATION"],
   ],
 
   // open category id=2
