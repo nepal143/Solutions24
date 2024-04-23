@@ -20,60 +20,70 @@ const events = [
       
     ],
   
-    // robotics category id=1 $$
+    // // robotics category id=1 $$
     [
+      // Quizotics
+      {
+        title: "quizotics",
+        position1: "Shrushti",
+        position2: "Sanah",
+        position3: "Viren",
+
+      },
+      // Maze Runner,
+      {
+        title: "MAze runner",
+        position1: "kushal",
+        position2: ".Rohit",
+        position3: "kishka",
+      },
+      // Robo Race, (School Event)
+      {
+        title: "ROBO RACE",
+        position1: "Kushal",
+        position2: "kishka",
+        position3: "Rahul",
+
+      },
+       // ROBO SOCCER
+       {
+        title: "ROBO SOCCER",
+        position1: "Swapnil garud",
+        position2: "Chetan thakre",
+        position3: "Team om",
+      },
+      // drone drag
+      {
+        title: "DRONE DRAG",
+        position1: "Mihir fulari",
+        position2: "Ankush Asekar",
+        position3: "Team Anantam",
+      },
+
       // MAZE RUNNER
       {
         title: "MAZE RUNNER",
-        position1: "Team Mahawat",
-        position2: "Team Pentagon",
-        position3: "Team Panda",
+        position1: "Team Alpha",
+        position2: "Team Vmaze",
+        position3: "Team Beta",
       },
-      // ROBO-CLENCH
-      {
+    
+ 
+     
+      
+      // robo clench
+       {
         title: "ROBO-CLENCH",
-        position1: "Team Stark",
-        position2: "Team Mavrick",
-        position3: "Team Mahawat",
+        position1: "Vishal Ghule",
+        position2: "Aditya bhalerao",
+        position3: "Ritesh pol",
       },
-      // ROBO SOCCER
-      {
-        title: "ROBO SOCCER",
-        position1: "Team Jaguar<br>(Aniket)",
-        position2: "Team Jaguar<br>(Prasad)",
-        position3: "Team Jaguar<br>(Aniket Salunkhe)",
-      },
-      // RUSTY WHEELS
-      {
-        title: "RUSTY WHEELS",
-        position1: "Maze Car Racing",
-        position2: "Eric RC Hobbies",
-        position3: "NA", 
-      },
-      // DRONE DRAG
-      {
-        title: "DRONE DRAG",
-        position1: "Eric RC Hobbies",
-        position2: "Phoenix",
-        position3: "Team Anantam",
-      },
-      {
-        title: "DRONE DRAG",
-        position1: "Eric RC Hobbies",
-        position2: "Phoenix",
-        position3: "Team Anantam",
-      },
-      {
-        title: "DRONE DRAG",
-        position1: "Eric RC Hobbies",
-        position2: "Phoenix",
-        position3: "Team Anantam",
-      },
-      {
-        title: "DRONE DRAG",
-        position1: "Eric RC Hobbies",
-        position2: "Phoenix",
-        position3: "Team Anantam",
+       // RUSTY WHEELS
+       {
+        title: "Drone simulation",
+        position1: "Rohit Singh",
+        position2: "Rohit parihar",
+        position3: "Ritek Raj", 
       },
     ],
   
@@ -184,7 +194,7 @@ const events = [
         position3: "3 M4xESPORTS",
       },
     ],
-     // gaming category id=5
+     //isdf  id=6
      [
       // VALORANT **
       {
@@ -213,6 +223,7 @@ const events = [
         position3: "RR Guys",
       },
     ],
+    // EV ID = 7 
     [
       //EV 
       {
@@ -270,7 +281,7 @@ const events = [
     ["Maze Runner"],
     
     ["Robo Clench"],
-    ["Rusty Wheel"],
+    ["DRONE SIMULATION"],
   ],
 
   // open category id=2
