@@ -136,16 +136,16 @@ const events = [
       // PROJECT JUPYTER *
       {
         title: "PROJECT JUPYTER",
-        position1: "S B Abrish Aaditya",
-        position2: "Ishan Bhardwaj",
-        position3: "Vivek Kumar",
+        position1: "Ishan Bhardwaj",
+        position2: "Gadekar Harikesh Nagnath",
+        position3: "ASHWANI KUMAR",
       },
       // FLASH 500
       {
         title: "FLASH 500",
-        position1: "Shubhojit Ghosh",
-        position2: "Anamica Kumari",
-        position3: "Nitin Joshi",
+        position1: "Ishan Bhardwaj",
+        position2: "R P Kashinath",
+        position3: "ASHWANI KUMAR",
       },
     ],
   
@@ -154,16 +154,16 @@ const events = [
       // IMAGINATE
       {
         title: "IMAGINATE",
-        position1: "Aditya Patel",
-        position2: "Aryan Gupta",
-        position3: "Hemant",
+        position1: "M. Sumit",
+        position2: "Neeraj Deepak Nawale",
+        position3: "Pankaj Rai",
       },
       // AR-CADE $$
       {
         title: "AR-CADE",
-        position1: "Aryan Gupta",
-        position2: "Piyush Raj",
-        position3: "Srijan Juyal",
+        position1: "Bishnu Shahi",
+        position2: "Narjis Bint Islam",
+        position3: "Royal Hussain",
       },
     ],
   
