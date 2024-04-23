@@ -1,9 +1,7 @@
 export var google_form_links = [
   // coding category id=0
   [
-    [
-      '<iframe src="https://forms.gle/9gMrNNkkgFtRHFnVA" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
-    ],
+    [],
     [
       '<iframe class="form" style="display:none" src="https://forms.gle/YzpLX6mHRusFAz727" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
@@ -43,7 +41,7 @@ export var google_form_links = [
       "https://docs.google.com/forms/d/e/1FAIpQLSd8pSjkaes5RQYBGxroJmZSMN8NsTm0lhIf3gsmAlLCAtgVXw/viewform?usp=sf_link",
     ],
   ],
-  // THESE LINKS DOESN'T MATTER (FOR ROBOTICS) lol 😂😂😂 ALSO KNOWN AS RAJASTHANI CLUB 
+  // THESE LINKS DOESN'T MATTER (FOR ROBOTICS) lol 😂😂😂 ALSO KNOWN AS RAJASTHANI CLUB
 
   // open category id=2
   [
@@ -64,14 +62,15 @@ export var google_form_links = [
   // game dev & cyber sec. category id=4 LOVE ❤️
   [
     [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSfgK3EDlVF0x6bkBCxvCgPyuYsR_ZMsvXFcGhW6e6POVXPBtg/viewform?usp=sf_link" width="640" height="1096" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
+      '<iframe class="form" style="display:none" src="https://forms.gle/HN2qVmSgs6wnc1ty6" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
+
     [
-      '<iframe class="form" style="display:none" src="https://docs.google.com/forms/d/e/1FAIpQLSf_K7Xy6KnIAkdv-vq-w6KezPorXQ8JQHlUnOT0CikjWnJ59g/viewform?usp=sf_link" width="640" height="1096" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
+      '<iframe class="form" style="display:none" src="https://forms.gle/fuwRCpb7CXvJU5h99" width="640" height="1245" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>',
     ],
   ],
 
-  // gaming category id=5 YASHWANT KE DO TATE VALO AUR BGMI 
+  // gaming category id=5 YASHWANT KE DO TATE VALO AUR BGMI
   [
     ["https://forms.gle/V1V8vTkBrUtQUFt98"],
     [" https://forms.gle/iNZybLBertymWEYAA"],
@@ -79,12 +78,11 @@ export var google_form_links = [
 
   // idf id =6
   [
-    
     ["https://forms.gle/B3Jvn2CbhvxbXf6R8"],
     ["https://forms.gle/B3Jvn2CbhvxbXf6R8"],
     ["https://forms.gle/B3Jvn2CbhvxbXf6R8"],
   ],
-  //EV  id=7 IN KE T-SHIT AAJ TAK NEHI MILI MUJE 
+  //EV  id=7 IN KE T-SHIT AAJ TAK NEHI MILI MUJE
   [
     [
       "https://docs.google.com/forms/d/e/1FAIpQLSfQXjPhagfx9_QuLPF9zaPPm2YVMKuRruChE1v9RBjGcTY0Nw/viewform?usp=sf_link",
