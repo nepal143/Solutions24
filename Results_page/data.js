@@ -20,16 +20,7 @@ const events = [
       
     ],
   
-    // robotics category id=1 $$
-    ["Quizotics, (School event)"],
-    ["Maze Runner,(School Event)"],
-    ["Robo Race, (School Event)"],
-    ["Robo Soccer"],
-    ["Drone Drag"],
-    ["Maze Runner"],
-    
-    ["Robo Clench"],
-    ["Rusty Whee"],
+    // // robotics category id=1 $$
     [
       // Quizotics
       {
