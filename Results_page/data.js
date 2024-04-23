@@ -4,25 +4,19 @@ const events = [
       // shortest code
       {
         title: "Shortest Code",
-        position1: "Vinay",
-        position2: "Rohit Kumar",
-        position3: "Pradeep Singh Shekhawat",
+        position1: "PRADEEP SINGH SHEKHAWAT",
+        position2: "Satya Narayan",
+        position3: "AMAN RAMESH RAUT",
         
       },
       // she code
       {
         title: "She Code",
-        position1: "Kanaparthi Geethika",
-        position2: "Ishika Saini",
-        position3: "Swati Raj",
+        position1: "Tanu Kohli",
+        position2: "Ritika Singh",
+        position3: "Nidhi Kumari",
       },
       // ByPass CTF *
-      {
-        title: "ByPass CTF",
-        position1: "Sassy",
-        position2: "un1c0de",
-        position3: "Tilak",
-      },
       
     ],
   
@@ -57,6 +51,24 @@ const events = [
         position3: "NA", 
       },
       // DRONE DRAG
+      {
+        title: "DRONE DRAG",
+        position1: "Eric RC Hobbies",
+        position2: "Phoenix",
+        position3: "Team Anantam",
+      },
+      {
+        title: "DRONE DRAG",
+        position1: "Eric RC Hobbies",
+        position2: "Phoenix",
+        position3: "Team Anantam",
+      },
+      {
+        title: "DRONE DRAG",
+        position1: "Eric RC Hobbies",
+        position2: "Phoenix",
+        position3: "Team Anantam",
+      },
       {
         title: "DRONE DRAG",
         position1: "Eric RC Hobbies",
@@ -117,12 +129,6 @@ const events = [
         position3: "Dhaval Shah",
       },
       // SOLID WORKS
-      {
-        title: "SOLID WORKS",
-        position1: "Sagar",
-        position2: "Davender Kumar",
-        position3: "Deepak Luhach",
-      },
     ],
   
     // machine learning category id=3
@@ -166,54 +172,132 @@ const events = [
       // VALORANT **
       {
         title: "VALORANT",
-        position1: "Direct Ghar Pe",
-        position2: "Walrus eSports",
-        position3: "Kal Aana",
+        position1: "Team March",
+        position2: "Ahh_Yeah!!",
+        position3: "RR Guys",
       },
-      // CLASH ROYAL
+      // BGMI
       {
-        title: "CLASH ROYAL",
-        position1: "Dracurus",
-        position2: "Lin Dan",
-        position3: "Goddfather",
+        title: "BGMI",
+        position1: "1 elvish Bhai",
+        position2: "2 Team disaster",
+        position3: "3 M4xESPORTS",
       },
     ],
+     // gaming category id=5
+     [
+      // VALORANT **
+      {
+        title: "VALORANT",
+        position1: "Team March",
+        position2: "Ahh_Yeah!!",
+        position3: "RR Guys",
+      },
+      // BGMI
+      {
+        title: "BGMI",
+        position1: "1 elvish Bhai",
+        position2: "2 Team disaster",
+        position3: "3 M4xESPORTS",
+      },
+      {
+        title: "VALORANT",
+        position1: "Team March",
+        position2: "Ahh_Yeah!!",
+        position3: "RR Guys",
+      },
+      {
+        title: "VALORANT",
+        position1: "Team March",
+        position2: "Ahh_Yeah!!",
+        position3: "RR Guys",
+      },
+    ],
+    [
+      //EV 
+      {
+        title: "VALORANT",
+        position1: "Team March",
+        position2: "Ahh_Yeah!!",
+        position3: "RR Guys",
+      },
+      // BGMI
+      {
+        title: "BGMI",
+        position1: "1 elvish Bhai",
+        position2: "2 Team disaster",
+        position3: "3 M4xESPORTS",
+      },
+      {
+        title: "VALORANT",
+        position1: "Team March",
+        position2: "Ahh_Yeah!!",
+        position3: "RR Guys",
+      },
+      // BGMI
+      {
+        title: "BGMI",
+        position1: "1 elvish Bhai",
+        position2: "2 Team disaster",
+        position3: "3 M4xESPORTS",
+      }, {
+        title: "VALORANT",
+        position1: "Team March",
+        position2: "Ahh_Yeah!!",
+        position3: "RR Guys",
+      },
+      // BGMI
+      {
+        title: "BGMI",
+        position1: "1 elvish Bhai",
+        position2: "2 Team disaster",
+        position3: "3 M4xESPORTS",
+      },
+    ]
   ];
   //------NO change under this
   const event_links = [
-    // coding category id=0
-    [["SHORTEST CODE"], ["SHE CODE"], ["ByPASS CTF"]],
-  
-    // robotics category id=1
-    [
-      ["MAZE RUNNER"],
-      ["ROBO CLENCH"],
-      ["ROBO SOCCER"],
-      ["RUSTY WHEELS"],
-      ["DRONE DRAG"],
-    ],
-  
-    // open category id=2
-    [
-      ["PLACEMENT APTI"],
-      ["TECH STORM"],
-      ["IDEA PRESENTATION"],
-      ["PHOTOGRAPHY"],
-      ["MOVIE MAKING"],
-      ["SCHOOL MODEL MAKING"],
-      ["HOW UNICORN"],
-      ["SOLID WORKS"],
-    ],
-  
-    // machine learning category id=3
-    [["PROJECT JUPYTER"], ["FLASH 500"]],
-  
-    // game dev & cyber sec. category id=4
-    [["IMAGINATE"], ["AR-CADE"]],
-  
-    // gaming category id=5
-    [["VALORANT"], ["CLASH ROYALE"]],
-  ];
+  // coding category id=0
+  [["SHORTEST<br>CODE"], ["SHE CODE"]],
+
+  // robotics category id=1
+  [
+    ["Quizotics, (School event)"],
+    ["Maze Runner,(School Event)"],
+    ["Robo Race, (School Event)"],
+    ["Robo Soccer"],
+    ["Drone Drag"],
+    ["Maze Runner"],
+    
+    ["Robo Clench"],
+    ["Rusty Wheel"],
+  ],
+
+  // open category id=2
+  [
+    ["PLACEMENT APTI"],
+    ["CSS BATTLE"],
+    ["PHOTOGRAPHY"],
+    ["MOVE MAKING"],
+    ["SCHOOL MODEL MAKING"],
+    ["B PLAN"],
+    ["SOLID WORKS"],
+  ],
+
+  // machine learning category id=3
+  [["PROJECT JUPYTER"], ["FLASH 500"]],
+
+  // game dev & cyber sec. category id=4
+  [["IMAGINATE"], ["AR-CADE"]],
+
+  // gaming category id=5
+  [["VALORANT"], ["BGMI"]],
+
+  // isdf id = 6   ""
+  [["BYPASS CTF"], ["CRACKHUNT"], ["CYBERSCURITY QUIZ"]],
+  // EV EVENTS ID = 7
+  [["ETHON"], ["DRIVE LINK"], ["CIRCUITCRAFT"], ["CURRENTCLASH"]],
+];
   
   export { events, event_links };
   
