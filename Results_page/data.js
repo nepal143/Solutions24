@@ -200,7 +200,7 @@ const events = [
         position3: "3 M4xESPORTS",
       },
     ],
-     // gaming category id=5
+     //isdf  id=6
      [
       // VALORANT **
       {
@@ -229,6 +229,7 @@ const events = [
         position3: "RR Guys",
       },
     ],
+    // EV ID = 7 
     [
       //EV 
       {
