@@ -92,9 +92,9 @@ const events = [
       // PLACEMENT APTI
       {
         title: "PLACEMENT APTI",
-        position1: "Gagan Sharma",
-        position2: "Naman Singh",
-        position3: "Hitesh",
+        position1: "SUMAN",
+        position2: "NAMAN SINGH",
+        position3: "HITESH YADAV",
       },
       //CSS Battle
       {
