@@ -5,7 +5,7 @@ const events = [
       {
         title: "Shortest Code",
         position1: "PRADEEP SINGH SHEKHAWAT",
-        position2: "Satya Narayan",
+        position2: "SAJAL SINGHAL",
         position3: "AMAN RAMESH RAUT",
         
       },
